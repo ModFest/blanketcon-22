@@ -187,7 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/now-playing.toml"
-hash = "dcba46f2fbd7b66c1d88d944541dbb72f94e656f8e0927699970532c38de9b90"
+hash = "5d5f725b345ce3455af6b0810003290530f2d5c49199c2006304caced66b9349"
+metafile = true
+
+[[files]]
+file = "mods/nucleoid-creator-tools.toml"
+hash = "171b35650127f35c10969daa5f6cf86c51e374d575a80d5778afeda0149bc360"
 metafile = true
 
 [[files]]
@@ -206,11 +211,6 @@ hash = "34cca56b30b08981fd6a39767a63f6577d96f1444f1ef485c7d6aea862c49d0c"
 metafile = true
 
 [[files]]
-file = "mods/pastelwonderland.toml"
-hash = "56b0a87e63568c4b7eb792b86dd1ed9c55e972d53d6fcffbab147378d7e7cf7a"
-metafile = true
-
-[[files]]
 file = "mods/pettable-bees-fabric.toml"
 hash = "93b4e63304a6527e5d0fd6318bfbd90a416d9385ffb60a42e8be4fe208dddf0a"
 metafile = true
@@ -223,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/plasmid.toml"
+hash = "1eb3df90b9e54cf970d9691c7a90203c226c8151292e20ea2347ca5a16683052"
 metafile = true
 
 [[files]]
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/witherite-plus.toml"
 hash = "c13bcc6f7a38470b97f35eb8d7be0196cc3e4e9a7130272a58d1d8c50999edde"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "e26b82bdb9bf431309361c50d5b515bb59c77202dfca04d5b0ca11098ab3c881"
 metafile = true
 
 [[files]]

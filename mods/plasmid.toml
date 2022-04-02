@@ -1,0 +1,8 @@
+name = "Plasmid"
+filename = "plasmid-0.5+1.18.2-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/958513632419938394/959914160840388638/plasmid-0.51.18.2-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "9aa77bad02f48e19d6e842b84154b229bce6b2ca"

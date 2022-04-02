@@ -1,8 +1,0 @@
-name = "PastelWonderland"
-filename = "pastelwonderland-0.1.0-alpha1-rev.09bb3ea.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/958513632419938394/959845496216760431/pastelwonderland-0.1.0-alpha1-rev.09bb3ea.jar"
-hash-format = "sha1"
-hash = "c0798e2dba3c153520a77e09e18a872ed515e20e"
