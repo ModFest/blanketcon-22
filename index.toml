@@ -241,11 +241,6 @@ hash = "70eb5860823debb9e1377947e0e7525237bae515fb0510d38edb00b49181e80a"
 metafile = true
 
 [[files]]
-file = "mods/polymc.toml"
-hash = "0e415fbcf33b4c620564d7835c2e24f5156ec41331dd8d67fd0454336bcced31"
-metafile = true
-
-[[files]]
 file = "mods/promenade.toml"
 hash = "9bde19c8fecdec064e38150a219cb9384fe3a468ee522966dc9ccc61cf92d032"
 metafile = true
