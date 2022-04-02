@@ -1,0 +1,13 @@
+name = "Archon"
+filename = "archon-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3694/984/archon-0.2.2.jar"
+hash-format = "sha1"
+hash = "622262cd67646bbb7085d9e0df872aff330d0d20"
+
+[update]
+[update.curseforge]
+file-id = 3694984
+project-id = 575339

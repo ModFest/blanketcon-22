@@ -1,0 +1,8 @@
+name = "ICBM4Fabric"
+filename = "icbm4fabric-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/958513632419938394/959845496044798022/icbm4fabric-1.0-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "8318ae85216bde22abc1494a85c79744f6f11ace"

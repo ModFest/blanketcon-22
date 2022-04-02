@@ -1,0 +1,13 @@
+name = "CC: Restitched"
+filename = "cc-restitched-1.100.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3723/736/cc-restitched-1.100.5.jar"
+hash-format = "sha1"
+hash = "8a5fc918a5dc0852a66a87aa09b157aefc03b276"
+
+[update]
+[update.curseforge]
+file-id = 3723736
+project-id = 462672

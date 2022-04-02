@@ -1,0 +1,13 @@
+name = "End Goblin Traders (Fabric)"
+filename = "end-goblin-traders-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3682/602/end-goblin-traders-1.4.4.jar"
+hash-format = "sha1"
+hash = "3f651d1fe7cf4a42089b46f6c87c623145432a91"
+
+[update]
+[update.curseforge]
+file-id = 3682602
+project-id = 537653

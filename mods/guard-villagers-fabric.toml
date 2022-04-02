@@ -1,0 +1,13 @@
+name = "Guard Villagers (Fabric)"
+filename = "guard-villagers-fabric-1.18.1-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3723/745/guard-villagers-fabric-1.18.1-1.0.11.jar"
+hash-format = "sha1"
+hash = "00e7cd0a1fa36c3c719e907f3f68d93cb87549d9"
+
+[update]
+[update.curseforge]
+file-id = 3723745
+project-id = 571503

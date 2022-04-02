@@ -1,0 +1,8 @@
+name = "Fabric API"
+filename = "fabric-api-qsl-0.48.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/958513632419938394/959848481223241868/fabric-api-qsl-0.48.01.18.2.jar"
+hash-format = "sha1"
+hash = "b68695a2e14ef873a30af7c4f3af6719852cbd27"

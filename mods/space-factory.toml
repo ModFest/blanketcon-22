@@ -1,0 +1,8 @@
+name = "Space Factory"
+filename = "space-factory-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/958513632419938394/959845496439054396/space-factory-1.0.0.jar"
+hash-format = "sha1"
+hash = "94a53bcdf0e06702b8d4ea402c46b8c0ad093a1e"

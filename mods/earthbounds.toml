@@ -1,0 +1,13 @@
+name = "Earthbounds"
+filename = "earthbounds-1.0.5c.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3707/78/earthbounds-1.0.5c.jar"
+hash-format = "sha1"
+hash = "7a430b09cb9ff05a0ee09592121bbba4319c1595"
+
+[update]
+[update.curseforge]
+file-id = 3707078
+project-id = 574411

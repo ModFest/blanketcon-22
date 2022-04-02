@@ -1,0 +1,8 @@
+name = "Now Playing"
+filename = "now-playing-fabric-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/958513632419938394/959839030269333534/now-playing-fabric-1.4.0.jar"
+hash-format = "sha1"
+hash = "7d9441dde0ed0daa4b7a0563bd846b383df72210"

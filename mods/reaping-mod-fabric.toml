@@ -1,0 +1,13 @@
+name = "Reaping Mod"
+filename = "ReapingMod-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3725/240/ReapingMod-1.7.0.jar"
+hash-format = "sha1"
+hash = "ec507bca2e20b85b7ef484f54db3a591075a7ab2"
+
+[update]
+[update.curseforge]
+file-id = 3725240
+project-id = 485532

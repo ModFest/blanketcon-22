@@ -1,0 +1,13 @@
+name = "Bits And Chisels"
+filename = "bitsandchisels-2.6.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/102/bitsandchisels-2.6.5.jar"
+hash-format = "sha1"
+hash = "5799681cc67d8e40e14ffdf45e96e372969b4cbb"
+
+[update]
+[update.curseforge]
+file-id = 3669102
+project-id = 420709

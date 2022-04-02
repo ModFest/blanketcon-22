@@ -1,0 +1,13 @@
+name = "qCraft Reimagined"
+filename = "qcraft-1.4.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uwzLLQUA/versions/1.4.1-beta/qcraft-1.4.1-beta.jar"
+hash-format = "sha1"
+hash = "161f66d16cce6f0c7efb9c44c300fad05298c5dd"
+
+[update]
+[update.modrinth]
+mod-id = "uwzLLQUA"
+version = "UozXd9YT"
