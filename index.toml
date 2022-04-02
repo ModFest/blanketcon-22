@@ -291,6 +291,11 @@ hash = "d63398566c7b181abe7bbe3e3d4a274367816d1e93fa6c665e8a80f9adc72805"
 metafile = true
 
 [[files]]
+file = "mods/structure-tools.toml"
+hash = "d1627f03a7979888ccc20ecd533e914907544badd3edb79ae7ca98269a1954ee"
+metafile = true
+
+[[files]]
 file = "mods/taterzens.toml"
 hash = "1e401c151eee8ca8da10929b13f357a4df2ca1a07975bcb261b6c467240d036e"
 metafile = true
