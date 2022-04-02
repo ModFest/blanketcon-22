@@ -304,7 +304,3 @@ metafile = true
 file = "mods/xp-share.toml"
 hash = "00f2df1c333441a493b2b66f80bd73ee923185f93d578689801cabbd57914ebe"
 metafile = true
-
-[[files]]
-file = "update.sh"
-hash = "b83ab63dabfcc0e3f391ce9913642922f4ab87d278959a418209bd696ba0c07e"
