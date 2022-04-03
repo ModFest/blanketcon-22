@@ -1,0 +1,8 @@
+name = "Polymer"
+filename = "polymer-all-0.2.0-beta.37-wip1.18.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/958102057796124693/960218009320972388/polymer-all-0.2.0-beta.37-wip1.18.2.jar"
+hash-format = "sha1"
+hash = "7d977fd880bb49eebc41ae8162b018541027b6c5"

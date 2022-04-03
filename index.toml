@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "ac215f5620b33b31f2743d071f1c664312e68117f363f4abf3bb9ddd739814bf"
+hash = "3ccfd465f0af89bfd213f4ed0c94228d102ad8e951590974847dbe378c535df5"
 metafile = true
 
 [[files]]
@@ -43,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
-metafile = true
-
-[[files]]
-file = "mods/consistencyplus.toml"
-hash = "b1af163afd5f8406365b3108b9858367cd04baa70d4e921defb8ae1276382e8b"
 metafile = true
 
 [[files]]
@@ -238,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/polaroidcamera.toml"
 hash = "70eb5860823debb9e1377947e0e7525237bae515fb0510d38edb00b49181e80a"
+metafile = true
+
+[[files]]
+file = "mods/polymer.toml"
+hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
 metafile = true
 
 [[files]]
