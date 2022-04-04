@@ -46,6 +46,11 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.toml"
+hash = "c86ac4ffc9302496655bfea3b9f6cc093eb75b6d6936f548a54a1ff32246c7db"
+metafile = true
+
+[[files]]
 file = "mods/culinaire.toml"
 hash = "2729c49a56c9b94101d7baeb853945ae660cc1e6691abc6c402eef283901286c"
 metafile = true
