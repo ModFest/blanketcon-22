@@ -1,0 +1,13 @@
+name = "Flowery Structures"
+filename = "flowery-fabric-6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3734/356/flowery-fabric-6.1.jar"
+hash-format = "sha1"
+hash = "7ff774b56e0fe9b99b70565a325df437db120fd8"
+
+[update]
+[update.curseforge]
+file-id = 3734356
+project-id = 599263

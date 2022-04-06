@@ -1,0 +1,13 @@
+name = "Icy Incitement"
+filename = "icy-incitement-1.18.1-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3638/589/icy-incitement-1.18.1-fabric-1.1.0.jar"
+hash-format = "sha1"
+hash = "69fc6bf52a954943d049f6e394bfc6db3d31bab4"
+
+[update]
+[update.curseforge]
+file-id = 3638589
+project-id = 561319

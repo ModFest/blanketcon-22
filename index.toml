@@ -12,7 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/archon.toml"
-hash = "bb771f10ac28023814867c3f8b0d275189c9a46bb3c6184f02481a495668f5b2"
+hash = "2d2f452a9d52e99299ace71856e7c2227621b052314a1c32c8f7513ac49efcbb"
+metafile = true
+
+[[files]]
+file = "mods/armorstandeditor.toml"
+hash = "555d8e540ee5e767018c0a7a8b968f7a9b2bc631d5dd59693977475733301580"
 metafile = true
 
 [[files]]
@@ -21,8 +26,18 @@ hash = "d84e0b605d84fc99768617ed874e55a9ed6518756a144da29e55a56a4eaf6d1e"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.toml"
+hash = "75761b636d0e270c8a5404cd58f01bbde190d5fa76acf97af4a1b62370439e8d"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.toml"
 hash = "3ccfd465f0af89bfd213f4ed0c94228d102ad8e951590974847dbe378c535df5"
+metafile = true
+
+[[files]]
+file = "mods/botania-fabric.toml"
+hash = "5869f6f3b13892ad050ee8f158d652cc608ea708ba54b0fd35b96a62b01b64a3"
 metafile = true
 
 [[files]]
@@ -37,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/chocolate-bar.toml"
-hash = "d65f12c0db555603993178b5cc30998d69149d8098739952793248ab172804dc"
+hash = "79e03bd81b0fea82f7a276e3592885e33683763520448907d7827774d0b7406b"
 metafile = true
 
 [[files]]
@@ -63,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/destroythemonument.toml"
 hash = "a178883169bd64f1e8189159216abbb7da921f9cfc25ae6c53b3a946d7af7777"
+metafile = true
+
+[[files]]
+file = "mods/double-jump-attribute.toml"
+hash = "7e39f1050250b13f9663bfe80fa1cea447c08baa54158acbf54ddff7f9e6ea54"
 metafile = true
 
 [[files]]
@@ -97,12 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "49a6f4e20667f01f422dcf39caf3eda0ff710239089e0f4f0e542fbed89e3263"
+hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
+metafile = true
+
+[[files]]
+file = "mods/flowery-structures.toml"
+hash = "d66063e8c9486bc30447c3fb7571176d149e4b3206c7f6d933c7b40186a76fcc"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "a1f3905c864512030f1d2aafb3c38d1f771b76fa3e3fad2d4ada772906f7bb58"
+hash = "7c5d5df6eaf9c2242a9d37f4809008f563a112006bdc4f1f9d9d2186ee0f5a4d"
 metafile = true
 
 [[files]]
@@ -121,8 +146,23 @@ hash = "14f89131b04f419e75e9a2ff3fe7901b8220008997f2644d42bbef7c5885cb2f"
 metafile = true
 
 [[files]]
+file = "mods/half-doors.toml"
+hash = "1b47cdd94cb663a01ae3afec5262a5c32c8b72c185086eb00944756206863ae4"
+metafile = true
+
+[[files]]
 file = "mods/icbm4fabric.toml"
 hash = "063d3a7e631340db8607614d76b48f2a5f0808a21774679f5669e127b1427a5a"
+metafile = true
+
+[[files]]
+file = "mods/icy-incitement.toml"
+hash = "6b4e3229ae99b6e9db521a3f7d4064235ccc1698665427075e3acf995d577317"
+metafile = true
+
+[[files]]
+file = "mods/incorporeal-3.toml"
+hash = "8e197a1fd936a6dbbb51a56eac22225c95c1575d73752ea19b3cd344df88db6c"
 metafile = true
 
 [[files]]
@@ -211,6 +251,16 @@ hash = "34cca56b30b08981fd6a39767a63f6577d96f1444f1ef485c7d6aea862c49d0c"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "026c8a4b2389e587dc1c04467f1044d4fe514ece13edc8150120798f6d99fed3"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "7ba308931c8e512f6ca92d7900875ffce1b0bfb40c2ceb9f344d0870d77c7b24"
+metafile = true
+
+[[files]]
 file = "mods/pettable-bees-fabric.toml"
 hash = "93b4e63304a6527e5d0fd6318bfbd90a416d9385ffb60a42e8be4fe208dddf0a"
 metafile = true
@@ -252,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.toml"
-hash = "d85632f5729144f7f914b7e894581ae20b87a34db47eba4fe0b953d7eaea2df3"
+hash = "e2c437bfe7e284c126e60a5a795e4161a01a05366ae7e03c766561b5d5ba525d"
 metafile = true
 
 [[files]]
@@ -291,6 +341,11 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/soulice.toml"
+hash = "adaa00e099fd34874863372cff87ae164466d60700720b63fd6359d2fae6e5e7"
+metafile = true
+
+[[files]]
 file = "mods/space-factory.toml"
 hash = "d63398566c7b181abe7bbe3e3d4a274367816d1e93fa6c665e8a80f9adc72805"
 metafile = true
@@ -308,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/thonkutil.toml"
 hash = "79d1df1f77559bf750facbcbf3948c614a67d5684c508ffc829bbb178345a688"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "c3c7bf02d0049dd3a0b8ed54f1a5eac6b16c35356c0fd000d36291adf762cdee"
 metafile = true
 
 [[files]]

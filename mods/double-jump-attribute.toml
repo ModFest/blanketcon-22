@@ -1,0 +1,13 @@
+name = "Double Jump Attribute"
+filename = "double-jump-attribute-1.18.1-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/635/double-jump-attribute-1.18.1-fabric-1.0.3.jar"
+hash-format = "sha1"
+hash = "613b0c2f6a88e781265e616a12fc530ee0660dac"
+
+[update]
+[update.curseforge]
+file-id = 3587635
+project-id = 532877
