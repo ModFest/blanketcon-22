@@ -156,16 +156,6 @@ hash = "063d3a7e631340db8607614d76b48f2a5f0808a21774679f5669e127b1427a5a"
 metafile = true
 
 [[files]]
-file = "mods/icy-incitement.toml"
-hash = "6b4e3229ae99b6e9db521a3f7d4064235ccc1698665427075e3acf995d577317"
-metafile = true
-
-[[files]]
-file = "mods/incorporeal-3.toml"
-hash = "8e197a1fd936a6dbbb51a56eac22225c95c1575d73752ea19b3cd344df88db6c"
-metafile = true
-
-[[files]]
 file = "mods/indium.toml"
 hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
 metafile = true
