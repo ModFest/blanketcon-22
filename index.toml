@@ -356,6 +356,11 @@ hash = "79d1df1f77559bf750facbcbf3948c614a67d5684c508ffc829bbb178345a688"
 metafile = true
 
 [[files]]
+file = "mods/tome-of-tiamathia.toml"
+hash = "d2b91668401c39567097deec96095d81a8242039296181c59821903fbbdb2106"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-fabric.toml"
 hash = "c3c7bf02d0049dd3a0b8ed54f1a5eac6b16c35356c0fd000d36291adf762cdee"
 metafile = true
