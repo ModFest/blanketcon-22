@@ -1,0 +1,8 @@
+name = "Smithy"
+filename = "Smithy-1.0-pre2+quilt.jar"
+side = "both"
+
+[download]
+url = "https://unascribed.com/f/18a4d5a6/Smithy-1.0-pre2+quilt.jar"
+hash-format = "sha1"
+hash = "301380181d5dac24afe43416151fc6fc31ff1d16"

@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/flowery-structures.toml"
-hash = "d66063e8c9486bc30447c3fb7571176d149e4b3206c7f6d933c7b40186a76fcc"
+hash = "148ffd3c0f80e2d5568883e51a4785c40ef5bc370562e60825a1b8c25fb23b51"
 metafile = true
 
 [[files]]
@@ -153,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/icbm4fabric.toml"
 hash = "063d3a7e631340db8607614d76b48f2a5f0808a21774679f5669e127b1427a5a"
+metafile = true
+
+[[files]]
+file = "mods/incorporeal-3.toml"
+hash = "4dbaa1fa735f78e642897449b2950f0be4fcb83968e7b0c578132b11290411a3"
 metafile = true
 
 [[files]]
@@ -323,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/simplevillagers.toml"
 hash = "598e7f2b20397af2aef251e14f90e2d2d4023ec5549ce03292a1fc9dd9fcb753"
+metafile = true
+
+[[files]]
+file = "mods/smithy.toml"
+hash = "7144ace17eaa419ca2cc2d3e8b5511dce28997b6b0a9228d583dc3546b5942ba"
 metafile = true
 
 [[files]]
