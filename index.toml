@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+hash = "42b6f57629ccd637582b0ed986c77552063e737e6183c538953bca209a30a0e4"
 metafile = true
 
 [[files]]
@@ -233,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.toml"
+hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
 metafile = true
 
 [[files]]
