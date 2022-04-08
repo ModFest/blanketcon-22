@@ -96,6 +96,11 @@ hash = "c4451102c550f5cb8760c34656bec9753105fd05da2c0fba34b83c81b0edb98a"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
 file = "mods/ears.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/space-factory.toml"
 hash = "d63398566c7b181abe7bbe3e3d4a274367816d1e93fa6c665e8a80f9adc72805"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "157fc7b6721eb740dd5f214f8ca5669af8cff2135f58839ad326ef3f15b1c7be"
 metafile = true
 
 [[files]]
