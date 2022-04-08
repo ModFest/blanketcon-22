@@ -46,11 +46,6 @@ hash = "84bca60e93e2f7c7f20c5238e6eb506f9107832f806ca955c9375a0575254fea"
 metafile = true
 
 [[files]]
-file = "mods/cardstock.toml"
-hash = "f39b53f532662271787fa351f26cd78c709eac5a374113ec318f2f9fb22cf497"
-metafile = true
-
-[[files]]
 file = "mods/cc-restitched.toml"
 hash = "65e8ab9f0e27d5c24dd799c8a0ac0bbe5620cdf3c419ee9560d361fff1895234"
 metafile = true
