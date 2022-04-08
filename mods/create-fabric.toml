@@ -1,0 +1,8 @@
+name = "Create Refabricated"
+filename = "create-mc1.18.2_v0.4.1492.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/863707028336672799/961790570429296660/create-mc1.18.2_v0.4.1492.jar"
+hash-format = "sha1"
+hash = "6e6311d4dd0ed7feb18b01b4974be2e5504fa533"
