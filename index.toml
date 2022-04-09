@@ -31,8 +31,13 @@ hash = "75761b636d0e270c8a5404cd58f01bbde190d5fa76acf97af4a1b62370439e8d"
 metafile = true
 
 [[files]]
+file = "mods/bing-bing-wahoo.toml"
+hash = "e4206f7efbb2b6ba6860581e07d99ad9207450d1f0d1059fd836e4c4b9a1612a"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "3ccfd465f0af89bfd213f4ed0c94228d102ad8e951590974847dbe378c535df5"
+hash = "7c441b09324d94d033f1e688527d87e83edd394ba9304336e736daa0fc22c9ab"
 metafile = true
 
 [[files]]
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/buildbattle.toml"
 hash = "84bca60e93e2f7c7f20c5238e6eb506f9107832f806ca955c9375a0575254fea"
+metafile = true
+
+[[files]]
+file = "mods/cardstock.toml"
+hash = "be3adf6d1c6b5f96946225f5a4b42eaa532279b7a54f16f2ea99286e9046ca37"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ hash = "b9f2ab03fa84fd2c11f9a4036dd24ef8bcafa801dfea3dcb8b80478f9cb1961d"
 metafile = true
 
 [[files]]
+file = "mods/glowcase.toml"
+hash = "165d31b5019dfd45583f8c4dcbbc889c6d14698f21c56351eac69e7756d7bba1"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders-fabric.toml"
 hash = "6946d91c8113c8ec2bf521004a5d7585e70ea4e0937643cafab3fcf9d2436f23"
 metafile = true
@@ -157,12 +172,17 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.toml"
-hash = "1b47cdd94cb663a01ae3afec5262a5c32c8b72c185086eb00944756206863ae4"
+hash = "08e39a126869aca82f4b3bbfc2beb4d36f7c8621d748989cd3f74eece9ed7ef5"
 metafile = true
 
 [[files]]
 file = "mods/icbm4fabric.toml"
 hash = "063d3a7e631340db8607614d76b48f2a5f0808a21774679f5669e127b1427a5a"
+metafile = true
+
+[[files]]
+file = "mods/icy-incitement.toml"
+hash = "3256bbb152628eddce18be2b0424fea76c3b377fe878c42d8537ef4be90863d8"
 metafile = true
 
 [[files]]
@@ -326,6 +346,11 @@ hash = "a74d4bcc2ca8b6d820f8c5af7882a4e35be455dca47d456628b303364920552a"
 metafile = true
 
 [[files]]
+file = "mods/quark-demo.toml"
+hash = "26c945c6fd0d0b9600e48d3d595dddf4367d04f3d1a19d3aa459cf50a67b241a"
+metafile = true
+
+[[files]]
 file = "mods/quilt-loading-screen.toml"
 hash = "176d41d60db1de6b354d0246131263421233695d54d41f44ff664f2ac26cf151"
 metafile = true
@@ -397,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.toml"
-hash = "e26b82bdb9bf431309361c50d5b515bb59c77202dfca04d5b0ca11098ab3c881"
+hash = "597492c60c99367eb7c361b491fd1e79c55f2a287da2c4164f6b3b979952c9b9"
 metafile = true
 
 [[files]]

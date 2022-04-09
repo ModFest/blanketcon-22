@@ -1,13 +1,13 @@
 name = "Bits And Chisels"
-filename = "bitsandchisels-2.6.6.jar"
+filename = "bitsandchisels-2.6.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3732/432/bitsandchisels-2.6.6.jar"
+url = "https://edge.forgecdn.net/files/3739/965/bitsandchisels-2.6.7.jar"
 hash-format = "sha1"
-hash = "26a484e01402af16ed71d3c5045704b638c34ffc"
+hash = "fbb3c073f6754a5bb4761f9ae4405d5c2576ee50"
 
 [update]
 [update.curseforge]
-file-id = 3732432
+file-id = 3739965
 project-id = 420709

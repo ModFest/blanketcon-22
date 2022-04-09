@@ -1,0 +1,8 @@
+name = "Glowcase"
+filename = "glowcase-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/962391313863557150/glowcase-1.0.0.jar"
+hash-format = "sha1"
+hash = "329fcebbb07939b343a484275681383cc7a8eb97"
