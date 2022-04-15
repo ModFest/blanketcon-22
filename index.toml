@@ -30,6 +30,11 @@ hash = "d84e0b605d84fc99768617ed874e55a9ed6518756a144da29e55a56a4eaf6d1e"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.toml"
+hash = "2e1982cf78b09b9623448fa84e854488ea806158e02047f9267e0f282347fe4b"
+metafile = true
+
+[[files]]
 file = "mods/bagels-baking.toml"
 hash = "b1b4aced4d0d0c435b9e4e13cc799dc2804c9f93d6c4b1b8d1431c0fe7779a73"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/ears.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
+metafile = true
+
+[[files]]
+file = "mods/end-goblin-traders-fabric.toml"
+hash = "ac2f112779d79923e894118f68c4e3b90653155d854b082a249c4d5c61da9bee"
 metafile = true
 
 [[files]]
@@ -411,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/qcraft.toml"
-hash = "4e2c0b1a0d093e841ced8fa48dc08fb96ff7e7f1af11eb01257c9dd9c5490cb6"
+hash = "d4aaf87477f861a57c0f49eb0f822d13074884acbd1a9a9cc1ed2e888652f85c"
 metafile = true
 
 [[files]]
