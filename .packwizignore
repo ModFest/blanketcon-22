@@ -1,4 +1,4 @@
 *.sh
 *.md
 *.html
-*.json
+vercel.json

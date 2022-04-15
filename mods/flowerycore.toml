@@ -1,0 +1,13 @@
+name = "Flowery Core"
+filename = "flowerycore-fabric-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CbUFLD9r/versions/fabric3/flowerycore-fabric-3.jar"
+hash-format = "sha1"
+hash = "437fe92e74e08766d8be73b353cddcd27a7b34be"
+
+[update]
+[update.modrinth]
+mod-id = "CbUFLD9r"
+version = "Ub7SzjVb"

@@ -1,13 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "219383dab5a172458e6683305854d3fdfdc68653a8352dceaf63b179cfb59d9d"
+
+[[files]]
 file = "mods/allium.toml"
 hash = "8b9e7dffb62b4261a8c8a25b7346249f0522f4f6c93383b451fe3dc243592b94"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
+hash = "c666f233906de8530744ca54f5bc37241ca235690c4a41b3399e3956b8ae97fe"
 metafile = true
 
 [[files]]
@@ -62,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/chocolate-bar.toml"
-hash = "79e03bd81b0fea82f7a276e3592885e33683763520448907d7827774d0b7406b"
+hash = "35bd0576d15a453f6c0a02a867349b0d7296605978c89d71bf0d83d3eb41adf1"
 metafile = true
 
 [[files]]
@@ -117,12 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/earthbounds.toml"
-hash = "244037be27613dd0f219f198c7e066d7b182389932c500d18fbb4ac283560ac5"
-metafile = true
-
-[[files]]
-file = "mods/end-goblin-traders-fabric.toml"
-hash = "c74e1a2b11069e418396b10f3f86f23a9defc911417163a1a9ada3c6a61a7f19"
+hash = "3c2b9dc32178962e9cea0c068bd2d7a97dd9c2be30ad144851e9508b385e4460"
 metafile = true
 
 [[files]]
@@ -132,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f68b27c81515e56eb42528d94d9863d3ac2dbc9f63393beaa6174407a1a0a14b"
+hash = "8adffc9e1d8124c67511b1b944536e711930ca6470c826665eb94999f2963662"
 metafile = true
 
 [[files]]
@@ -142,12 +141,17 @@ metafile = true
 
 [[files]]
 file = "mods/flowery-structures.toml"
-hash = "148ffd3c0f80e2d5568883e51a4785c40ef5bc370562e60825a1b8c25fb23b51"
+hash = "169f41eb779115a9304ab5a28e6db921a7ed25f22ac1dd8101a305edf13a759d"
+metafile = true
+
+[[files]]
+file = "mods/flowerycore.toml"
+hash = "bd18316aed9e0bf54c09019900271bdc5b078967223c671562f530f307e5dedd"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "7c5d5df6eaf9c2242a9d37f4809008f563a112006bdc4f1f9d9d2186ee0f5a4d"
+hash = "72673bdd02f54eea8ce0ca31c2b35fa4615245e499440679cec8b73a72c19fe2"
 metafile = true
 
 [[files]]
@@ -207,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.toml"
-hash = "240bdad17b1b8326016f3db7f9023634e84201f64a58e6c469a00b215ff9850f"
+hash = "20b8e8b5497874296a6a2ff59a6f7e6eb00915ef43dca6c3f1150c77451a8981"
 metafile = true
 
 [[files]]
@@ -247,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
+hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
 metafile = true
 
 [[files]]
@@ -267,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/overweight-farming.toml"
-hash = "612cb259b2af78aaf319b0f0d0d7201f9aac8d737a5365f729cae4cbf1b0d5a6"
+hash = "286c70f30c7b725effe8e2d348b8be2d49c2b1d134883c8f8373e610e6d340f2"
 metafile = true
 
 [[files]]
@@ -287,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "7ba308931c8e512f6ca92d7900875ffce1b0bfb40c2ceb9f344d0870d77c7b24"
+hash = "c26384eb1b09788b8fa52e964fc18b1c637f7082af45aabb19b698fc268b0746"
 metafile = true
 
 [[files]]
@@ -303,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/picturesign.toml"
+hash = "d84c3e68619f0563a7581cea65122fe2638f905bc28a300e5b9720512df73d25"
 metafile = true
 
 [[files]]
@@ -332,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.toml"
-hash = "e2c437bfe7e284c126e60a5a795e4161a01a05366ae7e03c766561b5d5ba525d"
+hash = "34893c9c088f34c04a936ec259fc1c24272be0a0ea5d22f1956c72d2caee61c0"
 metafile = true
 
 [[files]]
@@ -382,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.toml"
-hash = "adaa00e099fd34874863372cff87ae164466d60700720b63fd6359d2fae6e5e7"
+hash = "c31f589607fadb1b8ec354ad584d165404952fd57ed1227d6b8a5e8274e7369e"
 metafile = true
 
 [[files]]

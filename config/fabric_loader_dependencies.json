@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+    "inspecio": {
+      "-breaks": {
+        "quilt_loader": ""
+      }
+    }
+  }
+}
