@@ -1,0 +1,8 @@
+name = "Fortress"
+filename = "fortress-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/964635945062260816/fortress-1.0.0.jar"
+hash-format = "sha1"
+hash = "aa7e65de796d06ae9bfb63fbc32e8e45127ba42d"

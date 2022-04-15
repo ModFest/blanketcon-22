@@ -30,6 +30,11 @@ hash = "d84e0b605d84fc99768617ed874e55a9ed6518756a144da29e55a56a4eaf6d1e"
 metafile = true
 
 [[files]]
+file = "mods/bagels-baking.toml"
+hash = "b1b4aced4d0d0c435b9e4e13cc799dc2804c9f93d6c4b1b8d1431c0fe7779a73"
+metafile = true
+
+[[files]]
 file = "mods/bed-bath-beyond.toml"
 hash = "5f3c1fe846028cdf7798d5397fcaf2c15a19d042d3b8efeba4cd133cbb71d076"
 metafile = true
@@ -170,6 +175,11 @@ hash = "bd18316aed9e0bf54c09019900271bdc5b078967223c671562f530f307e5dedd"
 metafile = true
 
 [[files]]
+file = "mods/fortress.toml"
+hash = "a6d38660f0deac42750afbf6a92b50cc5c11f8865e626733bf42ca208f02de7e"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "72673bdd02f54eea8ce0ca31c2b35fa4615245e499440679cec8b73a72c19fe2"
 metafile = true
@@ -290,6 +300,11 @@ hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-creativity.toml"
+hash = "20a36386ef9a76e15cdb1d09125aebf2e060213e59ae7b682978afc9d28772a5"
+metafile = true
+
+[[files]]
 file = "mods/now-playing.toml"
 hash = "5d5f725b345ce3455af6b0810003290530f2d5c49199c2006304caced66b9349"
 metafile = true
@@ -365,6 +380,11 @@ hash = "70eb5860823debb9e1377947e0e7525237bae515fb0510d38edb00b49181e80a"
 metafile = true
 
 [[files]]
+file = "mods/polymc.toml"
+hash = "981432997d6166cda44cc9e301309ad7cd25205f912ba360b1a2ae1f5db31f9f"
+metafile = true
+
+[[files]]
 file = "mods/polymer.toml"
 hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
 metafile = true
@@ -436,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/smithy.toml"
-hash = "7144ace17eaa419ca2cc2d3e8b5511dce28997b6b0a9228d583dc3546b5942ba"
+hash = "d5e54685774b1b139b138bd5955e34670c0a57245fee2e2408281adab2f52f1e"
 metafile = true
 
 [[files]]
@@ -481,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/tome-of-tiamathia.toml"
-hash = "d2b91668401c39567097deec96095d81a8242039296181c59821903fbbdb2106"
+hash = "2c0fb3dc815aad9e5ac410e7e1d1dbcfb9ee09c19742e63d9aa7e5925de1747b"
 metafile = true
 
 [[files]]
@@ -507,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.toml"
 hash = "597492c60c99367eb7c361b491fd1e79c55f2a287da2c4164f6b3b979952c9b9"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui.toml"
+hash = "db23a01829f150e8b0a13493561c14e4b05bdba0be297675df354d79214e6d2e"
 metafile = true
 
 [[files]]
