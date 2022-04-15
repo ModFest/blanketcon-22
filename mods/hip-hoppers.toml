@@ -1,0 +1,8 @@
+name = "Hip Hoppers"
+filename = "hip-hoppers-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/964599674344448042/hip-hoppers-1.0.0.jar"
+hash-format = "sha1"
+hash = "07d21b5329bf2302032a2735bcb0d6bddb8b6ac6"

@@ -1,0 +1,13 @@
+name = "Visible Barriers"
+filename = "visible-barriers-1.18.2-fabric-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3745/861/visible-barriers-1.18.2-fabric-1.4.1.jar"
+hash-format = "sha1"
+hash = "678deec5773487224c75034160b40a5021b934aa"
+
+[update]
+[update.curseforge]
+file-id = 3745861
+project-id = 507228

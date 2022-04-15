@@ -1,0 +1,8 @@
+name = "CC: Prometheus"
+filename = "cc-prometheus-fabric-1.18.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SquidDev-CC/cc-prometheus/releases/download/v2.0.0/cc-prometheus-fabric-1.18.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "53a2ba12c004fa3766be4b5056ac2fd24e92bf26"

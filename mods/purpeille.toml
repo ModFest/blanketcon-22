@@ -1,0 +1,13 @@
+name = "Purpeille"
+filename = "purpeille-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yoEkK5RL/versions/1.2.0/purpeille-1.2.0.jar"
+hash-format = "sha1"
+hash = "7020ac5e5323dde3e1539b52cc05e7aa10146e40"
+
+[update]
+[update.modrinth]
+mod-id = "yoEkK5RL"
+version = "UoEdx9mt"

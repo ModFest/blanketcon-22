@@ -1,8 +1,8 @@
 name = "Incorporeal 3"
-filename = "Incorporeal-3-fabric-1.18.2-0-SNAPSHOT-bb0c0a9e+now-with-refmap.jar"
+filename = "Incorporeal-3-fabric-1.18.2-0-SNAPSHOT-acf68884.jar"
 side = "both"
 
 [download]
-url = "https://unascribed.com/f/d0ebdd7f/Incorporeal-3-fabric-1.18.2-0-SNAPSHOT-bb0c0a9e+now-with-refmap.jar"
+url = "https://cdn.discordapp.com/attachments/745979270748307458/964611316096577586/Incorporeal-3-fabric-1.18.2-0-SNAPSHOT-acf68884.jar"
 hash-format = "sha1"
-hash = "4fbed0a514d07f52630a48f1981e3a0ce8da73d6"
+hash = "e6962cab05f73330664061553118555821724177"

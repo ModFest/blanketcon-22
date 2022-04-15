@@ -1,0 +1,8 @@
+name = "Transpositioners"
+filename = "transpositioners-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/964599675585957939/transpositioners-0.1.0.jar"
+hash-format = "sha1"
+hash = "9439ed3ba8023017c6171ef4ae981d6944f4c8d8"
