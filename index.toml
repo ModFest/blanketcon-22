@@ -140,11 +140,6 @@ hash = "c4451102c550f5cb8760c34656bec9753105fd05da2c0fba34b83c81b0edb98a"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.toml"
-hash = "42b6f57629ccd637582b0ed986c77552063e737e6183c538953bca209a30a0e4"
-metafile = true
-
-[[files]]
 file = "mods/ears.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
@@ -196,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/get-off-my-lawn-reserved.toml"
-hash = "b9f2ab03fa84fd2c11f9a4036dd24ef8bcafa801dfea3dcb8b80478f9cb1961d"
+hash = "5a328e16a17f3247a27ff5145ec86348e6e5fa50aa6ee48aca1aaff979288998"
 metafile = true
 
 [[files]]
