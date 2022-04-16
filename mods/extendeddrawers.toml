@@ -1,8 +1,8 @@
 name = "Extended Drawers"
-filename = "ExtendedDrawers-1.0.0-SNAPSHOT.jar"
+filename = "ExtendedDrawers-1.0.0-dev.3+mc.1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/MattiDragon/ExtendedDrawers/releases/download/dev/ExtendedDrawers-1.0.0-dev.jar"
+url = "https://github.com/MattiDragon/ExtendedDrawers/releases/download/dev/ExtendedDrawers-1.0.0-dev.3+mc.1.18.2.jar"
 hash-format = "sha1"
-hash = "b82975e6e7f0f5fd4841640852b3b99c03bbab58"
+hash = "665315a07e33f55503eb34fb5c818b48b9290c30"
