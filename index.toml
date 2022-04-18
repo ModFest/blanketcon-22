@@ -156,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/extendeddrawers.toml"
-hash = "e29a8e9efabe642ea3ed5a9e758f7f447a9296372531e5d40be4a91621575c16"
+hash = "e8af7c459360586b4a08caf4bbefe379ea0f2a7c58421286b365bb4617e1e3c0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56341f743528a406c4d51f22ba1640dca5c475696a9c21d8924b4813accdfa71"
+hash = "3ee0aa082e8d2e55feded0679db62dd5c7d643c7478eba6daa78a4211945b187"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/flowery-structures.toml"
-hash = "169f41eb779115a9304ab5a28e6db921a7ed25f22ac1dd8101a305edf13a759d"
+hash = "225a6a54eec22eee84eb32f0941b00d144b3194036ad094f4f7dc50bddfeea06"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplevillagers.toml"
-hash = "598e7f2b20397af2aef251e14f90e2d2d4023ec5549ce03292a1fc9dd9fcb753"
+hash = "42fcca9d28843b69555db8d0d99af06331b4d4a9d365fd1c2d09554745c5db26"
 metafile = true
 
 [[files]]

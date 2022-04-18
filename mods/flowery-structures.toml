@@ -1,13 +1,13 @@
 name = "Flowery Structures"
-filename = "flowery-fabric-10a.jar"
+filename = "flowery-fabric-10.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3753/713/flowery-fabric-10a.jar"
+url = "https://edge.forgecdn.net/files/3757/308/flowery-fabric-10.jar"
 hash-format = "sha1"
-hash = "2ccf7636cb77ed169bcc8c438033b9eae5ee43bc"
+hash = "498d367a48b1f383c0ec6fc741cf47b9d664bf36"
 
 [update]
 [update.curseforge]
-file-id = 3753713
+file-id = 3757308
 project-id = 599263
