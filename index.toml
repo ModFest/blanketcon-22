@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-crates.toml"
-hash = "24c74f4bef52ca466e44468f1309059244a1f8e24717c77fb8e40ad8508de641"
+hash = "3b878e0bb997ef413f65bd372040834a2888106fe96369f6cb4f78190107c3bc"
 metafile = true
 
 [[files]]
