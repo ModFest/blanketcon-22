@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.toml"
-hash = "d84e0b605d84fc99768617ed874e55a9ed6518756a144da29e55a56a4eaf6d1e"
+hash = "ef401c79f4e163ab30aa275879db1747805a00ea0974e7f0509cc3e34c9fda69"
 metafile = true
 
 [[files]]
@@ -127,11 +127,6 @@ metafile = true
 [[files]]
 file = "mods/double-jump-attribute.toml"
 hash = "7e39f1050250b13f9663bfe80fa1cea447c08baa54158acbf54ddff7f9e6ea54"
-metafile = true
-
-[[files]]
-file = "mods/dyeable-fishing-lines.toml"
-hash = "c4451102c550f5cb8760c34656bec9753105fd05da2c0fba34b83c81b0edb98a"
 metafile = true
 
 [[files]]
@@ -382,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.toml"
 hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
+metafile = true
+
+[[files]]
+file = "mods/potion-tweaks.toml"
+hash = "aae024ba01cd526550b60bc2b5121ccf92242cdf0030ce57f57ab23599fe774e"
 metafile = true
 
 [[files]]
