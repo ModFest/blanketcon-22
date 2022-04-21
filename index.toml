@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/dyeable-fishing-lines.toml"
-hash = "90314ea99066a1554af23c30d77b23b7d6e2319cf3176d029acf7aa7c0f818a9"
+hash = "c4451102c550f5cb8760c34656bec9753105fd05da2c0fba34b83c81b0edb98a"
 metafile = true
 
 [[files]]
@@ -447,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/skywars.toml"
 hash = "c9f2461195c80736fbefaad5501cf0850d62e96d9625eb399b8eb7fd7bd980e4"
+metafile = true
+
+[[files]]
+file = "mods/smithy.toml"
+hash = "90ef7be2b833d5b052d7016bb4e8d8a960808c42968409147e906ca1d0a6c65b"
 metafile = true
 
 [[files]]

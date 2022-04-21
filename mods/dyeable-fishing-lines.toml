@@ -1,13 +1,13 @@
 name = "Dyeable Fishing Lines"
-filename = "DyeableFishingLines-Forge-1.0.0.jar"
+filename = "DyeableFishingLines-Fabric-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xLgoFE2s/versions/1.0.0+forge/DyeableFishingLines-Forge-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/xLgoFE2s/versions/1.0.0/DyeableFishingLines-Fabric-1.0.0.jar"
 hash-format = "sha1"
-hash = "83d9ad9bcabeb7bb1791497a174f5f2ef49a58a0"
+hash = "2406228f531648c7794d4fb7a1a7423479355882"
 
 [update]
 [update.modrinth]
 mod-id = "xLgoFE2s"
-version = "nnZqAAeh"
+version = "LBBPDQU9"
