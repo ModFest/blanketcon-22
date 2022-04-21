@@ -1,13 +1,13 @@
 name = "Jamtastic"
-filename = "Jamtastic-1.3.1.jar"
+filename = "Jamtastic-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3751/219/Jamtastic-1.3.1.jar"
+url = "https://edge.forgecdn.net/files/3760/942/Jamtastic-1.3.2.jar"
 hash-format = "sha1"
-hash = "6a733bcf5d608457c2366758e774cf2934bbbed7"
+hash = "f7d5f67da0314528a4c4de5f17bd055e2b80ef8a"
 
 [update]
 [update.curseforge]
-file-id = 3751219
+file-id = 3760942
 project-id = 559060

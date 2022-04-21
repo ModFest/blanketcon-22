@@ -1,13 +1,13 @@
 name = "Chocolate Bar"
-filename = "chocolatebar-v0.1.4+mc1.18.2.jar"
+filename = "chocolatebar-0.1.5-mc1.18.2-quilt.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vyk5EM4l/versions/v0.1.4/chocolatebar-v0.1.4%2Bmc1.18.2.jar"
+url = "https://cdn.modrinth.com/data/Vyk5EM4l/versions/v0.1.5-mc1.18.2-quilt/chocolatebar-0.1.5-mc1.18.2-quilt.jar"
 hash-format = "sha1"
-hash = "7b49b207b7b641d16aab01e4c6e4f86826e60610"
+hash = "c9441f75e1f81e44ca253526e3cf4619bfa219f3"
 
 [update]
 [update.modrinth]
 mod-id = "Vyk5EM4l"
-version = "Q1sMFhxA"
+version = "o4lU9Kbz"

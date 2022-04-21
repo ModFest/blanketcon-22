@@ -1,13 +1,13 @@
 name = "GeckoLib"
-filename = "geckolib-fabric-1.18-3.0.38.jar"
+filename = "geckolib-quilt-1.18-3.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3755/162/geckolib-fabric-1.18-3.0.38.jar"
+url = "https://edge.forgecdn.net/files/3761/11/geckolib-quilt-1.18-3.0.0.jar"
 hash-format = "sha1"
-hash = "64ed09b825b265b2e030dce8b532c5859f3a91bf"
+hash = "ddafecf5653dbcd0c8733016bb485971d34da5cd"
 
 [update]
 [update.curseforge]
-file-id = 3755162
+file-id = 3761011
 project-id = 388172
