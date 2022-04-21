@@ -100,11 +100,6 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
-file = "mods/consistencyplus.toml"
-hash = "c86ac4ffc9302496655bfea3b9f6cc093eb75b6d6936f548a54a1ff32246c7db"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.toml"
 hash = "1efe5be68fb0182784c29e198bd07816b97fa90b3757e43a9d7d8bcba683db0b"
 metafile = true
@@ -181,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "c6ad89e65a1cef15bea0c4ecdb58e4724585d51b297614cf340b9ff11de5179e"
+hash = "1a1d3f1b6b1b3fcebcd986dc0f6635d3ae3ecb18375403190e381e4f54881b00"
 metafile = true
 
 [[files]]
@@ -390,11 +385,6 @@ hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
 metafile = true
 
 [[files]]
-file = "mods/potion-tweaks.toml"
-hash = "c9505c73e67c0dbfec4d00930f3295708eaf3ada3725360675d5a42e192cd36e"
-metafile = true
-
-[[files]]
 file = "mods/promenade.toml"
 hash = "9bde19c8fecdec064e38150a219cb9384fe3a468ee522966dc9ccc61cf92d032"
 metafile = true
@@ -457,11 +447,6 @@ metafile = true
 [[files]]
 file = "mods/skywars.toml"
 hash = "c9f2461195c80736fbefaad5501cf0850d62e96d9625eb399b8eb7fd7bd980e4"
-metafile = true
-
-[[files]]
-file = "mods/smithy.toml"
-hash = "d5e54685774b1b139b138bd5955e34670c0a57245fee2e2408281adab2f52f1e"
 metafile = true
 
 [[files]]
