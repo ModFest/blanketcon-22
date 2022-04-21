@@ -1,0 +1,8 @@
+name = "Oliver's Potion Tweaks"
+filename = "potion-tweaks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/966509714898829372/potion-tweaks-1.0.0.jar"
+hash-format = "sha1"
+hash = "7fdaf16452b57336b59d415667807f9bc7a86cc1"
