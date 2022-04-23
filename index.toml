@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardstock.toml"
-hash = "54ba9d48ae01e9747cc9b84ede028e5039e87dbadb55ac8a4959aa21ff98cced"
+hash = "40455c70e5a1fdcacd04fb702a69c6ab944516febf59ddf8582f9f7e486f334d"
 metafile = true
 
 [[files]]
