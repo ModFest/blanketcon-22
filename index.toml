@@ -75,6 +75,11 @@ hash = "84bca60e93e2f7c7f20c5238e6eb506f9107832f806ca955c9375a0575254fea"
 metafile = true
 
 [[files]]
+file = "mods/cardstock.toml"
+hash = "54ba9d48ae01e9747cc9b84ede028e5039e87dbadb55ac8a4959aa21ff98cced"
+metafile = true
+
+[[files]]
 file = "mods/cc-prometheus.toml"
 hash = "27680215291f1d5cfd82a4d30bb72280c5596ebc36a9e1fe51d4a289650cfc08"
 metafile = true
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.toml"
-hash = "b57efff35348ada45b254dffdc9ddaf3c0bc03c408113dbe0175d791a70c07e4"
+hash = "5ff23f6c5984056e160bd62a86239888f6e238444ffef15f44f411432bfca808"
 metafile = true
 
 [[files]]
@@ -370,8 +375,13 @@ hash = "70eb5860823debb9e1377947e0e7525237bae515fb0510d38edb00b49181e80a"
 metafile = true
 
 [[files]]
+file = "mods/polymc-showcase.toml"
+hash = "0df867248cdb06ca85303a0819587a7b728f4f3326e7921d5081aff4dfa084cc"
+metafile = true
+
+[[files]]
 file = "mods/polymc.toml"
-hash = "eb5c2488eabbc11d2229b9c29fd1a7f4925ebc030c1218c257a4d92f3c49aaea"
+hash = "83b5e9487c59710a676cb93f7d9a66583ab88bb5e1dce5981cb5e7d253f082ec"
 metafile = true
 
 [[files]]
@@ -406,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "786b7613d8ef0c5b02296c4900548f345d614246b9bbd76260a5f31cc7c57bd0"
+hash = "fb226f346fbbb51a24545d51d13ef764ef2d7e37d7904b4c0862e187e8fd5665"
 metafile = true
 
 [[files]]

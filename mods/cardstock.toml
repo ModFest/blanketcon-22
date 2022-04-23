@@ -1,0 +1,8 @@
+name = "cardstock"
+filename = "cardstock-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/repulica/CardStock/releases/download/1.0.3/cardstock-1.0.3.jar"
+hash-format = "sha1"
+hash = "1899d623912e52bee0d4514ab4672c40f97b3606"
