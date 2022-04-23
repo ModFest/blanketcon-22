@@ -1,0 +1,13 @@
+name = "Sandwichable"
+filename = "sandwichable-1.2+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3761/195/sandwichable-1.2+1.18.2.jar"
+hash-format = "sha1"
+hash = "92c9bbb38ce2624eabb18749b30746b638fa93b8"
+
+[update]
+[update.curseforge]
+file-id = 3761195
+project-id = 374143

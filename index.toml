@@ -445,6 +445,11 @@ hash = "c537808775d23b10bab57f859614e3b17a40796b0b2f08ce6729e5a192b5496e"
 metafile = true
 
 [[files]]
+file = "mods/sandwichable.toml"
+hash = "4e20446b036abb7878f6af661917c220a0b9d95295db986c22966e5e39427fc4"
+metafile = true
+
+[[files]]
 file = "mods/simple-crates.toml"
 hash = "3b878e0bb997ef413f65bd372040834a2888106fe96369f6cb4f78190107c3bc"
 metafile = true
