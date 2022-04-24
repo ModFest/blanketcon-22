@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/potion-tweaks.toml"
-hash = "aae024ba01cd526550b60bc2b5121ccf92242cdf0030ce57f57ab23599fe774e"
+hash = "628297f36514f6a05c871e18b6ace18d5799d7736cbd4a0f8d52f3797f94ae40"
 metafile = true
 
 [[files]]
