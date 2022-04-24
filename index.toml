@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.toml"
-hash = "14f89131b04f419e75e9a2ff3fe7901b8220008997f2644d42bbef7c5885cb2f"
+hash = "e267f239a8f0f7ad6b2b573e752585949df92999c49ca8c1d49e34eb08bf5077"
 metafile = true
 
 [[files]]
