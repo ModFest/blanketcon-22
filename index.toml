@@ -50,6 +50,11 @@ hash = "1bc0901c46afedc722c9e41e8f6f0cabb54bad45a21cb93b4338c5b32aaf0d02"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment-plus.toml"
+hash = "c132baad7b01f7f4bd8ae79c270e246d13357b67d2306dcdd23e94037e43a2b5"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment.toml"
 hash = "75761b636d0e270c8a5404cd58f01bbde190d5fa76acf97af4a1b62370439e8d"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/endermantic-overhaul.toml"
 hash = "0424f533731aa99fea243c39b7eef305e279788d48159f50cc1ef4c36a8d419c"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.toml"
+hash = "48e7e361a6e5be533e292039d3c42465dd899be258a84e3332466f867e469144"
 metafile = true
 
 [[files]]
