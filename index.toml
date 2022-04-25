@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.toml"
-hash = "c31f589607fadb1b8ec354ad584d165404952fd57ed1227d6b8a5e8274e7369e"
+hash = "bcf205eb881966d3d5f533755f897035041aeb746728547050cf7285d3bd6c7c"
 metafile = true
 
 [[files]]
