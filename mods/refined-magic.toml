@@ -1,0 +1,8 @@
+name = "Refined Magic"
+filename = "refmagic-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/968265962082148352/refmagic-1.0.0.jar"
+hash-format = "sha1"
+hash = "94f9793bb5965c8ed5a2079d31262d33802bb5e6"

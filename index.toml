@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.toml"
-hash = "3d34d1ec9d5414803f8c939769724c70b37d14d40fab513d5daf0d7f7374af28"
+hash = "6724e0e77ea4dbebc64ec6d6bce761b9a3e33205c6f4166ade5a65d22afd3899"
 metafile = true
 
 [[files]]
@@ -400,11 +400,6 @@ hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
 metafile = true
 
 [[files]]
-file = "mods/potion-tweaks.toml"
-hash = "628297f36514f6a05c871e18b6ace18d5799d7736cbd4a0f8d52f3797f94ae40"
-metafile = true
-
-[[files]]
 file = "mods/promenade.toml"
 hash = "9bde19c8fecdec064e38150a219cb9384fe3a468ee522966dc9ccc61cf92d032"
 metafile = true
@@ -447,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/reaping-mod-fabric.toml"
 hash = "23b86f2744239a7ab0656565740655292f5f6de959072830ecc4a07352d1bc13"
+metafile = true
+
+[[files]]
+file = "mods/refined-magic.toml"
+hash = "3f81f332d3f8cefd2e27667cdffb370343ea7e679fd7186df65f2e5f2e66c67b"
 metafile = true
 
 [[files]]
