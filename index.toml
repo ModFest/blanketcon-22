@@ -155,8 +155,13 @@ hash = "0424f533731aa99fea243c39b7eef305e279788d48159f50cc1ef4c36a8d419c"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.toml"
+hash = "e792d9350d9f608dd9d207d5713815df6b8ad52d52fe35ea9c641b76362a0104"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
+hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
 metafile = true
 
 [[files]]
@@ -202,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers-fabric.toml"
 hash = "e267f239a8f0f7ad6b2b573e752585949df92999c49ca8c1d49e34eb08bf5077"
+metafile = true
+
+[[files]]
+file = "mods/haema.toml"
+hash = "da9f842210105fab5f5c61945e97f40ed5df9375486ba2bd046ddfa3c3d6b6c1"
 metafile = true
 
 [[files]]
