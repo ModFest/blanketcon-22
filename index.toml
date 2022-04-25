@@ -155,16 +155,6 @@ hash = "0424f533731aa99fea243c39b7eef305e279788d48159f50cc1ef4c36a8d419c"
 metafile = true
 
 [[files]]
-file = "mods/extended-drawers.toml"
-hash = "48e7e361a6e5be533e292039d3c42465dd899be258a84e3332466f867e469144"
-metafile = true
-
-[[files]]
-file = "mods/extendeddrawers.toml"
-hash = "e8af7c459360586b4a08caf4bbefe379ea0f2a7c58421286b365bb4617e1e3c0"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
