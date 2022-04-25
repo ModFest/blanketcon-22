@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.toml"
-hash = "c132baad7b01f7f4bd8ae79c270e246d13357b67d2306dcdd23e94037e43a2b5"
+hash = "3d34d1ec9d5414803f8c939769724c70b37d14d40fab513d5daf0d7f7374af28"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fortress.toml"
-hash = "a6d38660f0deac42750afbf6a92b50cc5c11f8865e626733bf42ca208f02de7e"
+hash = "f67af440cb1c249f2232e9bf10ed28ddd2f18ea86a9751aec0f26fdd67dc26a4"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
+hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "7486da78ccd788e6df69f762ee14db29fd533bf90b44969480ec1b112942e7fb"
+hash = "4df16f85610e373b5ac1c9fd5908225e38c5b993cf471c5034f2190df1924157"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
