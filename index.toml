@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.toml"
-hash = "70eb5860823debb9e1377947e0e7525237bae515fb0510d38edb00b49181e80a"
+hash = "30c3eef3ab9a4a9e8d06e493a16a31680bd4ac56ba0d22f8f6d6e42f79cb8434"
 metafile = true
 
 [[files]]

@@ -1,8 +1,8 @@
 name = "PolaroidCamera"
-filename = "polaroidcamera-1.2.1.jar"
+filename = "polaroidcamera-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/HyperPigeon/PolaroidCamera/releases/download/v1.2.1/polaroidcamera-1.2.1.jar"
+url = "https://github.com/HyperPigeon/PolaroidCamera/releases/download/v1.2.2/polaroidcamera-1.2.2.jar"
 hash-format = "sha1"
-hash = "7b39a0b5faac152d530e3d452a820295bb5f872c"
+hash = "a73817a69aa4d22be72aa6c9dc6b733a93ea44f7"
