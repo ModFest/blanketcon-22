@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "219383dab5a172458e6683305854d3fdfdc68653a8352dceaf63b179cfb59d9d"
 
 [[files]]
+file = "config/quickconnectbutton.json5"
+hash = "d4341927e6f81b61e0fdca94bbd6ee76b781ba6ca5ac5010e9619b530bd71aba"
+
+[[files]]
 file = "mods/allium.toml"
 hash = "8b9e7dffb62b4261a8c8a25b7346249f0522f4f6c93383b451fe3dc243592b94"
 metafile = true
@@ -201,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/grapple.toml"
-hash = "fd379c6333aadac4a60cddd2a201ee88a37300a3d712c0c229d28de8bd28a56b"
+hash = "9dc9cfff102625a9afc91a504567942408604750911ab202b767aee482231b46"
 metafile = true
 
 [[files]]
@@ -236,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/incorporeal-3.toml"
-hash = "1c283ea012775b9414fb90a480a3635328d4fd13ec47a07b41fa872b7cae542f"
+hash = "7cc77d4c7e7f0217ab9d9ba705756dcffa3c48a9f2c8ab9b3f508e157ae6a111"
 metafile = true
 
 [[files]]
@@ -432,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/quark-demo.toml"
 hash = "6e8535fae87adf75c3f587dfcfd023d236a295de4de9556e04d2f0f1e7027aeb"
+metafile = true
+
+[[files]]
+file = "mods/quickconnectbutton.toml"
+hash = "14056e199239c88e18eb249e0133fd0788fd0e5e86eb12e2d4ea519b25ce10d4"
 metafile = true
 
 [[files]]
