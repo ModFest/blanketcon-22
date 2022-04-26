@@ -395,12 +395,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.toml"
-hash = "0df867248cdb06ca85303a0819587a7b728f4f3326e7921d5081aff4dfa084cc"
+hash = "915f269069e6c9f7e7d71c5c384929a02a14afd1d3045c08fffeec448b8d375e"
 metafile = true
 
 [[files]]
 file = "mods/polymc.toml"
-hash = "83b5e9487c59710a676cb93f7d9a66583ab88bb5e1dce5981cb5e7d253f082ec"
+hash = "0e8c9c651c561fd44002d65797c8bbc5709ace0ffafcaf97e241cf8855e10f67"
 metafile = true
 
 [[files]]
