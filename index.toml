@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.toml"
-hash = "da9f842210105fab5f5c61945e97f40ed5df9375486ba2bd046ddfa3c3d6b6c1"
+hash = "ed87c9d9768752f224079f855009d4029fa6f8a0fc74ee46a928429aa0792de1"
 metafile = true
 
 [[files]]
@@ -459,8 +459,8 @@ hash = "23b86f2744239a7ab0656565740655292f5f6de959072830ecc4a07352d1bc13"
 metafile = true
 
 [[files]]
-file = "mods/refined-magic.toml"
-hash = "3f81f332d3f8cefd2e27667cdffb370343ea7e679fd7186df65f2e5f2e66c67b"
+file = "mods/refmagic.toml"
+hash = "042e9643d1b06fc3f39de90740deaf2ac35a9f8c808ed00a2626aa8dca684688"
 metafile = true
 
 [[files]]
