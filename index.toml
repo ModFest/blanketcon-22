@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark-demo.toml"
-hash = "26c945c6fd0d0b9600e48d3d595dddf4367d04f3d1a19d3aa459cf50a67b241a"
+hash = "6e8535fae87adf75c3f587dfcfd023d236a295de4de9556e04d2f0f1e7027aeb"
 metafile = true
 
 [[files]]
