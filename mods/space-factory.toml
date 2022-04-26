@@ -1,8 +1,8 @@
 name = "Space Factory"
-filename = "space-factory-1.0.0.jar"
+filename = "space-factory-0.0.1-indev.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/958513632419938394/959845496439054396/space-factory-1.0.0.jar"
+url = "https://github.com/Reoseah/space-factory/releases/download/0.0.1-indev/space-factory-0.0.1-indev.jar"
 hash-format = "sha1"
-hash = "94a53bcdf0e06702b8d4ea402c46b8c0ad093a1e"
+hash = "a4fad93b774b0fc9ab86900e0150bfd9174123d7"

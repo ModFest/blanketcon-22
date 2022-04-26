@@ -1,8 +1,13 @@
 name = "Now Playing"
 filename = "now-playing-fabric-1.4.0.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/958513632419938394/959877049210781706/now-playing-fabric-1.4.0.jar"
+url = "https://edge.forgecdn.net/files/3769/771/now-playing-fabric-1.4.0.jar"
 hash-format = "sha1"
-hash = "89b515bea4fd44ff5a3bbef91da7f7948506570a"
+hash = "2e6b0ecceecd01fd3a8c4d8f6576660aab0d6fc0"
+
+[update]
+[update.curseforge]
+file-id = 3769771
+project-id = 398652

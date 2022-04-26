@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.toml"
-hash = "1fde7c6280e8f665e5c193e06dbc52ecf35666712c650a414ed5d3312779a37d"
+hash = "e117a7700ff25c5d6ad99988127632c8aef60163dacaf1495fa5d7181f7bcfa6"
 metafile = true
 
 [[files]]
@@ -114,8 +114,13 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
+file = "mods/consistency-plus.toml"
+hash = "2da07663afd164f1e5d007f1f8e9b8f24ba0698ca50a92b863ce1757d252b740"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.toml"
-hash = "1efe5be68fb0182784c29e198bd07816b97fa90b3757e43a9d7d8bcba683db0b"
+hash = "ca37822c9b4d624b6017edd76f09e274b98585152068f39d95b983906fbace24"
 metafile = true
 
 [[files]]
@@ -315,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/now-playing.toml"
-hash = "5d5f725b345ce3455af6b0810003290530f2d5c49199c2006304caced66b9349"
+hash = "18a6fa42b71f24f75421b3e7db170c921ad4d31ae795a96a2637e31b8495df6d"
 metafile = true
 
 [[files]]
@@ -500,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/space-factory.toml"
-hash = "d63398566c7b181abe7bbe3e3d4a274367816d1e93fa6c665e8a80f9adc72805"
+hash = "c1e5489a78994e7141bf10913a4966c364cf37e0f92c28b7efb84a0d7d6e2a33"
 metafile = true
 
 [[files]]
