@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/bing-bing-wahoo.toml"
-hash = "e4206f7efbb2b6ba6860581e07d99ad9207450d1f0d1059fd836e4c4b9a1612a"
+hash = "441abbefb79c7b14f41dfe6a0ded6a981caeddf83ddf1779698809296ee95a02"
 metafile = true
 
 [[files]]
