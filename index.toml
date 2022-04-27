@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.toml"
-hash = "ae6089b6d0bc22afb538b1c264075a3ab9ebe9e1ca51ba26115abd499dfa632a"
+hash = "d4b767ad9f527fa4058e72da8b0c36d4b052e36fd432202a8a7ba730d3923645"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.toml"
-hash = "bcf205eb881966d3d5f533755f897035041aeb746728547050cf7285d3bd6c7c"
+hash = "38dae2f9142efba2f19a92ba71a52f8b63108d16ed08e175486becd8fe01191a"
 metafile = true
 
 [[files]]
