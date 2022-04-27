@@ -9,6 +9,10 @@ file = "config/quickconnectbutton.json5"
 hash = "d4341927e6f81b61e0fdca94bbd6ee76b781ba6ca5ac5010e9619b530bd71aba"
 
 [[files]]
+file = "datapacks/nucleoid-datapack.zip"
+hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
+
+[[files]]
 file = "mods/allium.toml"
 hash = "8b9e7dffb62b4261a8c8a25b7346249f0522f4f6c93383b451fe3dc243592b94"
 metafile = true
@@ -31,6 +35,11 @@ metafile = true
 [[files]]
 file = "mods/aurorasdecorations.toml"
 hash = "f5a48a64177c2928fd1cbad5ef3ba226556221152d0b855591092b2b82de170e"
+metafile = true
+
+[[files]]
+file = "mods/automobility.toml"
+hash = "45a8bdf9ea35d950307bbf706345ad980cb707f758792c67686b1fdc14546ff3"
 metafile = true
 
 [[files]]
@@ -597,3 +606,7 @@ metafile = true
 file = "mods/yungs-api-fabric.toml"
 hash = "06280dacd1f58693322fc4b8f9cc65b46d73a51043fc175b6989b00f26d7f3e4"
 metafile = true
+
+[[files]]
+file = "resourcepacks/botania_textures.zip"
+hash = "ddd3b61e6d0a4273fd0d5fbe4933f41a43048ea83ade22a6c8e9719cc08164d1"
