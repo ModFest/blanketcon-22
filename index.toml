@@ -414,12 +414,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.toml"
-hash = "915f269069e6c9f7e7d71c5c384929a02a14afd1d3045c08fffeec448b8d375e"
+hash = "42b7a968471e1f7145d8d0e1e634aa382ca04eff80a71d30ad26f30e8cac8214"
 metafile = true
 
 [[files]]
 file = "mods/polymc.toml"
-hash = "0e8c9c651c561fd44002d65797c8bbc5709ace0ffafcaf97e241cf8855e10f67"
+hash = "42ab77aad5e8f118207ad755aa8c25102c879f1b69d12c56804a4d7be69a0ace"
 metafile = true
 
 [[files]]
@@ -583,6 +583,11 @@ hash = "bbdeb567f8455cdb34662cb1700204fb3b88ec2c597e2f41c97470fa58386168"
 metafile = true
 
 [[files]]
+file = "mods/wdmnf.toml"
+hash = "bd3612a4d211181f8b663cfea983480187a26235422c8cdd62530992a6a04dd5"
+metafile = true
+
+[[files]]
 file = "mods/witherite-plus.toml"
 hash = "c13bcc6f7a38470b97f35eb8d7be0196cc3e4e9a7130272a58d1d8c50999edde"
 metafile = true
@@ -609,4 +614,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/botania_textures.zip"
-hash = "ddd3b61e6d0a4273fd0d5fbe4933f41a43048ea83ade22a6c8e9719cc08164d1"
+hash = "0e1fefddfb788b8ee981334e88e990e2753615a73188f6a2064ccff290d96025"
