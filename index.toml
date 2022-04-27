@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-fabric.toml"
-hash = "c3c7bf02d0049dd3a0b8ed54f1a5eac6b16c35356c0fd000d36291adf762cdee"
+hash = "af45970ec75dccbb9b6a5f553e7aecbe5ab8c7f06e65abaffa679603c9af6240"
 metafile = true
 
 [[files]]
