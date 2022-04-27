@@ -1,0 +1,8 @@
+name = "Server Translations API"
+filename = "server-translations-api-1.4.111.18.2-patbox-patch.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/958102057796124693/968781091777437716/server-translations-api-1.4.111.18.2-patbox-patch.jar"
+hash-format = "sha1"
+hash = "e26ccc782319c13d86077638d7596617fc1310a9"

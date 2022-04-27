@@ -1,8 +1,8 @@
 name = "Polymer"
-filename = "polymer-all-0.2.0-beta.37-wip1.18.2.jar"
+filename = "polymer-all-0.2.0-pre.1-quiltRegTest1.18.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/958102057796124693/960218009320972388/polymer-all-0.2.0-beta.37-wip1.18.2.jar"
+url = "https://cdn.discordapp.com/attachments/957930008054202410/968738496963563600/polymer-all-0.2.0-pre.1-quiltRegTest1.18.2.jar"
 hash-format = "sha1"
-hash = "7d977fd880bb49eebc41ae8162b018541027b6c5"
+hash = "2fccacfbe611ac2d70f1e787acd0773c53e6b457"

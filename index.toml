@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.toml"
-hash = "6724e0e77ea4dbebc64ec6d6bce761b9a3e33205c6f4166ade5a65d22afd3899"
+hash = "ae6089b6d0bc22afb538b1c264075a3ab9ebe9e1ca51ba26115abd499dfa632a"
 metafile = true
 
 [[files]]
@@ -149,6 +149,11 @@ hash = "7e39f1050250b13f9663bfe80fa1cea447c08baa54158acbf54ddff7f9e6ea54"
 metafile = true
 
 [[files]]
+file = "mods/dyeable-fishing-lines.toml"
+hash = "c3712b1e996fd9a4d77b04084c32fa7d45f789349e40edf1c315ad3015424e22"
+metafile = true
+
+[[files]]
 file = "mods/ears.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
@@ -220,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.toml"
-hash = "ed87c9d9768752f224079f855009d4029fa6f8a0fc74ee46a928429aa0792de1"
+hash = "4bb7b755f903d80b9749c4b5c0552367ed8f60aff70601410737e61064699164"
 metafile = true
 
 [[files]]
@@ -260,12 +265,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "4df16f85610e373b5ac1c9fd5908225e38c5b993cf471c5034f2190df1924157"
+hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
 metafile = true
 
 [[files]]
 file = "mods/jam-fabric.toml"
-hash = "5ff23f6c5984056e160bd62a86239888f6e238444ffef15f44f411432bfca808"
+hash = "7ff4c4c33ec3a7ca118c9b03dde1e079896904d28cc15d07835fbbad8e17e1d7"
 metafile = true
 
 [[files]]
@@ -405,7 +410,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.toml"
-hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
+hash = "375607dd6b57500ed4909d7e1d3b81b88ebb269616ed38033bd2e8e9b036bc5d"
+metafile = true
+
+[[files]]
+file = "mods/portal-cubed.toml"
+hash = "fc91d0d3efea0b18e429af8ff4168108f20e31e737c8d69d0fe6689ff0faa6d8"
 metafile = true
 
 [[files]]
@@ -429,8 +439,13 @@ hash = "d4aaf87477f861a57c0f49eb0f822d13074884acbd1a9a9cc1ed2e888652f85c"
 metafile = true
 
 [[files]]
+file = "mods/qsl-reg-sync.toml"
+hash = "652878629c414134142032a9227d8ce3c284729b67e864db6f8be4eda9e0c5ab"
+metafile = true
+
+[[files]]
 file = "mods/qsl.toml"
-hash = "fb226f346fbbb51a24545d51d13ef764ef2d7e37d7904b4c0862e187e8fd5665"
+hash = "3bae1d2bd38bc495b3d2ae30655842ae09ceac90747f71ad96af9bff7d82efe0"
 metafile = true
 
 [[files]]
@@ -455,12 +470,12 @@ metafile = true
 
 [[files]]
 file = "mods/reaping-mod-fabric.toml"
-hash = "23b86f2744239a7ab0656565740655292f5f6de959072830ecc4a07352d1bc13"
+hash = "8744ee082e262ded63a748e69c472e06012b5ee9304057ea9d66544ed1fcc0f1"
 metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "042e9643d1b06fc3f39de90740deaf2ac35a9f8c808ed00a2626aa8dca684688"
+hash = "a4e8a6ed443099f4e83e0602ded4f8fe0dee72b63ee4089171d5e9952e10b05a"
 metafile = true
 
 [[files]]
@@ -471,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/sandwichable.toml"
 hash = "4e20446b036abb7878f6af661917c220a0b9d95295db986c22966e5e39427fc4"
+metafile = true
+
+[[files]]
+file = "mods/server-translations-api.toml"
+hash = "c275200003e8ee925a496bc68aaaed749429b274c38d2435d41fd29b92897958"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "QSL - Registry"
+filename = "registry-1.1.0-beta.71.18.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/957930008054202410/968734221738852352/registry-1.1.0-beta.71.18.2.jar"
+hash-format = "sha1"
+hash = "91ed5ffe485ea983fee0762b0cf9ef35c085cf67"
