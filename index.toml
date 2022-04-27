@@ -228,6 +228,11 @@ hash = "585dee1e762c7c88e62c148cc5151f2a2b109a2d93419d282855e4aa3503e8a2"
 metafile = true
 
 [[files]]
+file = "mods/gravity-changer.toml"
+hash = "b399b61053e166cf29f96bddf90788e4bd8252d22e1499b7131e5e34ae96b200"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers-fabric.toml"
 hash = "e267f239a8f0f7ad6b2b573e752585949df92999c49ca8c1d49e34eb08bf5077"
 metafile = true
@@ -419,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.toml"
-hash = "375607dd6b57500ed4909d7e1d3b81b88ebb269616ed38033bd2e8e9b036bc5d"
+hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
 metafile = true
 
 [[files]]
@@ -448,13 +453,8 @@ hash = "d4aaf87477f861a57c0f49eb0f822d13074884acbd1a9a9cc1ed2e888652f85c"
 metafile = true
 
 [[files]]
-file = "mods/qsl-reg-sync.toml"
-hash = "652878629c414134142032a9227d8ce3c284729b67e864db6f8be4eda9e0c5ab"
-metafile = true
-
-[[files]]
 file = "mods/qsl.toml"
-hash = "3bae1d2bd38bc495b3d2ae30655842ae09ceac90747f71ad96af9bff7d82efe0"
+hash = "fb226f346fbbb51a24545d51d13ef764ef2d7e37d7904b4c0862e187e8fd5665"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.toml"
-hash = "597492c60c99367eb7c361b491fd1e79c55f2a287da2c4164f6b3b979952c9b9"
+hash = "e26b82bdb9bf431309361c50d5b515bb59c77202dfca04d5b0ca11098ab3c881"
 metafile = true
 
 [[files]]
