@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.toml"
-hash = "d4b767ad9f527fa4058e72da8b0c36d4b052e36fd432202a8a7ba730d3923645"
+hash = "2f9943cbf64e519ac7e2810fa71c98f8a3bcfa7e1202e7ab9ddddea45232748b"
 metafile = true
 
 [[files]]
