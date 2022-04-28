@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.toml"
-hash = "e792d9350d9f608dd9d207d5713815df6b8ad52d52fe35ea9c641b76362a0104"
+hash = "4a6a37f574a4da060dc0c0ad2feee1c2ebd2493793ec12adecc2427da59895d7"
 metafile = true
 
 [[files]]
@@ -414,12 +414,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.toml"
-hash = "42b7a968471e1f7145d8d0e1e634aa382ca04eff80a71d30ad26f30e8cac8214"
+hash = "ce48d7d918590a312a15842a3046887fd06419a7020ee706523b9708f89e14d5"
 metafile = true
 
 [[files]]
 file = "mods/polymc.toml"
-hash = "42ab77aad5e8f118207ad755aa8c25102c879f1b69d12c56804a4d7be69a0ace"
+hash = "b252652df61646dbafebed13e334acb4d4fa0da5e21e963d4f76663be4998538"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-translations-api.toml"
-hash = "c275200003e8ee925a496bc68aaaed749429b274c38d2435d41fd29b92897958"
+hash = "dbd5bcf95735bee148f333cfeea4b121dfd49ded6d1d76df298782455965e4df"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplevillagers.toml"
-hash = "42fcca9d28843b69555db8d0d99af06331b4d4a9d365fd1c2d09554745c5db26"
+hash = "5861a4eed949e8eb672b7d8de25f007fc911981c6093246bb5705cde28d7bcdb"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.toml"
-hash = "1e401c151eee8ca8da10929b13f357a4df2ca1a07975bcb261b6c467240d036e"
+hash = "551ab4b4b3205a8719dec8d1a561e6d01f992fa0546a5b2ea6ee976409250249"
 metafile = true
 
 [[files]]
