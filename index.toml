@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/archon.toml"
-hash = "2d2f452a9d52e99299ace71856e7c2227621b052314a1c32c8f7513ac49efcbb"
+hash = "18e3feaecf7a68c90b88153494243c7f34b0e5781d423472cd49e254e930e6df"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/transpositioners.toml"
-hash = "a9c582a103675192862c58d93f88a58a245cfac3aabdaff53021200f376edd68"
+hash = "10f66b812c702b0add24563985e8b23fe1816c4becc0312ceb5a54eed567d72c"
 metafile = true
 
 [[files]]

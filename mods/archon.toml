@@ -1,13 +1,13 @@
 name = "Archon"
-filename = "archon-0.2.3.jar"
+filename = "archon-0.2.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3735/542/archon-0.2.3.jar"
+url = "https://edge.forgecdn.net/files/3772/197/archon-0.2.4.jar"
 hash-format = "sha1"
-hash = "2026b1d8581d5d145eea2db6b2a5b1628e24948d"
+hash = "712f95dbc85dba367a2be801ba2bc34b770405a9"
 
 [update]
 [update.curseforge]
-file-id = 3735542
+file-id = 3772197
 project-id = 575339
