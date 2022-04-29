@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "2a74359924de436d814c7a66c54df3547dcbcd23b65398bb2408621989c791f7"
+hash = "3cda84e88f61b6fe403f50137d90f22c4e0c84e121fb10ee4f1c16497b329612"
 metafile = true
 
 [[files]]
