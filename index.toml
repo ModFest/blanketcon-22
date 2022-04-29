@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-translations-api.toml"
-hash = "dbd5bcf95735bee148f333cfeea4b121dfd49ded6d1d76df298782455965e4df"
+hash = "98529c0dc167412120145fae73888216bce81296f3087cb3eb497d3c10f768ba"
 metafile = true
 
 [[files]]
