@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.toml"
-hash = "1f544670f8869637bb9d222cb4a6cb49dc513a1bb62ed2047639368575515858"
+hash = "e867e764a313e4f894aae38998055abcbff5210c309b9c1df1b723c0a1942bc9"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/smithy.toml"
-hash = "90ef7be2b833d5b052d7016bb4e8d8a960808c42968409147e906ca1d0a6c65b"
+hash = "e2adbb0cb12c4a525deb13f04f4f4ec85f96e7048f1066df4b160914a09bd251"
 metafile = true
 
 [[files]]
