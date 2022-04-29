@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.toml"
-hash = "b399b61053e166cf29f96bddf90788e4bd8252d22e1499b7131e5e34ae96b200"
+hash = "ad0315780a4dc055d148ed93a2ed86480b3656182b2658f2aa0132857add8aa7"
 metafile = true
 
 [[files]]
