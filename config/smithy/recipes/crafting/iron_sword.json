@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" #",
+		"/ "
+	],
+	"key": {
+		"#": { "item": "smithy_custom:iron_sword_blade" },
+		"/": { "item": "minecraft:stick" }
+	},
+	"result": { "item": "minecraft:iron_sword" }
+}

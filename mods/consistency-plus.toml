@@ -1,8 +1,8 @@
 name = "Consistency+"
-filename = "consistency_plus-0.5.0+1.18.2-fabric.jar"
+filename = "consistency_plus-fabric-0.5.01.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968595769353457725/968595947481366608/consistency_plus-0.5.01.18.2-fabric.jar"
+url = "https://cdn.discordapp.com/attachments/745979270748307458/969705761041174608/consistency_plus-fabric-0.5.01.18.2.jar"
 hash-format = "sha1"
-hash = "00f1fafb8042c10cfd0620b450b1396435515457"
+hash = "52cd5607103c7c669f172690548889b4946c120a"
