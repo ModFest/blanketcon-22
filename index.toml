@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildbattle.toml"
-hash = "84bca60e93e2f7c7f20c5238e6eb506f9107832f806ca955c9375a0575254fea"
+hash = "9cf9fa4680fd0543206969f61610d833915aed1f966740d86733387d28bc8179"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid.toml"
-hash = "1eb3df90b9e54cf970d9691c7a90203c226c8151292e20ea2347ca5a16683052"
+hash = "d059f732ec0e8da3051150d48038f287a5e0d5eeacc00a6a2b46913b4df01d2e"
 metafile = true
 
 [[files]]
@@ -561,11 +561,6 @@ metafile = true
 [[files]]
 file = "mods/polymc.toml"
 hash = "b252652df61646dbafebed13e334acb4d4fa0da5e21e963d4f76663be4998538"
-metafile = true
-
-[[files]]
-file = "mods/polymer.toml"
-hash = "19956171b6a58e1e7723fa94f59f06a00d6ed7f0d1e594a4dd5eb97b2405ec51"
 metafile = true
 
 [[files]]
@@ -636,11 +631,6 @@ metafile = true
 [[files]]
 file = "mods/sandwichable.toml"
 hash = "4e20446b036abb7878f6af661917c220a0b9d95295db986c22966e5e39427fc4"
-metafile = true
-
-[[files]]
-file = "mods/server-translations-api.toml"
-hash = "98529c0dc167412120145fae73888216bce81296f3087cb3eb497d3c10f768ba"
 metafile = true
 
 [[files]]

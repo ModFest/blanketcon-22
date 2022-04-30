@@ -1,8 +1,0 @@
-name = "Server Translations API"
-filename = "server-translations-api-1.4.11+1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://maven.nucleoid.xyz/fr/catcore/server-translations-api/1.4.11%2B1.18.2/server-translations-api-1.4.11%2B1.18.2.jar"
-hash-format = "sha1"
-hash = "d46f74930174efc0241db2461e10f4d2825bd5db"
