@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.toml"
-hash = "e867e764a313e4f894aae38998055abcbff5210c309b9c1df1b723c0a1942bc9"
+hash = "59aa40b0d320b966bc4f23cd342fabf84282fe5c4b77516ec4ccbd35ad6fde59"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/milk_plus.toml"
-hash = "9693b41ce9c3a7d7901677846048f5de7b982c253a3d1cbb5eca7fe308362512"
+hash = "ebfc3c21a6f1e111dae8fede606929a71859d0991d9266041c98ada9afeb4068"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "3cda84e88f61b6fe403f50137d90f22c4e0c84e121fb10ee4f1c16497b329612"
+hash = "c3f2ff4ab94e07686f345292e07a28d3c2cedd228cc4883694c0e41ae996b7fb"
 metafile = true
 
 [[files]]
