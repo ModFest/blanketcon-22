@@ -13,6 +13,54 @@ file = "config/smithy/fuels/README.txt"
 hash = "354fd76ac5fb72d8a09a1e760d2f04c3656b75b829fd56f031a5963842060607"
 
 [[files]]
+file = "config/smithy/items/Blue Steel Axe Head.png"
+hash = "d86fa31df9c9bddcbc623d0c5cfddecaaccff093a08284ffe6a3e8bf95613aba"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Axe.png"
+hash = "95764c823f0678e19ae0e75a2594b92021cfe3a12e61e4e418cc1a81f170b125"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Double Ingot.png"
+hash = "74b2bfbde462dc931e7d348a0ac4f8234e552c1ce70ce036398fd5cfbffbf53e"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Hoe Head.png"
+hash = "c539fc6d2c8c15c3d803d1c63d55326e8f012f045b4beadeaf77fecbc0b4fc21"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Hoe.png"
+hash = "6cbd5f6017a48c75820972198a080de3b2bb19b789f34c34fc08493390667d51"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Ingot.png"
+hash = "34c65ab1d786bd38133329b24d1747afdc45e54988e9cbfa26aee25951011b45"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Pickaxe Head.png"
+hash = "5c0aeb8d4099f1199d9eacbf5f89b9d0d6915de90438544857cd3932e6621f8d"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Pickaxe.png"
+hash = "19e4de2dae688d404ce88aa262952638d8acb465a12a60e887583da73a404aa4"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Shovel Head.png"
+hash = "b94d748e6319195b26b5448f4082ec61ada4cdefeb96468a795f0f8f0821e491"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Shovel.png"
+hash = "0ecb6bd3cd51124ce1a1b3161969322ac267c146b6907dee977c263c9fcda0e1"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Sword Blade.png"
+hash = "3ac5d476a7e22d3503fbdfd68f13830cb9469197fd92fdb678778f1ec043b3e8"
+
+[[files]]
+file = "config/smithy/items/Blue Steel Sword.png"
+hash = "7c9de90dd8bef1c1d045deb94e0f30fa77e6a2d3318479b07cf4211668552112"
+
+[[files]]
 file = "config/smithy/items/Iron Axe Head.png"
 hash = "9f46e55019091b3fd619bb2baa32e0811e733493a8868e87a812fb32ce10d946"
 
