@@ -344,11 +344,6 @@ hash = "1a1d3f1b6b1b3fcebcd986dc0f6635d3ae3ecb18375403190e381e4f54881b00"
 metafile = true
 
 [[files]]
-file = "mods/get-off-my-lawn-reserved.toml"
-hash = "5a328e16a17f3247a27ff5145ec86348e6e5fa50aa6ee48aca1aaff979288998"
-metafile = true
-
-[[files]]
 file = "mods/glowcase.toml"
 hash = "165d31b5019dfd45583f8c4dcbbc889c6d14698f21c56351eac69e7756d7bba1"
 metafile = true
@@ -356,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders-fabric.toml"
 hash = "6946d91c8113c8ec2bf521004a5d7585e70ea4e0937643cafab3fcf9d2436f23"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.toml"
+hash = "04f8e88ce2e19cf7462753c38b999878d4e18bc5f899726e12e8210f48aa6cb1"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "d0c4d23f688618f6c47e21d4760a619a389bbac2cd5b8ef8d625c7ade32b0229"
+hash = "618cb76373c647b872a313cdf1c80ce2f37e18301cb31f49b62bb78f09c48661"
 metafile = true
 
 [[files]]
