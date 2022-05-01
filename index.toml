@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/smithy.toml"
-hash = "f19d1d0ff97522c198d5c482b8f2fa582f156e17f4bd9b0f3238206be27a9fe0"
+hash = "4b4e1a80be367c72da5ab2f372ab4fcc99ff3e180fd91e86870d392031dfefe3"
 metafile = true
 
 [[files]]
