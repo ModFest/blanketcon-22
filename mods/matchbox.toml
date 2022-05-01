@@ -1,8 +1,8 @@
 name = "Matchbox"
-filename = "matchbox-0.2.0.jar"
+filename = "matchbox-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/969753760769392710/matchbox-0.2.0.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/970139526414598244/matchbox-0.2.1.jar"
 hash-format = "sha1"
-hash = "fdbc3b6bd1c941cb31583502c917c3285d745855"
+hash = "0d6e5b569365afd933e801fdc8c64ee250cac851"

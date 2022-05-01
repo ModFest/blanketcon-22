@@ -1,8 +1,8 @@
 name = "Smithy"
-filename = "Smithy-1.0-pre+blanketcon.1.jar"
+filename = "Smithy-1.0-pre+blanketcon.2.jar"
 side = "both"
 
 [download]
-url = "https://unascribed.com/f/56663ac9/Smithy-1.0-pre+blanketcon.1.jar"
+url = "https://unascribed.com/f/21e8e419/Smithy-1.0-pre+blanketcon.2.jar"
 hash-format = "sha1"
-hash = "3c5c3e7cd8a63414b0257961022396604111fba9"
+hash = "35d62405fc90cbbc066fa19142a77bc58f4cbbc4"

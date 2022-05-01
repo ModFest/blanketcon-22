@@ -1,13 +1,13 @@
-name = "Reaping Mod"
-filename = "reaping-1.7.1.jar"
+name = "Reaping"
+filename = "reaping-2.0.0+fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3770/927/reaping-1.7.1.jar"
+url = "https://edge.forgecdn.net/files/3775/366/reaping-2.0.0+fabric.jar"
 hash-format = "sha1"
-hash = "ff26eafc3589796813ed22587b48429e2d02adc7"
+hash = "e55cf430fcfcf30a63bd34b057d6206269068757"
 
 [update]
 [update.curseforge]
-file-id = 3770927
+file-id = 3775366
 project-id = 485532
