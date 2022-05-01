@@ -1,8 +1,8 @@
 name = "Portal Cubed"
-filename = "portal_cubed-2.0.5.jar"
+filename = "portal_cubed-2.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/969768619032592424/portal_cubed-2.0.5.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/970461456925605908/portal_cubed-2.0.6.jar"
 hash-format = "sha1"
-hash = "f985871049c5c35457529e170c006ca1aa2c0317"
+hash = "f48f7080f128082c2d40652c91d56fe6fb8f59bb"
