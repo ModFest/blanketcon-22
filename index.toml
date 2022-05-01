@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.toml"
-hash = "59aa40b0d320b966bc4f23cd342fabf84282fe5c4b77516ec4ccbd35ad6fde59"
+hash = "e6758dd209ef66d201a232c2a67ae564c34996f37a2eb50863e6693e778128a1"
 metafile = true
 
 [[files]]
@@ -701,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/transpositioners.toml"
 hash = "10f66b812c702b0add24563985e8b23fe1816c4becc0312ceb5a54eed567d72c"
+metafile = true
+
+[[files]]
+file = "mods/tree-hollows.toml"
+hash = "1d27771269ced4622cf5aecbe4624529bd66403be30ba132cc9566274d9c8b90"
 metafile = true
 
 [[files]]
