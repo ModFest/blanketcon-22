@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.toml"
-hash = "cc011a7fd93bf899560ff5c07039e84428ce315fec71ccc74d278126cb572fbb"
+hash = "ed09f3896c24836170ff45bdefac436d0149f545d7f498ddf25fdfaa3b7c9604"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "a4e8a6ed443099f4e83e0602ded4f8fe0dee72b63ee4089171d5e9952e10b05a"
+hash = "4744c64d821c4b1f0a576212ecff48c5fc6869cd6eeb4fb851836f842e434d66"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.toml"
-hash = "551ab4b4b3205a8719dec8d1a561e6d01f992fa0546a5b2ea6ee976409250249"
+hash = "b8d2f92914a435b7dcdd812853c15b23518cccbf19dd3c3f293ecb53f191bb4b"
 metafile = true
 
 [[files]]
