@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "4744c64d821c4b1f0a576212ecff48c5fc6869cd6eeb4fb851836f842e434d66"
+hash = "9c549a1cdb77c572a1e27667736dce3d133ea895dbcdd797e7f8971208510296"
 metafile = true
 
 [[files]]
