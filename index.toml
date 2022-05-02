@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.toml"
-hash = "75761b636d0e270c8a5404cd58f01bbde190d5fa76acf97af4a1b62370439e8d"
+hash = "0ba0ac93c5c975a4dea04e93686cee81154ef7bf130995d3beacd169f608dcd9"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.toml"
-hash = "4a6a37f574a4da060dc0c0ad2feee1c2ebd2493793ec12adecc2427da59895d7"
+hash = "b426c2c8f60497b1ebbf8ef17ff7021b5643f782dafb2c80f634d5afe12846fd"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.toml"
-hash = "e267f239a8f0f7ad6b2b573e752585949df92999c49ca8c1d49e34eb08bf5077"
+hash = "356be64333cecf852037bbe68c8840db7c5859e32b73c0a0042e02e8f02a002f"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/matchbox.toml"
-hash = "1c4c8753e55daff1b315de90d134409d2f28ff8f4b01c552ceb735485a23f449"
+hash = "44bc3e32f6e206629e6169cdd848f5e3a8df30dcc464a3e3634a27d10f872a6b"
 metafile = true
 
 [[files]]
@@ -543,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "bc3cf34f0cb9248a9d146784669bc5f329d90dc6280fdb2e03f9a9f0a3fe28e1"
+hash = "857e189b10feac30d19c2c6925dee5334e797d4ed8548c9d72bd9b09fc37d4ec"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "c26384eb1b09788b8fa52e964fc18b1c637f7082af45aabb19b698fc268b0746"
+hash = "da32a510011b03c5594c1066cda5b4585931d7dafb1e109e926b70e74eb15e31"
 metafile = true
 
 [[files]]
@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-hollows.toml"
-hash = "1d27771269ced4622cf5aecbe4624529bd66403be30ba132cc9566274d9c8b90"
+hash = "a9cc56561a0637c794eee357734603ade90fae53bf73ca19c639f367048d8eab"
 metafile = true
 
 [[files]]
