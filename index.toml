@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/tome-of-tiamathia.toml"
-hash = "2c0fb3dc815aad9e5ac410e7e1d1dbcfb9ee09c19742e63d9aa7e5925de1747b"
+hash = "611226db5cb2c0df148eeb01aa85587cffc09de04c71b1dbadc76b12cb5cf55b"
 metafile = true
 
 [[files]]
