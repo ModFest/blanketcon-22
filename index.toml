@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm4fabric.toml"
-hash = "063d3a7e631340db8607614d76b48f2a5f0808a21774679f5669e127b1427a5a"
+hash = "4629b92cbf89489a5df66e7fed56f5d7d49242761e00d849068d262da71b5e14"
 metafile = true
 
 [[files]]
