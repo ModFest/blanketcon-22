@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.toml"
-hash = "ed09f3896c24836170ff45bdefac436d0149f545d7f498ddf25fdfaa3b7c9604"
+hash = "6b7ea9925bca025a2ebbb7e66ec356b7d9f26adb9e015e2d62ed86bb6e8152cc"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.toml"
-hash = "0ba0ac93c5c975a4dea04e93686cee81154ef7bf130995d3beacd169f608dcd9"
+hash = "551a679f4f71b110a8e23ce861dc30d463296e2849f776d42d77390e8ec39bb5"
 metafile = true
 
 [[files]]
@@ -264,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/bits-and-chisels.toml"
 hash = "50b181bec40818218b1d51c1b0f8760c5f2a9cf7dc0c879bc26de7b86b7ab388"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "7182ffc62445fb6a8276cba3474db95d4c9b01e0e918dc4833455a176f407fb5"
 metafile = true
 
 [[files]]
@@ -313,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "9340598b90932791e4c84d1dac0e483192d632783fed396d7d2154aa17255b79"
+hash = "3f3eefff89b6579c00439b44825ba31ae3345284590f0f77b386e49e9d21b5ed"
 metafile = true
 
 [[files]]
@@ -352,6 +357,16 @@ hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.toml"
+hash = "fc78f929fc4663f2297910b6d6a2d8c3b67718de93d406c2698ae24fe9c3b556"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.toml"
+hash = "82ef828b58e8bf0d8c03787f7b919a569341ffa30fee8bea935235ca02e7639e"
+metafile = true
+
+[[files]]
 file = "mods/end-goblin-traders-fabric.toml"
 hash = "ac2f112779d79923e894118f68c4e3b90653155d854b082a249c4d5c61da9bee"
 metafile = true
@@ -378,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/flowerycore.toml"
-hash = "bd18316aed9e0bf54c09019900271bdc5b078967223c671562f530f307e5dedd"
+hash = "5b917d3036cc99e285a3a28674a853472f506ac99ba00eace7600949003fef7d"
 metafile = true
 
 [[files]]
@@ -613,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "846726049f142aa0d5fc67a2630b4a5586c3301ec01932dc88a9ff565e5a9339"
+hash = "631b274048e3b8e45e9d1ec24dbc00f04858c609426a342b0e5f2e15102d2f4c"
 metafile = true
 
 [[files]]
@@ -738,12 +753,17 @@ metafile = true
 
 [[files]]
 file = "mods/thonkutil.toml"
-hash = "79d1df1f77559bf750facbcbf3948c614a67d5684c508ffc829bbb178345a688"
+hash = "9432afd2f7d16927a92363bd4c6cede6a1cd307ad07478cd8db92bc5a088c75e"
 metafile = true
 
 [[files]]
 file = "mods/tome-of-tiamathia.toml"
 hash = "611226db5cb2c0df148eeb01aa85587cffc09de04c71b1dbadc76b12cb5cf55b"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "57279a8ae2d7c6e5053da3909d95254118db533d9a38c1a0763bf602d80c933d"
 metafile = true
 
 [[files]]
