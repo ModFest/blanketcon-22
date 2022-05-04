@@ -1,8 +1,8 @@
 name = "CC: Restitched"
-filename = "cc-restitched-1.100.5applause-applause-applause.jar"
+filename = "cc-restitched-1.100.5+birdhouse-in-your-soul.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/971389912123310130/cc-restitched-1.100.5applause-applause-applause.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/971550379743535135/cc-restitched-1.100.5birdhouse-in-your-soul.jar"
 hash-format = "sha1"
-hash = "8eea645cea9913b43054f41a887ee42ce9a10e34"
+hash = "78daf709bdae4858d373b4b097817753a4b49098"
