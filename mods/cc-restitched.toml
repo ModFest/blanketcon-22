@@ -1,13 +1,8 @@
 name = "CC: Restitched"
-filename = "cc-restitched-1.100.5.jar"
+filename = "cc-restitched-1.100.5applause-applause-applause.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3723/736/cc-restitched-1.100.5.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/971389912123310130/cc-restitched-1.100.5applause-applause-applause.jar"
 hash-format = "sha1"
-hash = "8a5fc918a5dc0852a66a87aa09b157aefc03b276"
-
-[update]
-[update.curseforge]
-file-id = 3723736
-project-id = 462672
+hash = "8eea645cea9913b43054f41a887ee42ce9a10e34q"

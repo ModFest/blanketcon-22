@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.toml"
-hash = "65e8ab9f0e27d5c24dd799c8a0ac0bbe5620cdf3c419ee9560d361fff1895234"
+hash = "42916984a44b60ff353247c23df6b8aa40e6145eaa3ba4c4db93b2c18649fbf0"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.toml"
-hash = "356be64333cecf852037bbe68c8840db7c5859e32b73c0a0042e02e8f02a002f"
+hash = "fc37edd8ea12bfefcf5a40c273d32b0b39f463a8d61b207c49fc8b46ca972be4"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/icy-incitement.toml"
-hash = "3256bbb152628eddce18be2b0424fea76c3b377fe878c42d8537ef4be90863d8"
+hash = "39661571621567f014d69eb932ddf0dea77b957af8465c2290ff484b51f3e5f1"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/reaping-mod-fabric.toml"
-hash = "fd5d747b43ace8d2a788f0e279c6f042689fcaa5193bc47c73c732ac7ede257c"
+hash = "60fbc5281e27d7b182409db0b81909767eced6ddba30db758d5518c319d5f8ad"
 metafile = true
 
 [[files]]

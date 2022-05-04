@@ -1,13 +1,13 @@
 name = "Icy Incitement"
-filename = "icy-incitement-1.18.2-fabric-1.1.1.jar"
+filename = "icy-incitement-1.18.2-fabric-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Zj1ND0rS/versions/1.1.1/icy-incitement-1.18.2-fabric-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/Zj1ND0rS/versions/1.1.2/icy-incitement-1.18.2-fabric-1.1.2.jar"
 hash-format = "sha1"
-hash = "d885936417df7532b9a309943c51effbb6ed51e8"
+hash = "c7b0eff2163c16659f96ca0d487a9ca5049a0642"
 
 [update]
 [update.modrinth]
 mod-id = "Zj1ND0rS"
-version = "oXQBdwC3"
+version = "q2faboLY"
