@@ -367,11 +367,6 @@ hash = "82ef828b58e8bf0d8c03787f7b919a569341ffa30fee8bea935235ca02e7639e"
 metafile = true
 
 [[files]]
-file = "mods/end-goblin-traders-fabric.toml"
-hash = "ac2f112779d79923e894118f68c4e3b90653155d854b082a249c4d5c61da9bee"
-metafile = true
-
-[[files]]
 file = "mods/endermantic-overhaul.toml"
 hash = "0424f533731aa99fea243c39b7eef305e279788d48159f50cc1ef4c36a8d419c"
 metafile = true
@@ -412,11 +407,6 @@ hash = "165d31b5019dfd45583f8c4dcbbc889c6d14698f21c56351eac69e7756d7bba1"
 metafile = true
 
 [[files]]
-file = "mods/goblin-traders-fabric.toml"
-hash = "6946d91c8113c8ec2bf521004a5d7585e70ea4e0937643cafab3fcf9d2436f23"
-metafile = true
-
-[[files]]
 file = "mods/goml-reserved.toml"
 hash = "04f8e88ce2e19cf7462753c38b999878d4e18bc5f899726e12e8210f48aa6cb1"
 metafile = true
@@ -438,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.toml"
-hash = "4bb7b755f903d80b9749c4b5c0552367ed8f60aff70601410737e61064699164"
+hash = "45df33e63072c8535dc1b51436506018f80ae0cf644afb99a5b02a01825a0733"
 metafile = true
 
 [[files]]
@@ -752,11 +742,6 @@ hash = "ba4c85d3c6da8cd0ea27bae046c59a39009b1c703af0a9ace73cf9a4164b2dfe"
 metafile = true
 
 [[files]]
-file = "mods/thonkutil.toml"
-hash = "9432afd2f7d16927a92363bd4c6cede6a1cd307ad07478cd8db92bc5a088c75e"
-metafile = true
-
-[[files]]
 file = "mods/tome-of-tiamathia.toml"
 hash = "611226db5cb2c0df148eeb01aa85587cffc09de04c71b1dbadc76b12cb5cf55b"
 metafile = true
@@ -813,7 +798,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.toml"
-hash = "06280dacd1f58693322fc4b8f9cc65b46d73a51043fc175b6989b00f26d7f3e4"
+hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
 metafile = true
 
 [[files]]
