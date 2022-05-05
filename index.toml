@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.toml"
-hash = "e115ac72879b1bf3401abc200a9a0b95056d4452f0b1ba61a7c062312c0fd714"
+hash = "37aa09836a3b57c9566eb9b1fe7cf53df771cde871c34a81140a684649fc209e"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "857e189b10feac30d19c2c6925dee5334e797d4ed8548c9d72bd9b09fc37d4ec"
+hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
 
 [[files]]

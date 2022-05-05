@@ -1,13 +1,13 @@
 name = "Enchancement"
-filename = "enchancement-1.18-5.jar"
+filename = "enchancement-1.18-7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3780/209/enchancement-1.18-5.jar"
+url = "https://edge.forgecdn.net/files/3780/897/enchancement-1.18-7.jar"
 hash-format = "sha1"
-hash = "2dfdf762b6d15596728bca175a8c26a57941f4ae"
+hash = "0f988773e4e25eb3d674fc95096be76544c44861"
 
 [update]
 [update.curseforge]
-file-id = 3780209
+file-id = 3780897
 project-id = 598056
