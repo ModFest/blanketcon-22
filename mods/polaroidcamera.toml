@@ -1,8 +1,13 @@
-name = "PolaroidCamera"
-filename = "polaroidcamera-1.2.2.jar"
+name = "Polaroid Camera "
+filename = "polaroidcamera-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/HyperPigeon/PolaroidCamera/releases/download/v1.2.2/polaroidcamera-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/9dPDuh0K/versions/v1.2.3/polaroidcamera-1.2.3.jar"
 hash-format = "sha1"
-hash = "a73817a69aa4d22be72aa6c9dc6b733a93ea44f7"
+hash = "71558ae2772c137425db9bb26eae7c1fc27bc035"
+
+[update]
+[update.modrinth]
+mod-id = "9dPDuh0K"
+version = "wTPVu10T"

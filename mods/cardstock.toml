@@ -1,8 +1,8 @@
 name = "cardstock"
-filename = "cardstock-1.0.3.jar"
+filename = "cardstock-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/957930008054202410/966522987840954398/cardstock-1.0.3.jar"
+url = "https://github.com/repulica/CardStock/releases/download/1.0.4/cardstock-1.0.4.jar"
 hash-format = "sha1"
-hash = "1899d623912e52bee0d4514ab4672c40f97b3606"
+hash = "c4847b5b2e76680aa6ed1e61d923990fae3b980f"

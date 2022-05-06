@@ -1,8 +1,0 @@
-name = "Not Enough Creativity"
-filename = "NotEnoughCreativity-Fabric-1.17-1.3.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/unascribed/NotEnoughCreativity/releases/download/v1.3.2/NotEnoughCreativity-Fabric-1.17-1.3.2.jar"
-hash-format = "sha1"
-hash = "9b4da45df982b7a28bebd377bcd728b6dea642b0"

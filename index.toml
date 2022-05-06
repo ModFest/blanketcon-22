@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
+hash = "cc31d30724f40c4168c01bbef66785cf2a614b8c6bc5ddaf0e362406dbe1842e"
 metafile = true
 
 [[files]]
@@ -214,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/armorstandeditor.toml"
 hash = "555d8e540ee5e767018c0a7a8b968f7a9b2bc631d5dd59693977475733301580"
+metafile = true
+
+[[files]]
+file = "mods/aura.toml"
+hash = "ced630fd4276054d4973195b8b7e4ecf37dd8a81a44325c24a424f8e1ddf60c4"
 metafile = true
 
 [[files]]
@@ -283,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardstock.toml"
-hash = "40455c70e5a1fdcacd04fb702a69c6ab944516febf59ddf8582f9f7e486f334d"
+hash = "5578f4c1106698d0aca53c7759c5d5c2d9cdcd94965254758521c8e7a9427008"
 metafile = true
 
 [[files]]
@@ -358,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.toml"
-hash = "37aa09836a3b57c9566eb9b1fe7cf53df771cde871c34a81140a684649fc209e"
+hash = "89beeabbfb315e490e8e5566ea3e26a9992312fc798249170333934feeb36ae8"
 metafile = true
 
 [[files]]
@@ -527,11 +532,6 @@ hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-creativity.toml"
-hash = "20a36386ef9a76e15cdb1d09125aebf2e060213e59ae7b682978afc9d28772a5"
-metafile = true
-
-[[files]]
 file = "mods/now-playing.toml"
 hash = "18a6fa42b71f24f75421b3e7db170c921ad4d31ae795a96a2637e31b8495df6d"
 metafile = true
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.toml"
-hash = "30c3eef3ab9a4a9e8d06e493a16a31680bd4ac56ba0d22f8f6d6e42f79cb8434"
+hash = "1a255f844f591847a6ab42c049c110d3a35e5788547b8f9ad17d84010b5085b1"
 metafile = true
 
 [[files]]
