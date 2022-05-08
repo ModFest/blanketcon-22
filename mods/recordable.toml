@@ -1,0 +1,8 @@
+name = "Recordable"
+filename = "recordable-0.1.0a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/972660083509059584/recordable-0.1.0a.jar"
+hash-format = "sha1"
+hash = "76ab9cd829e3e72c12f2678a46e65ab5fef933e2"

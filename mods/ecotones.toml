@@ -1,0 +1,8 @@
+name = "Ecotones"
+filename = "ecotones-0.9.blankiecon.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/972678478283546735/ecotones-0.9.blankiecon.jar"
+hash-format = "sha1"
+hash = "91aaaf80dbfcd35267ced499176ce9a1bf8f7003"
