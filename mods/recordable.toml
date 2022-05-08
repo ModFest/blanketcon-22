@@ -1,8 +1,8 @@
 name = "Recordable"
-filename = "recordable-0.1.0a.jar"
+filename = "recordable-0.1.0a-glibfab.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/972660083509059584/recordable-0.1.0a.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/972697902445133865/recordable-0.1.0a-glibfab.jar"
 hash-format = "sha1"
-hash = "76ab9cd829e3e72c12f2678a46e65ab5fef933e2"
+hash = "a226216d1f194c185c590c4ff1923cb5541b8466"

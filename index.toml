@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.toml"
-hash = "6cd6e11041c536dd47226a51f080b537699667e49f76069bc9306cbe817eb276"
+hash = "910db25b850448f068cdbe4e3003cff1dbf9558644c217d7cdf0c64e8c048a24"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/recordable.toml"
-hash = "c55330f04006b04a05318803fda9c4bbb7ba3fd9a24a561ec538ecaf27327c9b"
+hash = "5dca466c1dac7e0264d71e61b17b4bf056a9c74756caf180685e01296826d7e3"
 metafile = true
 
 [[files]]
