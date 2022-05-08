@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.toml"
-hash = "6b7ea9925bca025a2ebbb7e66ec356b7d9f26adb9e015e2d62ed86bb6e8152cc"
+hash = "88205e2221cf98b5144e19b50463f43e726b6eaaa710feaf750e71704ac78071"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.toml"
-hash = "7ff4c4c33ec3a7ca118c9b03dde1e079896904d28cc15d07835fbbad8e17e1d7"
+hash = "69c750827c90ed239d882d8d3c32dc5579462ee0e41ef912b3eaf3b8a8186433"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.toml"
-hash = "1a255f844f591847a6ab42c049c110d3a35e5788547b8f9ad17d84010b5085b1"
+hash = "0482ebefe7ae42ab1b0971de233175860ef6d9f80f8fad657606097484248bae"
 metafile = true
 
 [[files]]
