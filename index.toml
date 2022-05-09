@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.toml"
-hash = "77a846b893ff08d1fd00f5317c1ab7e38c4767608e8b9dbe88694b5a81da1cca"
+hash = "ca80f70cf29ad76d095fe69ac659e3158e67061cf7bf87cebdcaa52b6d56b762"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/qcraft.toml"
-hash = "d4aaf87477f861a57c0f49eb0f822d13074884acbd1a9a9cc1ed2e888652f85c"
+hash = "5cc67fdc4f414a9ebda1cd2c4908e3f3d5e7cfb3bfcf8f16606b2110e78b2f0e"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/recordable.toml"
-hash = "5dca466c1dac7e0264d71e61b17b4bf056a9c74756caf180685e01296826d7e3"
+hash = "d4e3c69885ce4293c33a5a026096fdf331bf76f50eca2108f5eef6dbac9daac0"
 metafile = true
 
 [[files]]
