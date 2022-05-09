@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.toml"
-hash = "d529e9e73e1d7428078b1fc5cbac890ee04aab8966346c565929790148077602"
+hash = "460ebeba489d4e72d6ddb9ae8bb923e6580cb64ab7c0ec5b0434e731b82a3000"
 metafile = true
 
 [[files]]
