@@ -193,6 +193,10 @@ file = "config/smithy/recipes/netherite_scrap.json"
 hash = "0f384b210ac1d2837a6a569b1ca2c5c2d984ae2a743e338f6b3d68638ee82fe1"
 
 [[files]]
+file = "datapacks/haema_booth_pack.zip"
+hash = "2d3c9d0b93b676ba000639c858b7f0cc965fa0743e2ea2b60ea506a82ed98572"
+
+[[files]]
 file = "datapacks/nucleoid-datapack.zip"
 hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
 
@@ -368,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.toml"
-hash = "ca80f70cf29ad76d095fe69ac659e3158e67061cf7bf87cebdcaa52b6d56b762"
+hash = "2517619d16949b1690bcde190e3caa170f1abbcb663896abb3be89b7662e9f30"
 metafile = true
 
 [[files]]
@@ -437,8 +441,13 @@ hash = "fc37edd8ea12bfefcf5a40c273d32b0b39f463a8d61b207c49fc8b46ca972be4"
 metafile = true
 
 [[files]]
+file = "mods/haema-showcase.toml"
+hash = "88957d72822492a3aca16a7fe054fd53f697e89f41652d248b0b083929b4c51d"
+metafile = true
+
+[[files]]
 file = "mods/haema.toml"
-hash = "45df33e63072c8535dc1b51436506018f80ae0cf644afb99a5b02a01825a0733"
+hash = "4369fd9991d4c5fdf8fb93c546440a758b51bfcf86424ace0d1500d680f0a964"
 metafile = true
 
 [[files]]
