@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "25ad24a2a451c7f0a644f568f47be25cf200a7a672d198613521e78f688cac82"
+hash = "0f514f32534109efd2efa24ca8d49ef7520602fefb58d5135dc178719e7eef63"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "9c549a1cdb77c572a1e27667736dce3d133ea895dbcdd797e7f8971208510296"
+hash = "e08e29e503b1eadba3e4efb18161a7cf4709c5a7fe8d5c2022d2478a855733d8"
 metafile = true
 
 [[files]]

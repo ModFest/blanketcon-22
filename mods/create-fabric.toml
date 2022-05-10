@@ -1,8 +1,8 @@
 name = "Create Refabricated"
-filename = "create-mc1.18.2_v0.4.1+543.jar"
+filename = "create-mc1.18.2_v0.4.1+552.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968595769353457725/971836859212787812/create-mc1.18.2_v0.4.1543.jar"
+url = "https://cdn.discordapp.com/attachments/968595769353457725/973701464952287312/create-mc1.18.2_v0.4.1552.jar"
 hash-format = "sha1"
-hash = "ddc2280333782a2cec64ce671d2295045b329853"
+hash = "5f69638698ab634cc35bd9964a1680ea13a3a262"
