@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "f4e1837f80593b4099fe01c4fb2d18eae22b14d1a1265282eb95e3405d46ad79"
+hash = "04d75ed06117b82d6d2635952641a0c939eb7374a91f411755c0e256219f41a5"
 metafile = true
 
 [[files]]
@@ -689,6 +689,11 @@ metafile = true
 [[files]]
 file = "mods/resounding.toml"
 hash = "c537808775d23b10bab57f859614e3b17a40796b0b2f08ce6729e5a192b5496e"
+metafile = true
+
+[[files]]
+file = "mods/ryoramas-terraria-mod.toml"
+hash = "3a6bbc8e7101614c9ee10ef1cd12383263d744712ae2c40b8966014bc40b8d96"
 metafile = true
 
 [[files]]

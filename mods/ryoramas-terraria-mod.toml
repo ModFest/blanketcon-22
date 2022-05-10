@@ -1,0 +1,13 @@
+name = "TerrariaMod"
+filename = "terrariamod-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3785/769/terrariamod-1.0.0.jar"
+hash-format = "sha1"
+hash = "c39013d5b97c528fd9f30e4a7a6bc10d94c403b2"
+
+[update]
+[update.curseforge]
+file-id = 3785769
+project-id = 283018
