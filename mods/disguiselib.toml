@@ -1,0 +1,13 @@
+name = "DisguiseLib"
+filename = "disguiselib-1.2.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BlRLr0FS/versions/1.18.2+1.2.2/disguiselib-1.2.2-fabric.jar"
+hash-format = "sha1"
+hash = "a3417ceab49e6aa4b4cb8b8aade5c7630e934742"
+
+[update]
+[update.modrinth]
+mod-id = "BlRLr0FS"
+version = "LSbtEIRw"

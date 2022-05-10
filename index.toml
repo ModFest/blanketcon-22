@@ -351,6 +351,11 @@ hash = "a178883169bd64f1e8189159216abbb7da921f9cfc25ae6c53b3a946d7af7777"
 metafile = true
 
 [[files]]
+file = "mods/disguiselib.toml"
+hash = "65861bb043e01c70d2adcd1686fde25c54ca7ee604cac8cdedaa2248f27b82e7"
+metafile = true
+
+[[files]]
 file = "mods/double-jump-attribute.toml"
 hash = "7e39f1050250b13f9663bfe80fa1cea447c08baa54158acbf54ddff7f9e6ea54"
 metafile = true
