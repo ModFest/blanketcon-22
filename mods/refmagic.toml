@@ -1,13 +1,8 @@
 name = "Refined Magic"
-filename = "refmagic-1.0.0-betat5.jar"
+filename = "refmagic-1.0.0-beta5-patched.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yTtdp6Mq/versions/1.0.0-beta5/refmagic-1.0.0-betat5.jar"
+url = "https://cdn.discordapp.com/attachments/957930008054202410/973937645442961438/refmagic-1.0.0-beta5-patched.jar"
 hash-format = "sha1"
-hash = "7f2c0fa64e62bd8b82c1455ed2ccc4209fcb2975"
-
-[update]
-[update.modrinth]
-mod-id = "yTtdp6Mq"
-version = "a5txNSG2"
+hash = "e56b2cecca1bf83f8992e147a038756374051a6a"

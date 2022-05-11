@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "e08e29e503b1eadba3e4efb18161a7cf4709c5a7fe8d5c2022d2478a855733d8"
+hash = "e703a5198268e8bf2a38b602dbb507239168840ac404a0dbf8a579e09cafbb61"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/tome-of-tiamathia.toml"
-hash = "611226db5cb2c0df148eeb01aa85587cffc09de04c71b1dbadc76b12cb5cf55b"
+hash = "af1989af7ee08e306251d5f0446ac06597022c19661f21416fa24a54e94bbdc2"
 metafile = true
 
 [[files]]
