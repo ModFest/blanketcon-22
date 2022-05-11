@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/bing-bing-wahoo.toml"
-hash = "441abbefb79c7b14f41dfe6a0ded6a981caeddf83ddf1779698809296ee95a02"
+hash = "22c3dc2912ddec96ff46549a572e2feb73ce85119f3d5f31f2a772731083aea5"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/dyeable-fishing-lines.toml"
-hash = "c3712b1e996fd9a4d77b04084c32fa7d45f789349e40edf1c315ad3015424e22"
+hash = "85a6d5c91999361b7c445dd2d32bf37370bb21364e9d8d5b16951b192700ee06"
 metafile = true
 
 [[files]]
@@ -408,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/flowerycore.toml"
 hash = "5b917d3036cc99e285a3a28674a853472f506ac99ba00eace7600949003fef7d"
+metafile = true
+
+[[files]]
+file = "mods/fluxtech.toml"
+hash = "b9c2c0c9332f20b335edd3b6ce1b2bbee52940312a4412f65ec6b28632030686"
 metafile = true
 
 [[files]]
@@ -637,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "631b274048e3b8e45e9d1ec24dbc00f04858c609426a342b0e5f2e15102d2f4c"
+hash = "6e526afa61f9fc39fdcd39cea39b6173293f14ba395f77b0f6dc706e17da4588"
 metafile = true
 
 [[files]]
@@ -791,8 +796,8 @@ hash = "a9cc56561a0637c794eee357734603ade90fae53bf73ca19c639f367048d8eab"
 metafile = true
 
 [[files]]
-file = "mods/trinkets-fabric.toml"
-hash = "af45970ec75dccbb9b6a5f553e7aecbe5ab8c7f06e65abaffa679603c9af6240"
+file = "mods/trinkets.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]

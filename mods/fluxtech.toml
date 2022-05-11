@@ -1,0 +1,8 @@
+name = "FluxTech"
+filename = "fluxtech-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/973841891374284850/fluxtech-3.0.0.jar"
+hash-format = "sha1"
+hash = "283893920a43febbf70915e89572053c1671ca8a"
