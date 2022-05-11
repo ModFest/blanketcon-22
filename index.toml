@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluxtech.toml"
-hash = "b9c2c0c9332f20b335edd3b6ce1b2bbee52940312a4412f65ec6b28632030686"
+hash = "91abb79325d35e3431f54d6fb7d3a5ac11fe1fcbff296dfa48eb16818df17b65"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.toml"
-hash = "4ce07a858695e40675ca165f0177531a0a979d08a890c7ba4e07592b1e3479b6"
+hash = "8816c8fd9dee3f0a80055ab72e1c33f7000f5ea45fa7749e3196c1d8d0200e86"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "6e526afa61f9fc39fdcd39cea39b6173293f14ba395f77b0f6dc706e17da4588"
+hash = "d74e9c02241bad0b8bf9e730ba28b6a884dd3901428bd34e8a5d95f2015a7ad0"
 metafile = true
 
 [[files]]
