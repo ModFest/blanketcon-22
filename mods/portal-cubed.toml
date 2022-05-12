@@ -1,8 +1,13 @@
 name = "Portal Cubed"
-filename = "portal_cubed-2.1.0.jar"
+filename = "portal_cubed-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/974080766088736788/portal_cubed-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/GUwDZ4ZU/versions/1.18.2+fabric/portal_cubed-2.1.1.jar"
 hash-format = "sha1"
-hash = "04d2ae5cb502c5835930e6057b52f1d577965e0b"
+hash = "c0e6125826d9785c6bf60d7d0514884741cccb47"
+
+[update]
+[update.modrinth]
+mod-id = "GUwDZ4ZU"
+version = "vXIIMKFq"

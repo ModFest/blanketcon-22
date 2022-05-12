@@ -1,0 +1,8 @@
+name = "Flamingo"
+filename = "Flamingo-1.18-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/974381735959728158/Flamingo-1.18-1.19.jar"
+hash-format = "sha1"
+hash = "428a942115aa31cdbf4a02bfbb060da28251caf2"
