@@ -206,6 +206,11 @@ hash = "8b9e7dffb62b4261a8c8a25b7346249f0522f4f6c93383b451fe3dc243592b94"
 metafile = true
 
 [[files]]
+file = "mods/arch-ex.toml"
+hash = "a980cceaa21d6d799ec336153c19ba9e1e6150be583bdd392ab85b1af9f0f7ba"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "6d9fdd849d8fe4c2db6751357d15dd39ec65d2bd04981e66a59b8ac98e780db8"
 metafile = true
@@ -291,13 +296,18 @@ hash = "9cf9fa4680fd0543206969f61610d833915aed1f966740d86733387d28bc8179"
 metafile = true
 
 [[files]]
+file = "mods/campanion.toml"
+hash = "f201814bdab6f9f0f25b6a33698182af5637578b3b12411112b2f2ec05512e1b"
+metafile = true
+
+[[files]]
 file = "mods/cardstock.toml"
 hash = "5578f4c1106698d0aca53c7759c5d5c2d9cdcd94965254758521c8e7a9427008"
 metafile = true
 
 [[files]]
 file = "mods/cc-prometheus.toml"
-hash = "27680215291f1d5cfd82a4d30bb72280c5596ebc36a9e1fe51d4a289650cfc08"
+hash = "bc7884ee05040836faa7ea6eb7d33744bfef87009d6fe163147ec66818e38327"
 metafile = true
 
 [[files]]
@@ -327,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "0f514f32534109efd2efa24ca8d49ef7520602fefb58d5135dc178719e7eef63"
+hash = "9e9d1c82125ec8b37106aae1bb669ff02175d2812ec1ee8b2adaacfb8ff0e91d"
 metafile = true
 
 [[files]]
@@ -377,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.toml"
-hash = "2517619d16949b1690bcde190e3caa170f1abbcb663896abb3be89b7662e9f30"
+hash = "df58e9c45fd4c56ca09c44084844368c58cc096a751aae32ed11983aabd90a56"
 metafile = true
 
 [[files]]
@@ -532,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/matchbox.toml"
-hash = "44bc3e32f6e206629e6169cdd848f5e3a8df30dcc464a3e3634a27d10f872a6b"
+hash = "729fb4e58fef53f46353df656804f1085afb24678eb7fd5dc2f7956bc64ec5ee"
 metafile = true
 
 [[files]]
@@ -647,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "55da37060c377fd31c68248b886be74f969c335e88dec194a7fd7dc7929d793e"
+hash = "41b3aa0b381ca6d5d61c18c6a29c67d1f33d9f23ecc5083d3b69cca9ea502159"
 metafile = true
 
 [[files]]
@@ -697,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/reaping-mod-fabric.toml"
-hash = "e6ad4407e6fe3b86c5251a9484a5e0f72dedb3face860ae8cebbfebd3fe2328e"
+hash = "c7aa0680bec599a9983d024fd11264309e28ca9818944c9521333e4f0e645fa7"
 metafile = true
 
 [[files]]
@@ -717,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoramas-terraria-mod.toml"
-hash = "e1083b47d394dedd7378099c30662ab01a8a803cd72a553461521b3b1f81e676"
+hash = "24c03e7c4481dd39b2d1c9df68364654efbba8f823509e9c26965088533409ec"
 metafile = true
 
 [[files]]
@@ -732,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "c81001adcd2fae9c170ac118c07a2860bdffe89286e8e6fce2176427ad123a75"
+hash = "156eb8601081a79c44dfd05cd22f20b46d07719bb35a9b983383385dc2d8fb19"
 metafile = true
 
 [[files]]
@@ -763,11 +773,6 @@ metafile = true
 [[files]]
 file = "mods/space-factory.toml"
 hash = "c1e5489a78994e7141bf10913a4966c364cf37e0f92c28b7efb84a0d7d6e2a33"
-metafile = true
-
-[[files]]
-file = "mods/structure-tools.toml"
-hash = "d1627f03a7979888ccc20ecd533e914907544badd3edb79ae7ca98269a1954ee"
 metafile = true
 
 [[files]]

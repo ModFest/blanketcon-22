@@ -1,8 +1,13 @@
 name = "Matchbox"
-filename = "matchbox-0.2.2.jar"
+filename = "matchbox-0.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/970742941373054976/matchbox-0.2.2.jar"
+url = "https://cdn.modrinth.com/data/MwnoKRtL/versions/0.2.3/matchbox-0.2.3.jar"
 hash-format = "sha1"
-hash = "0ebaac86416ff3727b096c74dcf6872384790abb"
+hash = "24f545f33290d74b344d8b8ef1ec2686d95b0041"
+
+[update]
+[update.modrinth]
+mod-id = "MwnoKRtL"
+version = "YiGSMlc3"

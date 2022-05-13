@@ -1,13 +1,13 @@
 name = "Reaping"
-filename = "reaping-2.0.2+fabric.jar"
+filename = "reaping-2.1.0+fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3780/106/reaping-2.0.2+fabric.jar"
+url = "https://edge.forgecdn.net/files/3788/324/reaping-2.1.0+fabric.jar"
 hash-format = "sha1"
-hash = "3059873aa6915c5dc202d6c99c0513cf33f37837"
+hash = "8dc94af95b8fd35ba32f948220f419ce2d0c40b2"
 
 [update]
 [update.curseforge]
-file-id = 3780106
+file-id = 3788324
 project-id = 485532
