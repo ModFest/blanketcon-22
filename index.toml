@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
+hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
 
 [[files]]
@@ -849,6 +849,10 @@ metafile = true
 file = "mods/yungs-api-fabric.toml"
 hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/TerrariaModAudioFix.zip"
+hash = "6a0a4dd7caf22dcfdeee2aa5474233bf35d183573f00347b139ecf73446324f9"
 
 [[files]]
 file = "resourcepacks/botania_textures.zip"
