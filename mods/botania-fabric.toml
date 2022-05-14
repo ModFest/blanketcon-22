@@ -1,8 +1,8 @@
 name = "Botania (Fabric)"
-filename = "Botania-1.18.2-432-FABRIC.jar"
+filename = "Botania-1.18.2-431-FABRIC-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://ci.blamejared.com/job/Violet%20Moon/job/Botania/view/tags/job/release-1.18.2-432/lastSuccessfulBuild/artifact/Fabric/build/libs/Botania-1.18.2-432-FABRIC.jar"
+url = "https://cdn.discordapp.com/attachments/863707028336672799/964596347187658752/Botania-1.18.2-431-FABRIC-SNAPSHOT.jar"
 hash-format = "sha1"
-hash = "e486d749d9faff7a8f0221f1ade3c287dbfcb976"
+hash = "dc27d726c986d1de5f267e896506a9dc6714bd68"
