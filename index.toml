@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.toml"
-hash = "1e6fdef90740664cf1db1a91af608637ffd124d1e6a3af8be163fc235b452e2b"
+hash = "6f25063cc3953995c069d5e1c88976834107f8b9c600ffc8d554459be75e1d6a"
 metafile = true
 
 [[files]]
@@ -823,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/wdmnf.toml"
 hash = "bd3612a4d211181f8b663cfea983480187a26235422c8cdd62530992a6a04dd5"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.toml"
+hash = "e8e8d7c7ce9db29c02e4f4dc6232f617c7bfd140ff8bf2879478e0ee00102057"
 metafile = true
 
 [[files]]
