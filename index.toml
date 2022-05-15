@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "9e9d1c82125ec8b37106aae1bb669ff02175d2812ec1ee8b2adaacfb8ff0e91d"
+hash = "55ee581c808e4b635ea56969d3336a60f6d24851f7d5578e08d0caf224cf5e5b"
 metafile = true
 
 [[files]]
