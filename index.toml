@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid.toml"
-hash = "65af46c14ea66b29457b79d69d5113d7634d7e9094a056e0e9a88aa0bc8857e0"
+hash = "67ab9f45e9800c5c109daec36a8c79bf17e8d18efd17a365f3a2693c1326230d"
 metafile = true
 
 [[files]]
