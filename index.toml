@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.toml"
-hash = "a980cceaa21d6d799ec336153c19ba9e1e6150be583bdd392ab85b1af9f0f7ba"
+hash = "ecb4a02d583b03b986c891dd179e1a9aebd391657730223ecd6ecbd605ffe91b"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/badstdout.toml"
-hash = "2e1982cf78b09b9623448fa84e854488ea806158e02047f9267e0f282347fe4b"
+hash = "893c68376d94e2385584cc798e205eecf8de15d79e352bdebc5bc487a2200c19"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.toml"
-hash = "551a679f4f71b110a8e23ce861dc30d463296e2849f776d42d77390e8ec39bb5"
+hash = "647570f43902eca50c42c52592896473922a1bac1865de509d467faab49628ad"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardstock.toml"
-hash = "5578f4c1106698d0aca53c7759c5d5c2d9cdcd94965254758521c8e7a9427008"
+hash = "9ca8e086f850c2241065e29fce2e4c47cb82cf57bb12e855b240df79e27bdbdc"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.toml"
-hash = "08e39a126869aca82f4b3bbfc2beb4d36f7c8621d748989cd3f74eece9ed7ef5"
+hash = "20c9dfb16cbffbba4a0d1bc96da777d922929d417f33397c357f14afe5635afe"
 metafile = true
 
 [[files]]
