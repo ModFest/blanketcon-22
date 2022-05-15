@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.toml"
-hash = "88205e2221cf98b5144e19b50463f43e726b6eaaa710feaf750e71704ac78071"
+hash = "e2823a47edbcc2ca58492cd776b10264f9d8afa3263056e1c5c472cffb29a3c5"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.toml"
-hash = "69c750827c90ed239d882d8d3c32dc5579462ee0e41ef912b3eaf3b8a8186433"
+hash = "ee63f7e9b4d4bc6ce4ab11b8567b2f9b14ecf57c6cfd715ec46e59d7743655b3"
 metafile = true
 
 [[files]]
@@ -563,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
+metafile = true
+
+[[files]]
+file = "mods/no-hard-feelings.toml"
+hash = "d4ff061d16e6cc62d5ffc8093f4a40200927994f274181d6fb1ca55aa6db7aa6"
 metafile = true
 
 [[files]]
@@ -827,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.toml"
-hash = "e8e8d7c7ce9db29c02e4f4dc6232f617c7bfd140ff8bf2879478e0ee00102057"
+hash = "e3e1a77dd88177112e472c6d50a080c0a1e7badf9200d458ef8aaee447e61853"
 metafile = true
 
 [[files]]

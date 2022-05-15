@@ -1,0 +1,8 @@
+name = "No Hard Feelings"
+filename = "no-hard-feelings-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/975294493983129640/no-hard-feelings-1.0.0.jar"
+hash-format = "sha1"
+hash = "e66114b94fcc7196dc03c51746d6f80db59c18a0"
