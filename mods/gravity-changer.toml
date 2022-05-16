@@ -1,8 +1,8 @@
 name = "Gravity Changer"
-filename = "GravityChanger-0.6.3-1.18.2.jar"
+filename = "GravityChanger-0.6.4-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/974071419375849552/GravityChanger-0.6.3-1.18.2.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/975795965837590578/GravityChanger-0.6.4-1.18.2.jar"
 hash-format = "sha1"
-hash = "9f1e3c70e086f83c7c4bee2aa5d1b8c5038fcbb9"
+hash = "67344a505fa708df9e473f1c743503d046d5c6d9"

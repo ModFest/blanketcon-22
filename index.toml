@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.toml"
-hash = "8816c8fd9dee3f0a80055ab72e1c33f7000f5ea45fa7749e3196c1d8d0200e86"
+hash = "0083d7c8fb71e106c973299b738ea7bed729280ff43646c88a02353e0f53697d"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoramas-terraria-mod.toml"
-hash = "24c03e7c4481dd39b2d1c9df68364654efbba8f823509e9c26965088533409ec"
+hash = "cf64b2c070f27d72a8609af7a4d58389159c0de1865eeb1a705d203cc5b4bf7d"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.toml"
-hash = "38dae2f9142efba2f19a92ba71a52f8b63108d16ed08e175486becd8fe01191a"
+hash = "b0c45451a902d25e19f28683cd617fb0a031d7e3346e6b503e81fe9358f8e47d"
 metafile = true
 
 [[files]]
