@@ -661,6 +661,11 @@ hash = "fcce8d9f62ffe485abd667f68802588da72d986b97b189fed2eb935b75f0c0fa"
 metafile = true
 
 [[files]]
+file = "mods/polymer.toml"
+hash = "519110c10540f2a22f22443c8e94ed63df24f1eeabd66f610bbb7b4f6671ab27"
+metafile = true
+
+[[files]]
 file = "mods/portal-cubed.toml"
 hash = "41b3aa0b381ca6d5d61c18c6a29c67d1f33d9f23ecc5083d3b69cca9ea502159"
 metafile = true
@@ -778,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/space-factory.toml"
 hash = "c1e5489a78994e7141bf10913a4966c364cf37e0f92c28b7efb84a0d7d6e2a33"
+metafile = true
+
+[[files]]
+file = "mods/tatercart.toml"
+hash = "048479b3182f38405e1381d38f9b0c36e66f4228d48b64a8d36158f8207019c1"
 metafile = true
 
 [[files]]
