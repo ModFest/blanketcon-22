@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/hip-hoppers.toml"
-hash = "a0e652f7e5ca5b74ab6e66188e6a19456a6f2201fc834a26d562837a4c839079"
+hash = "8335002b65ded90e72903f83ea295dc266bd72e41774339a3da0e556666db903"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "fac5b5f77f72eaac5e7da80d4b933390fdd4d338887bcc752bbf8a5abf29e418"
+hash = "2e5a6ecbef3a14855550214d30fa5cde0958bc09e5ddf2bc985b41732a19f845"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "156eb8601081a79c44dfd05cd22f20b46d07719bb35a9b983383385dc2d8fb19"
+hash = "16ca9833ed2385504587b586a1fd593743e3042a7c04aa65ca06f32171ccbffb"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.toml"
-hash = "b0c45451a902d25e19f28683cd617fb0a031d7e3346e6b503e81fe9358f8e47d"
+hash = "9eea62016b10481cd6665d2c83f4a06cdd3e4e9f44a34c59db5cd9d6361db11b"
 metafile = true
 
 [[files]]
