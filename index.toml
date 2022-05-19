@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.toml"
-hash = "ecb4a02d583b03b986c891dd179e1a9aebd391657730223ecd6ecbd605ffe91b"
+hash = "a9a0149565e3be3a37d85c77b50ba415a226d6c9a3082640839f1b2eecf15732"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.toml"
-hash = "d6906e53bfd9d892a1220d03d5063172f8475723f05ee000a7a0ab609235caab"
+hash = "001c0ee6ab9e6df2774aadd8cce8bb0d63e5b34985c2bc51fe1a062bb8a6af00"
 metafile = true
 
 [[files]]
