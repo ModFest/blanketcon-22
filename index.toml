@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.toml"
-hash = "20c9dfb16cbffbba4a0d1bc96da777d922929d417f33397c357f14afe5635afe"
+hash = "1995a1946e1062b1f1e68258444acf1eee3b7c1e414f59ade9954a92aaf598c1"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "303a9e26f30ac0cd8d18e0a0a04decd1e8b0a3f086774b6cce792f97d4ef90b2"
+hash = "691f1cb9358e315a9842da1f569ec0c1f27611bb295313c6edb3287664683b1f"
 metafile = true
 
 [[files]]

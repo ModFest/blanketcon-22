@@ -1,13 +1,8 @@
 name = "Halfdoors"
-filename = "half-doors-1.18.2-fabric-1.2.0.jar"
+filename = "half-doors-1.18.2-fabric-1.2.1+peculiarpieces-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3790/274/half-doors-1.18.2-fabric-1.2.0.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/976947603302416384/half-doors-1.18.2-fabric-1.2.1peculiarpieces-1.0.1.jar"
 hash-format = "sha1"
-hash = "f59eacb220492b33af0b7c170f432d79229e8d31"
-
-[update]
-[update.curseforge]
-file-id = 3790274
-project-id = 596375
+hash = "509c423a2df1af8d465afb2737844580eaa0eb48"
