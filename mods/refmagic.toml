@@ -1,8 +1,8 @@
 name = "Refined Magic"
-filename = "refmagic-1.0.0-beta9.2.jar"
+filename = "refmagic-1.0.0-beta9.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/976647276632100884/refmagic-1.0.0-beta9.2.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/976946271833170000/refmagic-1.0.0-beta9.3.jar"
 hash-format = "sha1"
-hash = "b7909bc361b4313903a0a6a772591dece76a5ccd"
+hash = "303fbbb812a3b3988dc86476ee8173e1163b629b"

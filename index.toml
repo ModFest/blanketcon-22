@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.toml"
-hash = "7fff9a2d9aa44bf971d06b0f7aaddd79ad0948f1e9d296441d93bdc4c0eaa1ed"
+hash = "303a9e26f30ac0cd8d18e0a0a04decd1e8b0a3f086774b6cce792f97d4ef90b2"
 metafile = true
 
 [[files]]
