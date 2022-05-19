@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.toml"
-hash = "b95d7d3e9e99c72bf87a997cfd78bac3f6c7d5e520fcffbb38ec9bebfba4201d"
+hash = "164333cdcc9a3e31158df54e7021769b3e75034fc6904b7d654cb14d000f0a20"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "41b3aa0b381ca6d5d61c18c6a29c67d1f33d9f23ecc5083d3b69cca9ea502159"
+hash = "05871a308a5d8bf8d6554ec64aef9d99c10900fa1d57be696048d2ac306b4002"
 metafile = true
 
 [[files]]
