@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "15fcca6a823bd7a980eee0a57ecc48396b4b083e8165387700e62615af391c57"
+hash = "d2ecfefe5edc7d4f2667bdf76706ebf7693ebff3d98b6b653663fd3f0004bae7"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-jump-attribute.toml"
-hash = "7e39f1050250b13f9663bfe80fa1cea447c08baa54158acbf54ddff7f9e6ea54"
+hash = "f60c25164085099bca56f400d0dc35e98f83413fdb4a80942e62239b8ea973cc"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.toml"
-hash = "1995a1946e1062b1f1e68258444acf1eee3b7c1e414f59ade9954a92aaf598c1"
+hash = "fd814fa0ce837c3b4cbbe04603b3689e70c135c2eaa3b69706bf5891ec07e98e"
 metafile = true
 
 [[files]]
@@ -662,12 +662,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.toml"
-hash = "519110c10540f2a22f22443c8e94ed63df24f1eeabd66f610bbb7b4f6671ab27"
+hash = "070ac2de2363cdd8816d3a2d26d691a7f99beb2df1a655291b2d2b5f744de342"
 metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "05871a308a5d8bf8d6554ec64aef9d99c10900fa1d57be696048d2ac306b4002"
+hash = "2e5bfa798fd916f11db756ddec365e2ba2fdf8c34665ab2e3a4fedfcd68f8d59"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.toml"
-hash = "bdda47c998ee7a14b95b650f2decfdf13d86010c5bb88fc4b01268d2b72c6d54"
+hash = "14c0cc0afb9bf5c65aebc722ab87bb188efde2fed6d6070372e86086681db6c8"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/tatercart.toml"
-hash = "10651b55053166f08dc9420a621009e242973c160cda83ed4d6a1ecd9445536b"
+hash = "ca915216e19102bfb3147e30088c7c2985c3621496a9ec3e9a6a44fa87966217"
 metafile = true
 
 [[files]]
@@ -836,13 +836,18 @@ hash = "bbdeb567f8455cdb34662cb1700204fb3b88ec2c597e2f41c97470fa58386168"
 metafile = true
 
 [[files]]
+file = "mods/visual-overhaul.toml"
+hash = "6bc6e97932f8fefd35118e0abd669d34f03e9f6f0aebdde04f4d3e2a03ce064a"
+metafile = true
+
+[[files]]
 file = "mods/wdmnf.toml"
 hash = "bd3612a4d211181f8b663cfea983480187a26235422c8cdd62530992a6a04dd5"
 metafile = true
 
 [[files]]
 file = "mods/wiredredstone.toml"
-hash = "e3e1a77dd88177112e472c6d50a080c0a1e7badf9200d458ef8aaee447e61853"
+hash = "bd18e8f22be91bbc4e16771924535bcb520dec65efa686ca934db6e79138b511"
 metafile = true
 
 [[files]]

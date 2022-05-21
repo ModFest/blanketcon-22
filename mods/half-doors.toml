@@ -1,8 +1,8 @@
 name = "Halfdoors"
-filename = "half-doors-1.18.2-fabric-1.2.1+peculiarpieces-1.0.1.jar"
+filename = "half-doors-1.18.2-fabric-1.2.1+peculiarpieces-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/976947603302416384/half-doors-1.18.2-fabric-1.2.1peculiarpieces-1.0.1.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/977368285681168404/half-doors-1.18.2-fabric-1.2.1peculiarpieces-1.0.8.jar"
 hash-format = "sha1"
-hash = "509c423a2df1af8d465afb2737844580eaa0eb48"
+hash = "3f48393f45a7e2db94554d296ef691375a1a574d"

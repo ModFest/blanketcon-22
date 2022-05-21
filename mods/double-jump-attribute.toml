@@ -1,13 +1,8 @@
 name = "Double Jump Attribute"
-filename = "double-jump-attribute-1.18.1-fabric-1.0.3.jar"
+filename = "double-jump-attribute-1.18.1-fabric-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/635/double-jump-attribute-1.18.1-fabric-1.0.3.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/977334933292990474/double-jump-attribute-1.18.1-fabric-1.0.5.jar"
 hash-format = "sha1"
-hash = "613b0c2f6a88e781265e616a12fc530ee0660dac"
-
-[update]
-[update.curseforge]
-file-id = 3587635
-project-id = 532877
+hash = "904de7473f9df827bd030c53b5163df40603fb9e"
