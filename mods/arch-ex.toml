@@ -1,13 +1,14 @@
 name = "Architecture Extensions"
-filename = "architecture_extensions-0.2.0-pre4.jar"
+filename = "architecture_extensions-0.2.0-pre5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YyhsabMU/versions/v0.2.0-pre4/architecture_extensions-0.2.0-pre4.jar"
+url = "https://cdn.modrinth.com/data/YyhsabMU/versions/v0.2.0-pre5/architecture_extensions-0.2.0-pre5.jar"
 hash-format = "sha1"
-hash = "89cd9a35610fdd32ec47d841b59aae17d5857b28"
+hash = "a0f21b817d6e5463da7384acee889ab87ca2b6fa"
+mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "YyhsabMU"
-version = "l6j74ZUA"
+version = "bRhbr16Z"

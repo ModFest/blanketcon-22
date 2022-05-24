@@ -1,0 +1,8 @@
+name = "Arcanus 2"
+filename = "Arcanus_2_-_Blanketcon_Build.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/978356401934045204/Arcanus_2_-_Blanketcon_Build.jar"
+hash-format = "sha1"
+hash = "f669047b7e06d65f859898163a3ddd63e5d7c8e1"

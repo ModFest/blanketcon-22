@@ -1,13 +1,14 @@
 name = "Wired Redstone"
-filename = "wired-redstone-0.2.4.jar"
+filename = "wired-redstone-0.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lyYGrdho/versions/0.2.4/wired-redstone-0.2.4.jar"
+url = "https://cdn.modrinth.com/data/lyYGrdho/versions/0.2.6/wired-redstone-0.2.6.jar"
 hash-format = "sha1"
-hash = "3623f699faccb21c9d414bf050c302ee67c36d41"
+hash = "c630071cd3ad1b770c0214848f4aeb12d558d4fb"
+mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "lyYGrdho"
-version = "MOllEHTn"
+version = "Q6Qk8jjU"

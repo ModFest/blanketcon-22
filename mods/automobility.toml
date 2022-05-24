@@ -1,8 +1,8 @@
 name = "Automobility"
-filename = "automobility-0.0.12+1.18.2.jar"
+filename = "automobility-0.0.13+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/976721598096752690/automobility-0.0.121.18.2.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/977812749075775498/automobility-0.0.131.18.2.jar"
 hash-format = "sha1"
-hash = "113c726f6f4d76091893ff64d2d3a52606db89ee"
+hash = "e9731c75637069f92c5874399ba96c4b546c42ad"

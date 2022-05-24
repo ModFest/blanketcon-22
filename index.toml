@@ -201,18 +201,27 @@ file = "datapacks/nucleoid-datapack.zip"
 hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
 
 [[files]]
+file = "mods/additional-banners.pw.toml"
+hash = "72e02fc8b4e8fa309760f33486cd2527e3475f96970b16c10f85cd22fedc2765"
+metafile = true
+
+[[files]]
 file = "mods/allium.toml"
 hash = "8b9e7dffb62b4261a8c8a25b7346249f0522f4f6c93383b451fe3dc243592b94"
 metafile = true
 
 [[files]]
+file = "mods/arcanus-2.toml"
+hash = "a4d04fb0f5e9ba951f3618f7e39b14194167fcb4a1ec2ef823b81aaa090fbed5"
+
+[[files]]
 file = "mods/arch-ex.toml"
-hash = "a9a0149565e3be3a37d85c77b50ba415a226d6c9a3082640839f1b2eecf15732"
+hash = "96436812c83bc9a98e55b73132d8bca99e14415013ed78519966a3c03ddd4918"
 metafile = true
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "6d9fdd849d8fe4c2db6751357d15dd39ec65d2bd04981e66a59b8ac98e780db8"
+file = "mods/architectury-api.pw.toml"
+hash = "91096af9b96991b06ac07a6e08fbcfe21c233d623a9e595b8ab60585fb6e5c7b"
 metafile = true
 
 [[files]]
@@ -237,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.toml"
-hash = "001c0ee6ab9e6df2774aadd8cce8bb0d63e5b34985c2bc51fe1a062bb8a6af00"
+hash = "68145a08363fa5fc1d665a2a91e3c8bb0a8c92c998e3c41ffad5ef3c5aa2e968"
 metafile = true
 
 [[files]]
@@ -278,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/bits-and-chisels.toml"
 hash = "50b181bec40818218b1d51c1b0f8760c5f2a9cf7dc0c879bc26de7b86b7ab388"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "f8de05e39ffb80170b2b780a5098089b1189fb16ed52e9ae4234b4e110087752"
 metafile = true
 
 [[files]]
@@ -337,12 +351,22 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "d2ecfefe5edc7d4f2667bdf76706ebf7693ebff3d98b6b653663fd3f0004bae7"
+hash = "b8eeaa92aa2dd065415afd6c449f8c785d387a9f27fc5d6e40e35c31ac6616b0"
 metafile = true
 
 [[files]]
 file = "mods/culinaire.toml"
 hash = "2729c49a56c9b94101d7baeb853945ae660cc1e6691abc6c402eef283901286c"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "a1904d6f1477260acd23eee0173d7f4d6dd4361b45678aff4e6c1e60df3e57a8"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "0e677503a80c59fe1059f025455647bcf2512a14308541aba6bd7e2d5cf8d547"
 metafile = true
 
 [[files]]
@@ -387,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.toml"
-hash = "df58e9c45fd4c56ca09c44084844368c58cc096a751aae32ed11983aabd90a56"
+hash = "bfac5fa0b8d07c82e506c538400de70e388782f820830d4148ba259682e0602d"
 metafile = true
 
 [[files]]
@@ -437,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "04d75ed06117b82d6d2635952641a0c939eb7374a91f411755c0e256219f41a5"
+hash = "2db9f9c8b4a0c4028901b52a985445ad85ce03d6164849b95a7d176b27e58041"
 metafile = true
 
 [[files]]
@@ -472,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.toml"
-hash = "4369fd9991d4c5fdf8fb93c546440a758b51bfcf86424ace0d1500d680f0a964"
+hash = "d8cb988f760dc3dc81000ca2a3599fb4ea0c13c4957bcf31ae033cfeddf353ee"
 metafile = true
 
 [[files]]
@@ -532,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
@@ -612,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "da32a510011b03c5594c1066cda5b4585931d7dafb1e109e926b70e74eb15e31"
+hash = "4c002a96eefcff7b5ec520f3c2a305723c086b698dc8b51e037da24447ee78c8"
 metafile = true
 
 [[files]]
@@ -636,6 +660,11 @@ hash = "001fc5559465589be7eef9d81c75d92cc38e08595057b2dcff813ce17763e391"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "28f09bfcafb54ff0908c10983fb7c996d660f400a93f0f8cb2c51a2db632a3d9"
+metafile = true
+
+[[files]]
 file = "mods/plasmid.toml"
 hash = "67ab9f45e9800c5c109daec36a8c79bf17e8d18efd17a365f3a2693c1326230d"
 metafile = true
@@ -647,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.toml"
-hash = "c05e973c06181372fa1508bcabf5c9bd0c6ff08ab09a79c21f8bb3cc8c61b517"
+hash = "cb001598a3ecbc444a181036632d1746255e4c2e9aa98d62e49ccc9f243126c1"
 metafile = true
 
 [[files]]
@@ -667,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "2e5bfa798fd916f11db756ddec365e2ba2fdf8c34665ab2e3a4fedfcd68f8d59"
+hash = "c967740ea43d6953d9408f810ea51b75c455110de4de4419b5a6b4079befdf91"
 metafile = true
 
 [[files]]
@@ -677,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.toml"
-hash = "910db25b850448f068cdbe4e3003cff1dbf9558644c217d7cdf0c64e8c048a24"
+hash = "35082f2b816d94e3647f2b4d11c7e675b1b8c54ce3efacce99d29d6d811ba498"
 metafile = true
 
 [[files]]
@@ -717,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/reaping-mod-fabric.toml"
-hash = "c7aa0680bec599a9983d024fd11264309e28ca9818944c9521333e4f0e645fa7"
+hash = "4f5cf76b13b7f562d2fea5f991b66ae3a48b33ec681fa1f9524c0cb8e90e348c"
 metafile = true
 
 [[files]]
@@ -733,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/resounding.toml"
 hash = "c537808775d23b10bab57f859614e3b17a40796b0b2f08ce6729e5a192b5496e"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "f82a4dd5da90aa0f84accda6ce1b7259129d88f5e89db04b674f88653ee1e6b9"
 metafile = true
 
 [[files]]
@@ -752,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "16ca9833ed2385504587b586a1fd593743e3042a7c04aa65ca06f32171ccbffb"
+hash = "9346d09f897be45df79ad6af92e38f34f650ca557e65bc199f629021bbcff915"
 metafile = true
 
 [[files]]
@@ -847,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.toml"
-hash = "bd18e8f22be91bbc4e16771924535bcb520dec65efa686ca934db6e79138b511"
+hash = "87a7b64d1d227368e143297ca076c832587b0a96d2378720c9e42caa9b54c667"
 metafile = true
 
 [[files]]
@@ -874,6 +908,10 @@ metafile = true
 file = "mods/yungs-api-fabric.toml"
 hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/SmithyFix.zip"
+hash = "b6a1fafd2fd5f4182cd09b25f4dcf1414a1e326d54118e52cd21c2d145e2c990"
 
 [[files]]
 file = "resourcepacks/TerrariaModAudioFix.zip"
