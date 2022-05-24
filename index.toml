@@ -265,11 +265,6 @@ hash = "b1b4aced4d0d0c435b9e4e13cc799dc2804c9f93d6c4b1b8d1431c0fe7779a73"
 metafile = true
 
 [[files]]
-file = "mods/bed-bath-beyond.pw.toml"
-hash = "5f3c1fe846028cdf7798d5397fcaf2c15a19d042d3b8efeba4cd133cbb71d076"
-metafile = true
-
-[[files]]
 file = "mods/better-desert-temples.pw.toml"
 hash = "1bc0901c46afedc722c9e41e8f6f0cabb54bad45a21cb93b4338c5b32aaf0d02"
 metafile = true

@@ -1,8 +1,0 @@
-name = "Bed Block Beyond"
-filename = "bed_block_beyond-0.0.1+1.18.58d8a29.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/964599672654135336/bed_block_beyond-0.0.11.18.58d8a29.jar"
-hash-format = "sha1"
-hash = "c71d3ecce896b5850b790a10ddb69146edc5dec5"
