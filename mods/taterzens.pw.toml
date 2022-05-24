@@ -1,13 +1,14 @@
 name = "Taterzen NPCs"
-filename = "taterzens-1.9.1-fabric.jar"
+filename = "taterzens-1.9.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vE972Kux/versions/1.18.2+1.9.1-fabric/taterzens-1.9.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/vE972Kux/versions/1.18.2+1.9.2-fabric/taterzens-1.9.2-fabric.jar"
 hash-format = "sha1"
-hash = "260870db6186bba30bb65d47c00f2ccf01da6a41"
+hash = "607412269305f3b2d98a61edd031d9cf9c947d1b"
+mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "vE972Kux"
-version = "JhoZ2BJR"
+version = "oQYyzL1I"
