@@ -193,6 +193,10 @@ file = "config/smithy/recipes/netherite_scrap.json"
 hash = "0f384b210ac1d2837a6a569b1ca2c5c2d984ae2a743e338f6b3d68638ee82fe1"
 
 [[files]]
+file = "datapacks/JamtasticBoneDatapack.zip"
+hash = "73ac4cf131b97c32dd06035db31188e6408bb7349a87ca522b69855e9ba05a41"
+
+[[files]]
 file = "datapacks/haema_booth_pack.zip"
 hash = "2d3c9d0b93b676ba000639c858b7f0cc965fa0743e2ea2b60ea506a82ed98572"
 
@@ -212,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-2.pw.toml"
-hash = "a4d04fb0f5e9ba951f3618f7e39b14194167fcb4a1ec2ef823b81aaa090fbed5"
+hash = "0060dcd747697400566ccd556da17047df09543ea8bed231ea6b92cd3ee64330"
 metafile = true
 
 [[files]]
