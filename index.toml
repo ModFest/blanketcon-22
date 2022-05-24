@@ -720,6 +720,11 @@ hash = "5cc67fdc4f414a9ebda1cd2c4908e3f3d5e7cfb3bfcf8f16606b2110e78b2f0e"
 metafile = true
 
 [[files]]
+file = "mods/qsl-bugfix.pw.toml"
+hash = "53211ba3174d206336443935606f9203d29b3a01f128bcc79baf3bb7f3f0083e"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
 metafile = true

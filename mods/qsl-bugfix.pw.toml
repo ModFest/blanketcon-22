@@ -1,0 +1,8 @@
+name = "QSL Bugfix"
+filename = "block_extensions-1.1.0-beta.12+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/978801382247268362/block_extensions-1.1.0-beta.121.18.2.jar"
+hash-format = "sha1"
+hash = "4a725d48065422dc9c00160a4e8d4e281d3cf933"
