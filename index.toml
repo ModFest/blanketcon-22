@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "f8de05e39ffb80170b2b780a5098089b1189fb16ed52e9ae4234b4e110087752"
+hash = "3da2e284f0591f46397819f03a0edb268fdf1c2e518c61551e957fe134c8c3e9"
 metafile = true
 
 [[files]]
@@ -308,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/campanion.pw.toml"
 hash = "f201814bdab6f9f0f25b6a33698182af5637578b3b12411112b2f2ec05512e1b"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components.pw.toml"
+hash = "d8c301a167fd8c9a2812684e75a7d3310a4518a4e7056c902b80d3e0acbff49e"
 metafile = true
 
 [[files]]
@@ -692,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "c967740ea43d6953d9408f810ea51b75c455110de4de4419b5a6b4079befdf91"
+hash = "87c0035bf9166c621d7d6ee370d3e9a79eeb59eab08e65cc2c4b8ff2bf61a810"
 metafile = true
 
 [[files]]
