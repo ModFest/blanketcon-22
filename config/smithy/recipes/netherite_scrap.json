@@ -1,9 +1,0 @@
-{
-	"type": "smithy:forging",
-	"ingredients": [
-		{ "item": "minecraft:ancient_debris" }
-	],
-	"target": 116,
-	"final_strikes": [ "draw", "hit", "hit" ],
-	"result": { "item": "minecraft:netherite_scrap" }
-}

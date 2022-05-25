@@ -1,6 +1,0 @@
-{
-	"type": "smithy:heating",
-	"ingredient": { "item": "minecraft:potato" },
-	"temperature": 75,
-	"result": { "item": "minecraft:baked_potato" }
-}

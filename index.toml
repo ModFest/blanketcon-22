@@ -9,190 +9,6 @@ file = "config/quickconnectbutton.json5"
 hash = "d4341927e6f81b61e0fdca94bbd6ee76b781ba6ca5ac5010e9619b530bd71aba"
 
 [[files]]
-file = "config/smithy/fuels/README.txt"
-hash = "354fd76ac5fb72d8a09a1e760d2f04c3656b75b829fd56f031a5963842060607"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Axe Head.png"
-hash = "d86fa31df9c9bddcbc623d0c5cfddecaaccff093a08284ffe6a3e8bf95613aba"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Axe.png"
-hash = "95764c823f0678e19ae0e75a2594b92021cfe3a12e61e4e418cc1a81f170b125"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Double Ingot.png"
-hash = "74b2bfbde462dc931e7d348a0ac4f8234e552c1ce70ce036398fd5cfbffbf53e"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Hoe Head.png"
-hash = "c539fc6d2c8c15c3d803d1c63d55326e8f012f045b4beadeaf77fecbc0b4fc21"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Hoe.png"
-hash = "6cbd5f6017a48c75820972198a080de3b2bb19b789f34c34fc08493390667d51"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Ingot.png"
-hash = "34c65ab1d786bd38133329b24d1747afdc45e54988e9cbfa26aee25951011b45"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Pickaxe Head.png"
-hash = "5c0aeb8d4099f1199d9eacbf5f89b9d0d6915de90438544857cd3932e6621f8d"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Pickaxe.png"
-hash = "19e4de2dae688d404ce88aa262952638d8acb465a12a60e887583da73a404aa4"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Shovel Head.png"
-hash = "b94d748e6319195b26b5448f4082ec61ada4cdefeb96468a795f0f8f0821e491"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Shovel.png"
-hash = "0ecb6bd3cd51124ce1a1b3161969322ac267c146b6907dee977c263c9fcda0e1"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Sword Blade.png"
-hash = "3ac5d476a7e22d3503fbdfd68f13830cb9469197fd92fdb678778f1ec043b3e8"
-
-[[files]]
-file = "config/smithy/items/Blue Steel Sword.png"
-hash = "7c9de90dd8bef1c1d045deb94e0f30fa77e6a2d3318479b07cf4211668552112"
-
-[[files]]
-file = "config/smithy/items/Iron Axe Head.png"
-hash = "9f46e55019091b3fd619bb2baa32e0811e733493a8868e87a812fb32ce10d946"
-
-[[files]]
-file = "config/smithy/items/Iron Double Ingot.png"
-hash = "5bde9f3b8e2d75369a93a06e671a9df9a9283252969a24598237da4794b177a3"
-
-[[files]]
-file = "config/smithy/items/Iron Hoe Head.png"
-hash = "1a3a832df9b510bfa532a671acacf236a4b5153544eff36427455510ca7e962d"
-
-[[files]]
-file = "config/smithy/items/Iron Pickaxe Head.png"
-hash = "845054edffd291d732197b9351ee9940d807dea756c9259c333a348c9c96d9b9"
-
-[[files]]
-file = "config/smithy/items/Iron Shovel Head.png"
-hash = "2c5701e57a1ac67bee8d18546d7368dff46b4d1bff7f3d80206865b16d2bb692"
-
-[[files]]
-file = "config/smithy/items/Iron Sword Blade.png"
-hash = "4ba5df8df155df53edadceb6cc195cc91b76b62794bc3aabb76911801469950c"
-
-[[files]]
-file = "config/smithy/items/README.txt"
-hash = "bc69610d02164ac53d3a956e2d1e26fcbad17c1e50540fd4438542750f4042f5"
-
-[[files]]
-file = "config/smithy/items/items.log"
-hash = "044a0b1eb945215e33c8b18c8d552791312307538c04c8e2779d2eff02c163bc"
-
-[[files]]
-file = "config/smithy/lang/README.txt"
-hash = "87fe17bd0a4283b3e7c75559d3dd937a80f8033954357c2f399b457fe27c6da1"
-
-[[files]]
-file = "config/smithy/materials/README.txt"
-hash = "648f0702ba113f1a1cc56134773a7259b796430b946ac67e4465da7c55999424"
-
-[[files]]
-file = "config/smithy/materials/minecraft baked_potato.json"
-hash = "9b2846647075cbc0506a98152935604396e9b0831a391fbcffa3e635ad2d2f08"
-
-[[files]]
-file = "config/smithy/materials/minecraft potato.json"
-hash = "ce43f107eb00f122695d098445ad6d2f4bfdd470e97b597c3c3a927e9befb8ef"
-
-[[files]]
-file = "config/smithy/materials/smithy_custom iron_axe_head.json"
-hash = "4cdc037b935d69b3e96e5b314fdca9856c7dabcde5ac8d7730c689d7c5029c08"
-
-[[files]]
-file = "config/smithy/materials/smithy_custom iron_double_ingot.json"
-hash = "f08977cc7651530eba9c8c1413f8bc9e042c2e0592c7d0670767818d1127ded9"
-
-[[files]]
-file = "config/smithy/materials/smithy_custom iron_hoe_head.json"
-hash = "4cdc037b935d69b3e96e5b314fdca9856c7dabcde5ac8d7730c689d7c5029c08"
-
-[[files]]
-file = "config/smithy/materials/smithy_custom iron_pickaxe_head.json"
-hash = "4cdc037b935d69b3e96e5b314fdca9856c7dabcde5ac8d7730c689d7c5029c08"
-
-[[files]]
-file = "config/smithy/materials/smithy_custom iron_shovel_head.json"
-hash = "4cdc037b935d69b3e96e5b314fdca9856c7dabcde5ac8d7730c689d7c5029c08"
-
-[[files]]
-file = "config/smithy/materials/smithy_custom iron_sword_blade.json"
-hash = "79fc1fa1b75631324983f24f73b1c26db39ddcece7fddc25345c07bfccf1c4a1"
-
-[[files]]
-file = "config/smithy/recipes/README.txt"
-hash = "9f1fab56c2eac443b0474f378c096301ba66b1830cb092e79d3449127767eff5"
-
-[[files]]
-file = "config/smithy/recipes/baked_potato.json"
-hash = "ef7fdcf5b5c573409434497f5606b63ac673bf434d5a1c556eb8ff28a87ded93"
-
-[[files]]
-file = "config/smithy/recipes/crafting/iron_axe.json"
-hash = "6e789e6798c85be429f3bbf5d143c4cb6d745d62c0d4423c35c4868c021771a6"
-
-[[files]]
-file = "config/smithy/recipes/crafting/iron_hoe.json"
-hash = "cfac4ac8f33bd2ab417b547df5828ef4e973128deeaaf937e075428f64ae535b"
-
-[[files]]
-file = "config/smithy/recipes/crafting/iron_pickaxe.json"
-hash = "60aac2c6c18e328108eace8346f506c5c19557af5414cb5ec7346ef76f99e11d"
-
-[[files]]
-file = "config/smithy/recipes/crafting/iron_shovel.json"
-hash = "b2c55b2a63c7f26ded2638272fc816b7409ca034a4f70f0a6686e6f4ef152f6a"
-
-[[files]]
-file = "config/smithy/recipes/crafting/iron_sword.json"
-hash = "2bc3cb64f59dd1abce66eaf5e187e7b0816dbafb10f064d31facb0539b4990bb"
-
-[[files]]
-file = "config/smithy/recipes/iron_axe_head.json"
-hash = "fbfc69d9d2fe3d11879403309c195c17586c289d766d0c55c214156d7e4c2dc3"
-
-[[files]]
-file = "config/smithy/recipes/iron_double_ingot.json"
-hash = "41cf100a2eb9f7e645758e1cb2d3401d487d5c31476af342bbc0ad91d90d3413"
-
-[[files]]
-file = "config/smithy/recipes/iron_hoe_head.json"
-hash = "65abc4cf69acd05f9a97c288f504a6c4e874f730018eaef2b73f737c7eabcce8"
-
-[[files]]
-file = "config/smithy/recipes/iron_pickaxe_head.json"
-hash = "ffc6fb8ba2f02d047f01ed6092f364b56f0f1c853d2fe5debed1ce1f18161b75"
-
-[[files]]
-file = "config/smithy/recipes/iron_shovel_head.json"
-hash = "5397be34e0037f08775c7f1018694291104fada48f1dd1df254282bac63dc295"
-
-[[files]]
-file = "config/smithy/recipes/iron_sword_blade.json"
-hash = "b0ad93b604b4abb3a63ac6cd1d85456ba07caf7db6aadf9bbe5a2633c7862ae2"
-
-[[files]]
-file = "config/smithy/recipes/netherite_ingot.json"
-hash = "cd6a538819081230eea9068c78c5bd136cc1012a570f0ece4e8f1a7bc72ae7b2"
-
-[[files]]
-file = "config/smithy/recipes/netherite_scrap.json"
-hash = "0f384b210ac1d2837a6a569b1ca2c5c2d984ae2a743e338f6b3d68638ee82fe1"
-
-[[files]]
 file = "datapacks/JamtasticBoneDatapack.zip"
 hash = "73ac4cf131b97c32dd06035db31188e6408bb7349a87ca522b69855e9ba05a41"
 
@@ -216,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-2.pw.toml"
-hash = "c440ba43a82d2d486af54a855e0106448eefc7186f5f1fd830034f488ca9dd23"
+hash = "dbc6921b4203127139650e96d4a534156089c7359cbf0f2d9288327dee675072"
 metafile = true
 
 [[files]]
@@ -481,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.pw.toml"
-hash = "164333cdcc9a3e31158df54e7021769b3e75034fc6904b7d654cb14d000f0a20"
+hash = "a305de34232cb4fe2e94f114c71cd65fb702f3cd60f4a58c4718b9b4c1e28c9d"
 metafile = true
 
 [[files]]
@@ -541,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.pw.toml"
-hash = "ee63f7e9b4d4bc6ce4ab11b8567b2f9b14ecf57c6cfd715ec46e59d7743655b3"
+hash = "c026a276b788657da9e2027ba0adedc989cba6c35591598bf3206cbf7d3601d1"
 metafile = true
 
 [[files]]
@@ -696,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "87c0035bf9166c621d7d6ee370d3e9a79eeb59eab08e65cc2c4b8ff2bf61a810"
+hash = "4ca31c423a4f2d7d6b2eb8eadf2ccc9f3e01e5501cedc439dbdc18d4b27446fe"
 metafile = true
 
 [[files]]
@@ -711,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "14c0cc0afb9bf5c65aebc722ab87bb188efde2fed6d6070372e86086681db6c8"
+hash = "0da9aa0289aa3c657d016977b00a241ce1102e054055ada246163f4748050c0a"
 metafile = true
 
 [[files]]
@@ -805,11 +621,6 @@ hash = "c9f2461195c80736fbefaad5501cf0850d62e96d9625eb399b8eb7fd7bd980e4"
 metafile = true
 
 [[files]]
-file = "mods/smithy.pw.toml"
-hash = "4b4e1a80be367c72da5ab2f372ab4fcc99ff3e180fd91e86870d392031dfefe3"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
@@ -886,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "87a7b64d1d227368e143297ca076c832587b0a96d2378720c9e42caa9b54c667"
+hash = "b1db365586bb8cff0d35d1ee590f5b6c8bff98664067ceae44ef1a009a9fb3fb"
 metafile = true
 
 [[files]]
@@ -913,10 +724,6 @@ metafile = true
 file = "mods/yungs-api-fabric.pw.toml"
 hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
 metafile = true
-
-[[files]]
-file = "resourcepacks/SmithyFix.zip"
-hash = "b6a1fafd2fd5f4182cd09b25f4dcf1414a1e326d54118e52cd21c2d145e2c990"
 
 [[files]]
 file = "resourcepacks/TerrariaModAudioFix.zip"
