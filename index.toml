@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "968f9585cac69696d1112dd216116e0881882eecadc7ab1875863688018ca7cd"
+hash = "3f341b66a4d3ffa3f46b9ff24f27437633257710f0bdc600ccd34681c7846ce3"
 metafile = true
 
 [[files]]
