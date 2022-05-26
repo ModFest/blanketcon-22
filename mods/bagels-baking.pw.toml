@@ -1,8 +1,14 @@
-name = "Bagels Baking"
-filename = "bagels_baking-1.18.2-0.5.0+rc.2.jar"
+name = "Bagel's Baking"
+filename = "bagels_baking-1.18.2-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/863707028336672799/964643752041939034/bagels_baking-1.18.2-0.5.0rc.2.jar"
+url = "https://cdn.modrinth.com/data/HHmtZbjv/versions/0.5.0/bagels_baking-1.18.2-0.5.0.jar"
 hash-format = "sha1"
-hash = "a66d7a5722b40fb2864169eb731e44a29cafd970"
+hash = "ddf284057570cf40f0408f3591f09b1985a7ecee"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "HHmtZbjv"
+version = "HMWQGw3R"

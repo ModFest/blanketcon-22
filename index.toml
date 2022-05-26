@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "219383dab5a172458e6683305854d3fdfdc68653a8352dceaf63b179cfb59d9d"
 
 [[files]]
+file = "config/now-playing.json5"
+hash = "224661be09e2ef4e266e5454e9d30685454765bf6031f7f7bb033e88ef432ea3"
+
+[[files]]
 file = "config/quickconnectbutton.json5"
 hash = "d4341927e6f81b61e0fdca94bbd6ee76b781ba6ca5ac5010e9619b530bd71aba"
 
@@ -42,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "91096af9b96991b06ac07a6e08fbcfe21c233d623a9e595b8ab60585fb6e5c7b"
+hash = "a0a03975e12de7562d53d27d49015404df6c279c027f85943acc580b878ed5b5"
 metafile = true
 
 [[files]]
@@ -77,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bagels-baking.pw.toml"
-hash = "b1b4aced4d0d0c435b9e4e13cc799dc2804c9f93d6c4b1b8d1431c0fe7779a73"
+hash = "afda1bbe4155751b36e3c6f6051affa508ae30e9e8f6a8a96b6aa97441e16bf1"
 metafile = true
 
 [[files]]
@@ -132,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardstock.pw.toml"
-hash = "9ca8e086f850c2241065e29fce2e4c47cb82cf57bb12e855b240df79e27bdbdc"
+hash = "2b2e52974620146c27264c82e29f477b71742513c4f9bfcba5b27983f0a8c904"
 metafile = true
 
 [[files]]
@@ -187,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn.pw.toml"
-hash = "0838d9426d8bba711b822968b0c9b2a41d064d6c0b071c7f44a096b620d49b94"
+hash = "4319357e42e227de4a456c77953609e2e32cc2cd6558777a441b586c0cfe4839"
 metafile = true
 
 [[files]]
@@ -242,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "ff3c9294ee606fdcac6572030424b18bddc28ea211396155b705704e4da65863"
+hash = "c5121528a4b1e66d305acc4d75a362bb6859f29b72241bf681e7520ccfdceb09"
 metafile = true
 
 [[files]]
@@ -267,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluxtech.pw.toml"
-hash = "91abb79325d35e3431f54d6fb7d3a5ac11fe1fcbff296dfa48eb16818df17b65"
+hash = "06118ee7ff6fe6bf706c496a20e614603ed2d3244b21ed0e8ce355c403a90803"
 metafile = true
 
 [[files]]
@@ -292,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/grapple.pw.toml"
-hash = "585dee1e762c7c88e62c148cc5151f2a2b109a2d93419d282855e4aa3503e8a2"
+hash = "0aa937dbf8dfde9c3a9d6817874e13474010a1395a3e054c8ef22b29f6fb49a3"
 metafile = true
 
 [[files]]
@@ -317,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "fd814fa0ce837c3b4cbbe04603b3689e70c135c2eaa3b69706bf5891ec07e98e"
+hash = "968f9585cac69696d1112dd216116e0881882eecadc7ab1875863688018ca7cd"
 metafile = true
 
 [[files]]
 file = "mods/hip-hoppers.pw.toml"
-hash = "8335002b65ded90e72903f83ea295dc266bd72e41774339a3da0e556666db903"
+hash = "ace92e08f7030bea6306a73f3d4d4a713c59f78a9bdc05a31a04c7bac69b055e"
 metafile = true
 
 [[files]]
@@ -492,12 +496,12 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.pw.toml"
-hash = "cb001598a3ecbc444a181036632d1746255e4c2e9aa98d62e49ccc9f243126c1"
+hash = "f36bbca4f57a0badd26f87458360b0a96d80d399b5747700b1b167a67fcd17e3"
 metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.pw.toml"
-hash = "a57ea61b1397f0cabd3d8b39c2c4eca35d30cf0119e1818529a54f48c8f59d32"
+hash = "91f832396235cadf3b6cd3619304e5c62862c06751b4c05da41bedf8c3f88268"
 metafile = true
 
 [[files]]
@@ -512,12 +516,12 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "4ca31c423a4f2d7d6b2eb8eadf2ccc9f3e01e5501cedc439dbdc18d4b27446fe"
+hash = "06e13bc598ebd31f732dfc6b3a2fdbd3d840f9a4ca6bcf9f85f0ee0f8e58fc2c"
 metafile = true
 
 [[files]]
 file = "mods/promenade.pw.toml"
-hash = "9bde19c8fecdec064e38150a219cb9384fe3a468ee522966dc9ccc61cf92d032"
+hash = "31d5b8fa0b81aa6355abb753cca9a60cac11694bf4a87f4d818e8244bc2f2601"
 metafile = true
 
 [[files]]
@@ -642,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.pw.toml"
-hash = "019a49a9e33b3cb07270a622731e967779eb8221e42f63126f11e8c2ee512bab"
+hash = "34441a20543351ea40633ca4a7cedf905651658bf46fe5305e936443e904b031"
 metafile = true
 
 [[files]]
