@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-2.pw.toml"
-hash = "f3dddb623c65e600e49ae42413d336c42a4925601b17bf1a669e4fcc5f536694"
+hash = "3f18374e0d6038923183edf9065919c18606d206965479b4d5800479c172cb63"
 metafile = true
 
 [[files]]
