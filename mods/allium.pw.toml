@@ -1,8 +1,8 @@
 name = "Allium"
-filename = "allium-v1.0.0+mc1.18.2.jar"
+filename = "allium-v0.1.0+mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/958513632419938394/959834203715928074/allium-v1.0.0mc1.18.2.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/979680989498449970/allium-v0.1.0mc1.18.2.jar"
 hash-format = "sha1"
-hash = "993c85b4942abfe562e6101a59115871cbca6d79"
+hash = "8cf7566eb9cd2ec6c666596d6d35096d97ea10ad"
