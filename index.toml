@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "219383dab5a172458e6683305854d3fdfdc68653a8352dceaf63b179cfb59d9d"
-
-[[files]]
 file = "config/now-playing.json5"
 hash = "224661be09e2ef4e266e5454e9d30685454765bf6031f7f7bb033e88ef432ea3"
 
@@ -36,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-2.pw.toml"
-hash = "dbc6921b4203127139650e96d4a534156089c7359cbf0f2d9288327dee675072"
+hash = "f3dddb623c65e600e49ae42413d336c42a4925601b17bf1a669e4fcc5f536694"
 metafile = true
 
 [[files]]
