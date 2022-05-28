@@ -1,14 +1,8 @@
 name = "Galaxies: Parzi's Star Wars Mod"
-filename = "pswg-0.0.69+1.18.2.jar"
+filename = "pswg-0.0.69-11-gdbe6c808+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3798/702/pswg-0.0.69+1.18.2.jar"
+url = "https://cdn.discordapp.com/attachments/707418176992051220/979905582930739270/pswg-0.0.69-11-gdbe6c8081.18.2.jar"
 hash-format = "sha1"
-hash = "0c5e149ae387702fdf1e568329d7b83662df2625"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3798702
-project-id = 496522
+hash = "fabd68b742c990540cf411cfa6b20d9eeea032d2"
