@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "68145a08363fa5fc1d665a2a91e3c8bb0a8c92c998e3c41ffad5ef3c5aa2e968"
+hash = "308c1d2466bbcf70c9288b51321eb5e675e573b4234ebccff0d3373b14964e4f"
 metafile = true
 
 [[files]]
