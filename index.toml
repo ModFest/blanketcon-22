@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1f9425bac09b9897d8adc364017585190274bac6d528f8a9f440d0763c559904"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "3da2e284f0591f46397819f03a0edb268fdf1c2e518c61551e957fe134c8c3e9"
+hash = "f90500d8a671a20939619caee98bc58aee30c9c58362e20b8c01463c9173cd6a"
 metafile = true
 
 [[files]]
@@ -158,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/connectible-chains.pw.toml"
+hash = "80d1d79bb34f31b9b04b2cf8f05f19d9d4d9a9b123eea164f1b5ff18f87dff35"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "c5121528a4b1e66d305acc4d75a362bb6859f29b72241bf681e7520ccfdceb09"
+hash = "0b5fd420a7f1cb3022d7fdbe7a8e503c0382f7fd457b90b12cbfe22d1a18a69d"
 metafile = true
 
 [[files]]
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/flowerycore.pw.toml"
-hash = "5b917d3036cc99e285a3a28674a853472f506ac99ba00eace7600949003fef7d"
+hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
 metafile = true
 
 [[files]]
@@ -452,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "4c002a96eefcff7b5ec520f3c2a305723c086b698dc8b51e037da24447ee78c8"
+hash = "ea7abe71d5bbb0fcb4ec4ef2025232a22f2e9acae7a0d1652bbc63a276dcba82"
 metafile = true
 
 [[files]]
@@ -463,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/phonos.pw.toml"
 hash = "dbe8f1ca0a105514f5a8bc28de1ef3ebc9ce57f25fdd26f72d44be8fee11e03a"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.pw.toml"
-hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.pw.toml"
-hash = "91f832396235cadf3b6cd3619304e5c62862c06751b4c05da41bedf8c3f88268"
+hash = "9cefb36ec96bb99903bf164aa14fab3e32b93f15e554480a4dd4c3638861fc73"
 metafile = true
 
 [[files]]
@@ -636,6 +636,11 @@ hash = "c1e5489a78994e7141bf10913a4966c364cf37e0f92c28b7efb84a0d7d6e2a33"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
+metafile = true
+
+[[files]]
 file = "mods/tatercart.pw.toml"
 hash = "ca915216e19102bfb3147e30088c7c2985c3621496a9ec3e9a6a44fa87966217"
 metafile = true
@@ -697,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "b1db365586bb8cff0d35d1ee590f5b6c8bff98664067ceae44ef1a009a9fb3fb"
+hash = "c14116db4deeea7cd3891329c62822d43d595140064da57d4175a18b2b39f7b4"
 metafile = true
 
 [[files]]
