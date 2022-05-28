@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "c14116db4deeea7cd3891329c62822d43d595140064da57d4175a18b2b39f7b4"
+hash = "7acfaaeec6c15d9bbed6bab52e6dc8ebe37f6502c28e9b28ae46b9faf72f8751"
 metafile = true
 
 [[files]]
