@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "5b476969ef1b2304d55328d9dd6eb0fa0b02b6ac6a023c8b282589d383234390"
+hash = "9798daa86ec3b20f009d44d83db59791d32fa9580749acc8319ec23cec1d1ed2"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "026c8a4b2389e587dc1c04467f1044d4fe514ece13edc8150120798f6d99fed3"
+hash = "9e7fe5df65b111eb547fcd93573d976132eecf906efcf5eeaad1c8d8d11b08d5"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/visible-barriers.pw.toml"
-hash = "bbdeb567f8455cdb34662cb1700204fb3b88ec2c597e2f41c97470fa58386168"
+hash = "a79d8be286c268442026e1691d334c6d3233426ac73efe4f620d176887002a66"
 metafile = true
 
 [[files]]
