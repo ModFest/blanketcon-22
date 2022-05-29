@@ -326,6 +326,11 @@ hash = "5b476969ef1b2304d55328d9dd6eb0fa0b02b6ac6a023c8b282589d383234390"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "07a24c36c4f3d9d09209a7d4e5d385a50f6bca02afcb928cd92efb351299e93f"
+metafile = true
+
+[[files]]
 file = "mods/hip-hoppers.pw.toml"
 hash = "ace92e08f7030bea6306a73f3d4d4a713c59f78a9bdc05a31a04c7bac69b055e"
 metafile = true
@@ -453,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "026c8a4b2389e587dc1c04467f1044d4fe514ece13edc8150120798f6d99fed3"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "be87645e456345a042ba3589f32448ce76e9585dc32584416e54b0eefe80d0b9"
 metafile = true
 
 [[files]]

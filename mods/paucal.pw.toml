@@ -1,0 +1,8 @@
+name = "PAUCAL"
+filename = "paucal-fabric-1.18.2-0.4.4.jar"
+side = "both"
+
+[download]
+url = "https://maven.blamejared.com/at/petra-k/paucal/paucal-fabric-1.18.2/0.4.4/paucal-fabric-1.18.2-0.4.4.jar"
+hash-format = "sha1"
+hash = "142d0b3e470efd37f777724cfdde117d5b5bb5f6"
