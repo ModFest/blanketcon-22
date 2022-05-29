@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/tatercart.pw.toml"
-hash = "ca915216e19102bfb3147e30088c7c2985c3621496a9ec3e9a6a44fa87966217"
+hash = "fd1279b4f8110b4c3321ccf4149a938fa12b12dbe7deafbff614a4620421538b"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "7acfaaeec6c15d9bbed6bab52e6dc8ebe37f6502c28e9b28ae46b9faf72f8751"
+hash = "c3befb94337e27ee79c23dfd8423a31fb67b2e262b74053b783c876098419d2f"
 metafile = true
 
 [[files]]
