@@ -1,13 +1,13 @@
 name = "Patchouli (Fabric)"
-filename = "Patchouli-1.18.2-68-FABRIC.jar"
+filename = "Patchouli-1.18.2-69-FABRIC.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b67ba6ab2fd7c52d23b2225a0ec97ff080b25b4f"
+hash = "e9a09f764c9d32869194a0d0cff75ae112794416"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3809543
+file-id = 3809920
 project-id = 393236
