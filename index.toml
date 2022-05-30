@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "07a24c36c4f3d9d09209a7d4e5d385a50f6bca02afcb928cd92efb351299e93f"
+hash = "d29bbda8c566ad722683303705754c9120c016a071951dd9b842178ac2dda510"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "be87645e456345a042ba3589f32448ce76e9585dc32584416e54b0eefe80d0b9"
+hash = "c62ae9bf2f9ca3fc0ffb4fad99000c88a959b1b523177980a3cf7ef025df50c6"
 metafile = true
 
 [[files]]
@@ -546,13 +546,8 @@ hash = "5cc67fdc4f414a9ebda1cd2c4908e3f3d5e7cfb3bfcf8f16606b2110e78b2f0e"
 metafile = true
 
 [[files]]
-file = "mods/qsl-bugfix.pw.toml"
-hash = "53211ba3174d206336443935606f9203d29b3a01f128bcc79baf3bb7f3f0083e"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
-hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
+hash = "1b8646c09f572f1b71bf5c77a8e12f0b7f17b82ea2b877ed3c0a39a9fba0984e"
 metafile = true
 
 [[files]]
