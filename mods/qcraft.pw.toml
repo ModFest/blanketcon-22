@@ -1,13 +1,8 @@
 name = "qCraft Reimagined"
-filename = "qcraft-1.1.0.jar"
+filename = "qcraft-1.2.0-beta.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uwzLLQUA/versions/1.1.0/qcraft-1.1.0.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/981246700565975170/qcraft-1.2.0-beta.1.jar"
 hash-format = "sha1"
-hash = "d0621f82ea5b93776a7ba039d50ef547236c9344"
-
-[update]
-[update.modrinth]
-mod-id = "uwzLLQUA"
-version = "lsPUi68v"
+hash = "b3dda100cd6ecaea094657f9170af4a175aaf993"

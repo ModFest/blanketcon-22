@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/qcraft.pw.toml"
-hash = "5cc67fdc4f414a9ebda1cd2c4908e3f3d5e7cfb3bfcf8f16606b2110e78b2f0e"
+hash = "a70fd2ddd6499d053bc37969defe085516b2c57e4729d23d558e17a4640cb621"
 metafile = true
 
 [[files]]
