@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b8eeaa92aa2dd065415afd6c449f8c785d387a9f27fc5d6e40e35c31ac6616b0"
+hash = "fe2cb91551abf2fc21175fc321f1a5b46d497e818c40932f61de875631649b96"
 metafile = true
 
 [[files]]
@@ -518,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/portal-cubed.pw.toml"
 hash = "06e13bc598ebd31f732dfc6b3a2fdbd3d840f9a4ca6bcf9f85f0ee0f8e58fc2c"
+metafile = true
+
+[[files]]
+file = "mods/porting-lib.pw.toml"
+hash = "5c782713caf6c3a68757e87b6cf2449f21f2d99b4b4679e5bf290a84a6db64a3"
 metafile = true
 
 [[files]]
