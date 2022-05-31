@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "fe0e65422f9765d2afff11abcfc99fc25cc7304f53ce635980a2adf8e2ffc3b4"
+hash = "99da91a79a5a9ca8bdc37c3d82bd64554d180407fabf5d9d5073678ec862d213"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "235e97e45ae051d944b244f992bed97347c235b629455491bfdee8fcaf04695d"
+hash = "3fca7e10308b27db7bcd9b59af7abd8b6cc4e8205dfdcad94acbf0a8340c5357"
 metafile = true
 
 [[files]]
@@ -507,17 +507,17 @@ metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.pw.toml"
-hash = "9cefb36ec96bb99903bf164aa14fab3e32b93f15e554480a4dd4c3638861fc73"
+hash = "2c0a18ad81398e6110cc50a78243a808c6d59d71b30c296f77aa19baa5bfbb93"
 metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "fcce8d9f62ffe485abd667f68802588da72d986b97b189fed2eb935b75f0c0fa"
+hash = "6abe09f2320a6eb1edf436c59c4134c2f7da9598a944f83263b9a64280f47ccf"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "87ccfad7626c93130cb7ad445c41c8db8d10da914b0ba13c4bf9b58bfe6371b8"
+hash = "959e2edeff73ae2b7dc13474f36aa2e08ff1b5f6dce78b23de26cedc7290eec8"
 metafile = true
 
 [[files]]

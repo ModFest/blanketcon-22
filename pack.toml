@@ -1,12 +1,12 @@
 name = "BlanketCon 2022"
 author = "The community!"
-version = "2022.05.30"
+version = "2022.05.31"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5d8e1b3c2a571eaf56300e83421f6f9dea9333d6c660f169ff88c304d5d71668"
+hash = "19dfe68028e20b613d5d9066caf4406eaa94ab4205d8ca2c4dc54a27d8866b74"
 
 [versions]
 minecraft = "1.18.2"
