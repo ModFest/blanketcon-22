@@ -326,11 +326,6 @@ hash = "9798daa86ec3b20f009d44d83db59791d32fa9580749acc8319ec23cec1d1ed2"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "d29bbda8c566ad722683303705754c9120c016a071951dd9b842178ac2dda510"
-metafile = true
-
-[[files]]
 file = "mods/hip-hoppers.pw.toml"
 hash = "ace92e08f7030bea6306a73f3d4d4a713c59f78a9bdc05a31a04c7bac69b055e"
 metafile = true
