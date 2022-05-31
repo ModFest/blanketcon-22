@@ -1,0 +1,8 @@
+name = "Porting Lib"
+filename = "porting_lib-1.1.0-beta1.18.2-dev.0d8fb5e.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/957930008054202410/981040468483784774/porting_lib-1.1.0-beta1.18.2-dev.0d8fb5e.jar"
+hash-format = "sha1"
+hash = "9e74e90b21acb5605f412045746b9600c42c8508"
