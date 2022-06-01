@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/grapple.pw.toml"
-hash = "f7eb0f11309d133bc0b8ded1c601b71c8542d2e2d373567ae34315183740b7f0"
+hash = "b04e593a774931de661fb7b211084fd8617a2dbc26a54c53e8e89401230c458c"
 metafile = true
 
 [[files]]
