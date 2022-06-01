@@ -416,11 +416,6 @@ hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
 
 [[files]]
-file = "mods/no-hard-feelings.pw.toml"
-hash = "d4ff061d16e6cc62d5ffc8093f4a40200927994f274181d6fb1ca55aa6db7aa6"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
 metafile = true
