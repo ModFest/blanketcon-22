@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardstock.pw.toml"
-hash = "2b2e52974620146c27264c82e29f477b71742513c4f9bfcba5b27983f0a8c904"
+hash = "f75958f1eb51426030e6c43d1cc7939c9b7a74cc43fd0d8114151a3a73dc2cd6"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "959e2edeff73ae2b7dc13474f36aa2e08ff1b5f6dce78b23de26cedc7290eec8"
+hash = "e809e92b440c5321e43e34fc2075baac23e0fc0d882ae6fc4da00feb87a913b7"
 metafile = true
 
 [[files]]
