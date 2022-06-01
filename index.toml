@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/grapple.pw.toml"
-hash = "0aa937dbf8dfde9c3a9d6817874e13474010a1395a3e054c8ef22b29f6fb49a3"
+hash = "f7eb0f11309d133bc0b8ded1c601b71c8542d2e2d373567ae34315183740b7f0"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "06e13bc598ebd31f732dfc6b3a2fdbd3d840f9a4ca6bcf9f85f0ee0f8e58fc2c"
+hash = "8c217816f3552d94613a9247bb52cb4d50b1819a65880f11c3393678a2c89bba"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.pw.toml"
-hash = "49408ac9da7c88fea80da6e32ec9f3ba3650f45a34e88c348ba42133c2e4e1b7"
+hash = "6ca362031a3347f78ef1ea13b589bac910389d6acca6a2d58614e8a400d0cf13"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/qcraft.pw.toml"
-hash = "a70fd2ddd6499d053bc37969defe085516b2c57e4729d23d558e17a4640cb621"
+hash = "8cc2e5aa8a95dc1c3923e3bf8e08f4d0dc060f851ec4f08c561be79fa62585df"
 metafile = true
 
 [[files]]

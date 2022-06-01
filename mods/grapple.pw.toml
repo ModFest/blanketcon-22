@@ -1,8 +1,8 @@
 name = "Grapple"
-filename = "grapple-1.0.6.jar"
+filename = "grapple-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/979226106156707840/grapple-1.0.6.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/981327359070326864/grapple-1.0.8.jar"
 hash-format = "sha1"
-hash = "81493214b7b769740e06f4037af4a65d8b3ef327"
+hash = "3c5e3d0b5536807d7b99660a1f901738e8fec5d5"
