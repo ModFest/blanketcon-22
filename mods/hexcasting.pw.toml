@@ -1,8 +1,8 @@
 name = "Hexcasting"
-filename = "hexcasting-fabric-1.18.2-0.9.0-blanketcon-fix1.jar"
+filename = "hexcasting-fabric-1.18.2-0.9.0-pre-259.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/981239781793091625/hexcasting-fabric-1.18.2-0.9.0-blanketcon-fix1.jar"
+url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-fabric-1.18.2/0.9.0-pre-259/hexcasting-fabric-1.18.2-0.9.0-pre-259.jar"
 hash-format = "sha1"
-hash = "c46930ff12f60ef2ac828a8ea4c2437115fc519c"
+hash = "7115c8538f79265d7a2c9cb1a9638a7cd18a72ed"

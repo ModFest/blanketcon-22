@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "allium/warp.zip"
+hash = "523fb58d9490d65a1f9faca00ff109cbf37c249f05944e5ce3e567a8c94aee29"
+
+[[files]]
 file = "config/now-playing.json5"
 hash = "224661be09e2ef4e266e5454e9d30685454765bf6031f7f7bb033e88ef432ea3"
 
@@ -27,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/allium.pw.toml"
-hash = "56a675dfe19c1129104dcf0a79c2dc16d76c8aff0057aa44fce3bb4130782853"
+hash = "ec539e3ae6d5e8df1f0700c63fada1627509ed9d172c9965c722df53cb00cbeb"
 metafile = true
 
 [[files]]
@@ -327,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "3fca7e10308b27db7bcd9b59af7abd8b6cc4e8205dfdcad94acbf0a8340c5357"
+hash = "79409652e52352567dae2726c63c88130cd9ed6d8b724f2255c3e4d46d89fc05"
 metafile = true
 
 [[files]]
@@ -517,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "8c217816f3552d94613a9247bb52cb4d50b1819a65880f11c3393678a2c89bba"
+hash = "3ae048831ded8bd11f26e6f80d8a3d794247bfaaca1b18e3fc3b2b6fa5f599cb"
 metafile = true
 
 [[files]]
