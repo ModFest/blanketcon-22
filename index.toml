@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "79409652e52352567dae2726c63c88130cd9ed6d8b724f2255c3e4d46d89fc05"
+hash = "762d65abe627b9fa542be8b58d9deed1edde1d8ecf11b11d1eda308de5c5ae17"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "1b8646c09f572f1b71bf5c77a8e12f0b7f17b82ea2b877ed3c0a39a9fba0984e"
+hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
 metafile = true
 
 [[files]]
