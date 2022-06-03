@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/terracraft.pw.toml"
-hash = "722e08d6bde026d8662b6e5a6ed00176ddda125e7afea4d7df5d299dfadba44e"
+hash = "bb8b2fa0a0e2c54103a48a988eec26e4fbd243d6de244323ffce507f96f4b2b2"
 metafile = true
 
 [[files]]

@@ -1,13 +1,8 @@
 name = "Terracraft"
-filename = "terracraft-0.1.0.jar"
+filename = "terracraft-0.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nKYADgsA/versions/0.1.0/terracraft-0.1.0.jar"
+url = "https://cdn.discordapp.com/attachments/957930008054202410/982085635445776464/terracraft-0.1.2.jar"
 hash-format = "sha1"
-hash = "29f9c37862e39aff3ae55beaca3cce37fc154490"
-
-[update]
-[update.modrinth]
-mod-id = "nKYADgsA"
-version = "niKb6ZVA"
+hash = "399209817f58b1bb66dc48f3ded9c61e5b5c3fe3"
