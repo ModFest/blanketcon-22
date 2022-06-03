@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "99da91a79a5a9ca8bdc37c3d82bd64554d180407fabf5d9d5073678ec862d213"
+hash = "04e8fe0a888c885a9188bb4cfb2e01b3c79c6c1bccea561d254a22237411dcfe"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "f90500d8a671a20939619caee98bc58aee30c9c58362e20b8c01463c9173cd6a"
+hash = "beed33cf896de71b0667ae5499904217fbad118d652f1a85eebd0d9fa01f14e6"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
+hash = "05b057422c716bab0092cecdab141e33bb089fd58c9a7a923037de767b084cfc"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "4f4e50fce1a2cf9f09b63f732a9e0e44e132100b0cd2fbcfdfd90518ef8ef597"
+hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowcase.pw.toml"
-hash = "165d31b5019dfd45583f8c4dcbbc889c6d14698f21c56351eac69e7756d7bba1"
+hash = "9d808573e9bb21f4559e4dcda4759e395c2c8479fa0baea488b0ce382cb56931"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
+hash = "b518c8aa75fc323110cb8bf66ee63fd43ec9d796b5d9a382a00426e0370b3b87"
 metafile = true
 
 [[files]]
@@ -506,12 +506,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.pw.toml"
-hash = "2c0a18ad81398e6110cc50a78243a808c6d59d71b30c296f77aa19baa5bfbb93"
+hash = "62aedea7269b1611ac431f1d4eb4b7d5ca6d3d6f3944760f278b7c0675fa8c9c"
 metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "6abe09f2320a6eb1edf436c59c4134c2f7da9598a944f83263b9a64280f47ccf"
+hash = "ac2a347f213ddf788627871b8b1e790914b8591db89d19eb3f19edfca923f41e"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.pw.toml"
-hash = "86a04521b0a2c3bc92717eeeafa605c38c5aae6d729dfed435f27b3b5d5dc299"
+hash = "782ff0668752e8328f8751d07fd4c2ee23d45ef6227aaca272f6f05df91c086f"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.pw.toml"
-hash = "34441a20543351ea40633ca4a7cedf905651658bf46fe5305e936443e904b031"
+hash = "ef943071cd429928fa5bbe33a7a2d09b59ec7d467c4cb94fa8db292d49b9525c"
 metafile = true
 
 [[files]]
