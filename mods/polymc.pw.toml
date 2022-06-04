@@ -1,8 +1,8 @@
 name = "PolyMc"
-filename = "PolyMc-4.1.2-rev.8fdf216+1.18.2.jar"
+filename = "PolyMc-4.1.2-rev.ebda87d+1.18.2.jar"
 side = "server"
 
 [download]
-url = "https://maven.theepicblock.nl/nl/theepicblock/PolyMc/4.1.2-rev.8fdf216%2B1.18.2/PolyMc-4.1.2-rev.8fdf216%2B1.18.2.jar"
+url = "https://maven.theepicblock.nl/nl/theepicblock/PolyMc/4.1.2-rev.ebda87d%2B1.18.2/PolyMc-4.1.2-rev.ebda87d%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "cbd04fb384ddc6a17362a5a1bd611fd825c24cc0"
+hash = "8f91da4c92be10bcb60ebd46af70b5d5075a5118"

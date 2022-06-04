@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "ac2a347f213ddf788627871b8b1e790914b8591db89d19eb3f19edfca923f41e"
+hash = "e5df27a478be09598984eabf34040dc5447c243b0b04ee5597315decaedba761"
 metafile = true
 
 [[files]]
@@ -746,3 +746,7 @@ hash = "6a0a4dd7caf22dcfdeee2aa5474233bf35d183573f00347b139ecf73446324f9"
 [[files]]
 file = "resourcepacks/botania_textures.zip"
 hash = "0e1fefddfb788b8ee981334e88e990e2753615a73188f6a2064ccff290d96025"
+
+[[files]]
+file = "resourcepacks/polymc.zip"
+hash = "dd53f049088798faf12c9c62102f0e486990da92c475c422d2d3f710f0a83dcc"
