@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
-hash = "50b181bec40818218b1d51c1b0f8760c5f2a9cf7dc0c879bc26de7b86b7ab388"
+hash = "f72b2189d1dff60b44ae569cd6c210c96ee6edafadf7a74f7f3b817aa32043bb"
 metafile = true
 
 [[files]]
@@ -345,11 +345,6 @@ hash = "ace92e08f7030bea6306a73f3d4d4a713c59f78a9bdc05a31a04c7bac69b055e"
 metafile = true
 
 [[files]]
-file = "mods/icbm4fabric.pw.toml"
-hash = "4629b92cbf89489a5df66e7fed56f5d7d49242761e00d849068d262da71b5e14"
-metafile = true
-
-[[files]]
 file = "mods/icy-incitement.pw.toml"
 hash = "473efcd8f932c19de373116114f8ce9f84bacb987991989d7e841642d253daae"
 metafile = true
@@ -521,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "a0ad9b18f066d09195aac36b12416c9efa3ccd187a5155dc9c1106eadf9a8e1c"
+hash = "616ef63d544f8897ba5501d6bd3e7995de29b5b56c78f8f0f4f95e7ba728edec"
 metafile = true
 
 [[files]]
