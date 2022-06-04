@@ -3,6 +3,6 @@ filename = "Flamingo-1.18-1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/974381735959728158/Flamingo-1.18-1.19.jar"
+url = "https://squiddev.cc/r/jars/Flamingo-1.18-1.19.jar"
 hash-format = "sha1"
-hash = "428a942115aa31cdbf4a02bfbb060da28251caf2"
+hash = "14a6651c54f1119c02bf57cf9c15dcf89ec0a06b"

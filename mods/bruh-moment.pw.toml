@@ -1,0 +1,8 @@
+name = "Bruh Moment"
+filename = "bruh-moment-0.3.0-1-g90e7b9f.jar"
+side = "both"
+
+[download]
+url = "https://squiddev.cc/r/jars/bruh-moment-0.3.0-1-g90e7b9f.jar"
+hash-format = "sha1"
+hash = "36a9bcecbf33ddc9ce08aab4478be39b04970a3a"

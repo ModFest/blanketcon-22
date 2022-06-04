@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "04e8fe0a888c885a9188bb4cfb2e01b3c79c6c1bccea561d254a22237411dcfe"
+hash = "b1fdac26ba0401a0c0049e75cfb0a4dffcda63f0859683d637bc14f767a3c801"
 metafile = true
 
 [[files]]
@@ -117,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "6f25063cc3953995c069d5e1c88976834107f8b9c600ffc8d554459be75e1d6a"
+metafile = true
+
+[[files]]
+file = "mods/bruh-moment.pw.toml"
+hash = "ec37d5f81f8e9fba22ada65b04e5e2ec1c5800b3baec06cb15b8fa3fdf067aad"
 metafile = true
 
 [[files]]
@@ -231,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecotones.pw.toml"
-hash = "7f8a7ba6f5d85a0ca5362fbb956a094db023e4eebfad79b4b0632ce0c4213d58"
+hash = "ec705d88e346c59e96a574c079720a032d90afa308863415e9acdd962ec6fad5"
 metafile = true
 
 [[files]]
@@ -261,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/flamingo.pw.toml"
-hash = "934df39b36be8f521814a7a9eff3f7ba4bb85cbdbea143b6f32d8eace80ee9c7"
+hash = "294aa1467cb86c3a410d3c94b32727d4fec30997a54865b5fc589f3eec2269da"
 metafile = true
 
 [[files]]
@@ -275,8 +280,8 @@ hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
 metafile = true
 
 [[files]]
-file = "mods/fluxtech.pw.toml"
-hash = "bf0074ebad1e6d922ca5fa5f5d25b9b9d15f3fb648b8efa64dbc2c0b427e7029"
+file = "mods/flying-fluxery.pw.toml"
+hash = "e637177b3c750bdf8c29cce74379fbf51af7e157a4d6a22d3e9207b715e6c114"
 metafile = true
 
 [[files]]
@@ -331,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "9a66b8e8b736b40e9e6217bb5164d62fabc0107c7071e59bced995a5d2872ea4"
+hash = "62da8e1513ff072c6544d490bf80168aacd8f178c25b5c22d925264b484a2819"
 metafile = true
 
 [[files]]
@@ -516,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "e809e92b440c5321e43e34fc2075baac23e0fc0d882ae6fc4da00feb87a913b7"
+hash = "a0ad9b18f066d09195aac36b12416c9efa3ccd187a5155dc9c1106eadf9a8e1c"
 metafile = true
 
 [[files]]
@@ -531,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.pw.toml"
-hash = "5fff249ac521f37bbb20921ec79ced515a660ee5d314455c77b5873160144fe2"
+hash = "3b295e90c580c3daa2c573bfec2e2fffcb4fed6e6d6ab4ce2104638d462bc3b2"
 metafile = true
 
 [[files]]
@@ -581,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.pw.toml"
-hash = "782ff0668752e8328f8751d07fd4c2ee23d45ef6227aaca272f6f05df91c086f"
+hash = "e4bf2c17c6d77a53245ad45c944510c77ea51cbd88035cdf397813dda677e547"
 metafile = true
 
 [[files]]
@@ -596,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoramas-terraria-mod.pw.toml"
-hash = "25ca0b31add34eab574724ef38e551966e5adb14ab72548e0354816052cbf121"
+hash = "8b8807d3d7298102c9b07009784932c83dc3152e0fa56b11cf5edee7ab924c63"
 metafile = true
 
 [[files]]
@@ -651,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.pw.toml"
-hash = "ef943071cd429928fa5bbe33a7a2d09b59ec7d467c4cb94fa8db292d49b9525c"
+hash = "1859dcaac45915184e8ae7d76ea6fe04a96ab8a248096552579acc6a35e846b5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "Flying Fluxery"
+filename = "flyingfluxery-3.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/982493666033672263/flyingfluxery-3.0.6.jar"
+hash-format = "sha1"
+hash = "e30b2a1d051fee4075b7639657887c716da9a48b"
