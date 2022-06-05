@@ -175,8 +175,8 @@ hash = "80d1d79bb34f31b9b04b2cf8f05f19d9d4d9a9b123eea164f1b5ff18f87dff35"
 metafile = true
 
 [[files]]
-file = "mods/consistency-plus.pw.toml"
-hash = "b06c2fb3febd97a9e605792d6a88eeef27bf329eb00c4b7efd1faffae1b4886f"
+file = "mods/consistencyplus.pw.toml"
+hash = "55d3ab04295dd8ac5bbd79dc435048e46290cacc7c138be19eb13e1ad2e47fa7"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/qcraft.pw.toml"
-hash = "375067a4c41234b426d19a67373e3b6447925d7de5b0515236a521cf18cee4ea"
+hash = "968dfb16b5a0489a6e5700454314ecf8356d4d66cfdf264be2b524e2894c5f40"
 metafile = true
 
 [[files]]
