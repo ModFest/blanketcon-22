@@ -26,7 +26,7 @@ hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
-hash = "72e02fc8b4e8fa309760f33486cd2527e3475f96970b16c10f85cd22fedc2765"
+hash = "87ed00a4097e8346812e9dc1a60f10cb28bcf1f14a6e013cf1a07b1f6ac24653"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
+hash = "618c397ecd0d10f239701359560ab2c3dc94808366866dab8dbb78da4137c191"
 metafile = true
 
 [[files]]
