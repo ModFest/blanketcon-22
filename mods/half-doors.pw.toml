@@ -1,8 +1,14 @@
 name = "Halfdoors"
-filename = "half-doors-1.18.2-fabric-1.3.3+peculiarpieces-1.0.14.jar"
+filename = "half-doors-1.18.2-fabric-1.3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/980536494911537222/half-doors-1.18.2-fabric-1.3.3peculiarpieces-1.0.14.jar"
+url = "https://cdn.modrinth.com/data/eUIcEaMw/versions/1.3.5/half-doors-1.18.2-fabric-1.3.5.jar"
 hash-format = "sha1"
-hash = "4daac32cd92b9c219f17fa46a524ea9af6b201cc"
+hash = "ba811cf9e68c0f5681e7756036aa156f07a55868"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "eUIcEaMw"
+version = "WjdIuHbe"

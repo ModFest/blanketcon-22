@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-jump-attribute.pw.toml"
-hash = "f60c25164085099bca56f400d0dc35e98f83413fdb4a80942e62239b8ea973cc"
+hash = "c2266e911b81e8d3b57cd6935e28091bd2d46b26969330ef7de72f882afd87ce"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "9798daa86ec3b20f009d44d83db59791d32fa9580749acc8319ec23cec1d1ed2"
+hash = "7b8bde6de6b12f31b64bf16f9e4ac0348cdfdca8b65093c265570d104476ab1a"
 metafile = true
 
 [[files]]
@@ -462,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "c62ae9bf2f9ca3fc0ffb4fad99000c88a959b1b523177980a3cf7ef025df50c6"
+metafile = true
+
+[[files]]
+file = "mods/peculiar-pieces.pw.toml"
+hash = "9ae62ac4f8dd2362d8e7a37357a97772a6cc0d0264ae98683545785a3591a5f3"
 metafile = true
 
 [[files]]
