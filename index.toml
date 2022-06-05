@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "beed33cf896de71b0667ae5499904217fbad118d652f1a85eebd0d9fa01f14e6"
+hash = "b25a8008747635904c9c28acf1118c3992b14709fdcbaf68d7f5b0ae9de94ae0"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "618c397ecd0d10f239701359560ab2c3dc94808366866dab8dbb78da4137c191"
+hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "e5df27a478be09598984eabf34040dc5447c243b0b04ee5597315decaedba761"
+hash = "7128db298953090d21207b4b6df7daf7627319f5df01baffb3f3cada97f057af"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "3ae048831ded8bd11f26e6f80d8a3d794247bfaaca1b18e3fc3b2b6fa5f599cb"
+hash = "eba18b239a751836fd3ab6a4aaeb139259c15eb5982c78beb3edeac0027c6d45"
 metafile = true
 
 [[files]]
@@ -744,4 +744,4 @@ hash = "0e1fefddfb788b8ee981334e88e990e2753615a73188f6a2064ccff290d96025"
 
 [[files]]
 file = "resourcepacks/polymc.zip"
-hash = "dd53f049088798faf12c9c62102f0e486990da92c475c422d2d3f710f0a83dcc"
+hash = "d4df0f9d2583f1eaefc4e435aa8a1b9db0a9af6c7882a7180ef249c516aebb92"
