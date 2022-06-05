@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecotones.pw.toml"
-hash = "ec705d88e346c59e96a574c079720a032d90afa308863415e9acdd962ec6fad5"
+hash = "234eb75a27b5997346c51040d57eda99ceb918552b443f456f4239433b6e34a5"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "7128db298953090d21207b4b6df7daf7627319f5df01baffb3f3cada97f057af"
+hash = "36edd38a003766db0d785bd43747b691aecff8c6849dfcb49fa513d92213d96b"
 metafile = true
 
 [[files]]

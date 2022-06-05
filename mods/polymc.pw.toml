@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://github.com/TheEpicBlock/PolyMc/releases/download/5.0.0-pre.2/PolyMc-5.0.0-pre.2+1.18.2.jar"
 hash-format = "sha1"
-hash = "88fe52b243bbdc62c850cb48291322f56b12025e"
+hash = "aae94d29b7e54d5afb321eb4cafcc6c8ca7445ed"
