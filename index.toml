@@ -540,11 +540,6 @@ hash = "8e6c9bad4dd4461904f4fbc74f735307124cdcb7472d1963867c402356269b9a"
 metafile = true
 
 [[files]]
-file = "mods/qcraft.pw.toml"
-hash = "968dfb16b5a0489a6e5700454314ecf8356d4d66cfdf264be2b524e2894c5f40"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
 metafile = true
