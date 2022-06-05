@@ -7,8 +7,3 @@ url = "https://edge.forgecdn.net/files/3683/667/Runelic-Fabric-1.18.2-11.0.1.jar
 hash-format = "sha1"
 hash = "d0c3d625bd450f4e58f8c7a5bf44d05da15690b4"
 mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3683667
-project-id = 393149

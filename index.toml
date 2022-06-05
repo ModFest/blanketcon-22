@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/runelic.pw.toml"
-hash = "f82a4dd5da90aa0f84accda6ce1b7259129d88f5e89db04b674f88653ee1e6b9"
+hash = "5620f71f36aa96ab9e122dc883cba8910f4129ab2e9ad1b931a33f12205b044c"
 metafile = true
 
 [[files]]
