@@ -1,8 +1,8 @@
 name = "qCraft Reimagined"
-filename = "qcraft-1.2.0-beta.2.jar"
+filename = "qcraft-1.2.0-rebuild.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/981376233373851708/qcraft-1.2.0-beta.2.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/983036031970443264/qcraft-1.2.0-rebuild.3.jar"
 hash-format = "sha1"
-hash = "843d8a7646a868baf3b0410ba80f5ad4337fa7b5"
+hash = "441bfdd19612bbea9f99d974a596a7a3705fe53f"
