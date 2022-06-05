@@ -3,7 +3,6 @@ filename = "jamtastic-1.4.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3804/610/jamtastic-1.4.2.jar"
 hash-format = "sha1"
 hash = "666406fd71957fdba34e2928d3532c50e99bfddb"
 mode = "metadata:curseforge"

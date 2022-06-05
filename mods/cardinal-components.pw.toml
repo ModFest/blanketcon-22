@@ -3,7 +3,6 @@ filename = "cardinal-components-chunk-4.1.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3669/772/cardinal-components-chunk-4.1.4.jar"
 hash-format = "sha1"
 hash = "d7d89a7e0c2d1e959f988d253371a7bf848b49b1"
 mode = "metadata:curseforge"

@@ -3,7 +3,6 @@ filename = "DarkUtilities-Fabric-1.18.2-10.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3753/812/DarkUtilities-Fabric-1.18.2-10.0.4.jar"
 hash-format = "sha1"
 hash = "6a3f9977c0416e11359c4aef84a762bc18396695"
 mode = "metadata:curseforge"

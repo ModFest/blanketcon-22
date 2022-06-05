@@ -3,9 +3,9 @@ filename = "YungsApi-1.18.2-Fabric-2.0.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3779/89/YungsApi-1.18.2-Fabric-2.0.8.jar"
 hash-format = "sha1"
 hash = "4e96599a16b1eba26e2e712d5f282780dca58876"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

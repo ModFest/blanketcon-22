@@ -3,7 +3,6 @@ filename = "PigPen-Fabric-1.18.2-8.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3683/673/PigPen-Fabric-1.18.2-8.0.1.jar"
 hash-format = "sha1"
 hash = "97a7da813ac903393e3a6ec921bd039ed8f2a036"
 mode = "metadata:curseforge"

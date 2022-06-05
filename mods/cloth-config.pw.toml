@@ -3,9 +3,9 @@ filename = "cloth-config-6.2.57-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar"
 hash-format = "sha1"
 hash = "c52ef239d9d3d3473312d3f57bd8e730155ee5a5"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

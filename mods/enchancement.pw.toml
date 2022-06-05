@@ -3,7 +3,6 @@ filename = "enchancement-1.18-17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3796/4/enchancement-1.18-17.jar"
 hash-format = "sha1"
 hash = "31c9d7a57e169b31b949a3369aa42c3f21055e0d"
 mode = "metadata:curseforge"

@@ -3,9 +3,9 @@ filename = "simplevillagers-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3771/553/simplevillagers-1.2.1.jar"
 hash-format = "sha1"
 hash = "8171deb2817eaccd6d77666e120826ecfb102ac1"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -3,9 +3,9 @@ filename = "bewitchment-1.18-20.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3790/211/bewitchment-1.18-20.jar"
 hash-format = "sha1"
 hash = "94e81d8a5b17d4738f6236634fd24c3fb3a1f0b9"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
