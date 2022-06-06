@@ -1,8 +1,8 @@
 name = "Botania (Fabric)"
-filename = "Botania-1.18.2-433-FABRIC-20220514.142154-3.jar"
+filename = "Botania-1.18.2-434-FABRIC-SNAPSHOT-20220606.jar"
 side = "both"
 
 [download]
-url = "https://maven.blamejared.com/vazkii/botania/Botania/1.18.2-433-FABRIC-SNAPSHOT/Botania-1.18.2-433-FABRIC-20220514.142154-3.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/983319527238541312/Botania-1.18.2-434-FABRIC-SNAPSHOT-20220606.jar"
 hash-format = "sha1"
-hash = "52e86d24c9230846b726d403a2de48eff6e2e212"
+hash = "0acfd08df8a62a9ed9e7e29cd169436cd2ba2a9e"

@@ -1,14 +1,14 @@
 name = "Quilt Standard Libraries"
-filename = "qsl-1.1.0-beta.14_qfapi-1.0.0-beta.17_fapi-0.54.0_mc-1.18.2.jar"
+filename = "qsl-1.1.0-beta.17_qfapi-1.0.0-beta.18_fapi-0.55.1_mc-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.17+0.54.0-1.18.2/qsl-1.1.0-beta.14_qfapi-1.0.0-beta.17_fapi-0.54.0_mc-1.18.2.jar"
+url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.18+0.55.1-1.18.2/qsl-1.1.0-beta.17_qfapi-1.0.0-beta.18_fapi-0.55.1_mc-1.18.2.jar"
 hash-format = "sha1"
-hash = "28758cad7fedde50bdaa6f3ef03dfda5b3bb02ae"
+hash = "570a35077b43fb79679d5e2cda75c55ad12fa3e4"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "qvIfYCYJ"
-version = "lz767pA6"
+version = "L1XD5HAW"

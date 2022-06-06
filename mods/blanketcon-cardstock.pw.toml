@@ -1,0 +1,8 @@
+name = "BlanketCon Cardstock"
+filename = "blanketcon-cardstock-1.0.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/983326221452599347/blanketcon-cardstock-1.0.01.18.2.jar"
+hash-format = "sha1"
+hash = "4e5e6bcdcba5966d189efe6498282b64aa3e4a58"

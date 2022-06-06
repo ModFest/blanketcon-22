@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "allium/warp.zip"
-hash = "523fb58d9490d65a1f9faca00ff109cbf37c249f05944e5ce3e567a8c94aee29"
+hash = "a6d2e557ee581113876e6f6bf6c93b52c52bec948786b8ecf752a3bdd8b16115"
 
 [[files]]
 file = "config/now-playing.json5"
@@ -110,13 +110,18 @@ hash = "f72b2189d1dff60b44ae569cd6c210c96ee6edafadf7a74f7f3b817aa32043bb"
 metafile = true
 
 [[files]]
+file = "mods/blanketcon-cardstock.pw.toml"
+hash = "d0bff683f3664481d987077a4a5c35703e1a10f594823348819c75521aaf604b"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "b25a8008747635904c9c28acf1118c3992b14709fdcbaf68d7f5b0ae9de94ae0"
 metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "6f25063cc3953995c069d5e1c88976834107f8b9c600ffc8d554459be75e1d6a"
+hash = "bf1d7852b81054cd81b196c6fd92177452e4fbc4520629c64dae6d66a0f183cb"
 metafile = true
 
 [[files]]
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "8432b798f65f72b144b8f54485b8e23df7ed3708b434297fe16e4d42e3aaac87"
+hash = "8ac48bad6b268e7252bbf93ff56d9b65b528fcd2009b2589797ba1416dda1c13"
 metafile = true
 
 [[files]]
@@ -331,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "7b8bde6de6b12f31b64bf16f9e4ac0348cdfdca8b65093c265570d104476ab1a"
+hash = "cec84104a9fd471793bc961bf791e56d6979bf546ccc80e861f4cb5f35941a13"
 metafile = true
 
 [[files]]
@@ -341,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/hip-hoppers.pw.toml"
-hash = "ace92e08f7030bea6306a73f3d4d4a713c59f78a9bdc05a31a04c7bac69b055e"
+hash = "26f7312e6274027a2a9187cc440f3e34cbaacf3cf67eabe77f74639b986c0b21"
 metafile = true
 
 [[files]]
@@ -546,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
+hash = "59458e409aaafb4f25a0f62f943508893c677ae8a1c75f9a33113c6f0470c7cd"
 metafile = true
 
 [[files]]
