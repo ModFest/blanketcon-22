@@ -5,6 +5,10 @@ file = "allium/warp.zip"
 hash = "a6d2e557ee581113876e6f6bf6c93b52c52bec948786b8ecf752a3bdd8b16115"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "b1e1297f970bc744084a2ccc9043880ed3fbea619758c9a0f2093e73bcf35521"
+
+[[files]]
 file = "config/now-playing.json5"
 hash = "224661be09e2ef4e266e5454e9d30685454765bf6031f7f7bb033e88ef432ea3"
 
@@ -116,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "b25a8008747635904c9c28acf1118c3992b14709fdcbaf68d7f5b0ae9de94ae0"
+hash = "73d0fb0a42af741f03c54a70022f5b37aa7c325cf8771cf53ad13ff171174915"
 metafile = true
 
 [[files]]
@@ -186,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
+hash = "64552c2dc46da34272e9b48e3fd294577f16da2570917caa9fc06ab7f848fb6c"
 metafile = true
 
 [[files]]
@@ -251,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "9adbc1fa2ae409396b3fa6701f06456d07acd843766a8e70f03f670af71f7ffb"
+hash = "7ec588c4d9ee3d775d9a8c3efc4bf38bb48ec97043653d13be24d1df5e9d72bb"
 metafile = true
 
 [[files]]
@@ -311,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/grapple.pw.toml"
-hash = "b04e593a774931de661fb7b211084fd8617a2dbc26a54c53e8e89401230c458c"
+hash = "e5e113c06ed79b92a8a283eb9747251e429660d342c172586c0862dad6bce7eb"
 metafile = true
 
 [[files]]
@@ -325,13 +329,18 @@ hash = "b0b5796ed441e8d0ec6fd94789c218da8ddc3c5f183bedd12bf34987b9212ec7"
 metafile = true
 
 [[files]]
-file = "mods/haema-showcase.pw.toml"
-hash = "88957d72822492a3aca16a7fe054fd53f697e89f41652d248b0b083929b4c51d"
+file = "mods/haema-extras-blanketcon.pw.toml"
+hash = "29481e108ffbdf389458363362fecf4a5b8ebc3158dba6fc0d71844b49cbc970"
+metafile = true
+
+[[files]]
+file = "mods/haema-extras-tech.pw.toml"
+hash = "e53fd340ba70407dab5adcb3097a715eaa49ff37f48144e9518ee5efedad6005"
 metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "5cea0de4f3bc0e613c9f6dc6a9d18714c45a477d92f3d0bf55b65f6abea8ba11"
+hash = "d8204c834e4b09af66a780a087ad838e6be8719d5ed9fa9fdd48295003f7c98f"
 metafile = true
 
 [[files]]
@@ -376,12 +385,17 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.pw.toml"
-hash = "2f0d275181c513b59f5a7ea67d041b5f46311a46f8eb72599c61dccbb595e035"
+hash = "3fd01078b8b41abd622a3bb041b7446ed093efd477ed1bf15325b43ca8db8930"
 metafile = true
 
 [[files]]
 file = "mods/kiln.pw.toml"
 hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
+metafile = true
+
+[[files]]
+file = "mods/lambdamap.pw.toml"
+hash = "1bd52eff020f803e653bb62b676f07d40fb8a2602a0325afd82d34b1ef9dd606"
 metafile = true
 
 [[files]]
@@ -551,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
+hash = "65ccae834ef9b5d1fbe1b3b3424eea8507ab2ca542a66f5ad8c7d0de73862a3f"
 metafile = true
 
 [[files]]
@@ -591,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/resounding.pw.toml"
-hash = "13b16f7fb9575ff396888d2419bcd3c32a1f0460cedb2565b893e721f0f811fd"
+hash = "7167f5a0da13781e93b3ad4574bba46582555a67aa7265703c49e412f628a2b8"
 metafile = true
 
 [[files]]

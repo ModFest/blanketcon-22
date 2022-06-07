@@ -1,13 +1,8 @@
 name = "Haema"
-filename = "haema-1.9.9+1.18.2.jar"
+filename = "haema-1.9.10+1.18.2-BLANKETCON.jar"
 side = "both"
 
 [download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/983831230434914354/haema-1.9.101.18.2-BLANKETCON.jar"
 hash-format = "sha1"
-hash = "b30fa4ad6f39df145e80a0e40ff20033e4e7043a"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3798533
-project-id = 391257
+hash = "9f69ce3075e169f4f42ffa75a02c846654a833e7"

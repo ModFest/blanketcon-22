@@ -1,8 +1,0 @@
-name = "Haema Extras"
-filename = "haema_extras_blanketcon-1.0.0+1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/williambl/haema-extras-blanketcon/releases/download/v1.0.0%2B1.18.2/haema_extras_blanketcon-1.0.0+1.18.2.jar"
-hash-format = "sha1"
-hash = "2d9cfab350b9e61c79c744f2202cdcf4f45f6125"
