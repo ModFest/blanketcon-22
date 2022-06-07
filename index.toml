@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/flying-fluxery.pw.toml"
-hash = "e637177b3c750bdf8c29cce74379fbf51af7e157a4d6a22d3e9207b715e6c114"
+hash = "62d48df572eb90cbbe81035b811af75c0eb028860929bd3e90ed6e494a0769f2"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "d8204c834e4b09af66a780a087ad838e6be8719d5ed9fa9fdd48295003f7c98f"
+hash = "bb26bc17f6c2b321ddd3691efc3c30af69741b6459a249ef33ec453286923961"
 metafile = true
 
 [[files]]
