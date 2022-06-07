@@ -29,6 +29,10 @@ file = "datapacks/nucleoid-datapack.zip"
 hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
 
 [[files]]
+file = "lambdamap/Minecraft_Server_node2.capitolsolutions.cloud_9056/7754635014528119107/minecraft/overworld/markers.toml"
+hash = "2c8bf441d91ea071e897ea68af451e44cd95f6aca081ddf06f5015867f3399ad"
+
+[[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "87ed00a4097e8346812e9dc1a60f10cb28bcf1f14a6e013cf1a07b1f6ac24653"
 metafile = true
@@ -120,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "73d0fb0a42af741f03c54a70022f5b37aa7c325cf8771cf53ad13ff171174915"
+hash = "a4cad2df36776ad1c8f4ed9c3196e93ab7c315075067e8baa68e907b94eb1e2b"
 metafile = true
 
 [[files]]
