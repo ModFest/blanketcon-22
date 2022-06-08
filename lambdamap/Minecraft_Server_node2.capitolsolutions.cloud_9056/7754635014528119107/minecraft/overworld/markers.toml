@@ -881,3 +881,21 @@
 	y = 0
 	source = "user"
 
+[[markers]]
+	type = "banner_lime"
+	z = 71
+	x = -316
+	name = "{\"text\":\"Bing Bing Wahoo\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 27
+	x = -295
+	name = "{\"text\":\"Tree Hollows\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+

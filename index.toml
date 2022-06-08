@@ -30,7 +30,7 @@ hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
 
 [[files]]
 file = "lambdamap/Minecraft_Server_node2.capitolsolutions.cloud_9056/7754635014528119107/minecraft/overworld/markers.toml"
-hash = "2c8bf441d91ea071e897ea68af451e44cd95f6aca081ddf06f5015867f3399ad"
+hash = "461c4dabb180ed5479f632e8bcbfc484a1061d9e72a2ef50d0f340c9296024e5"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/hip-hoppers.pw.toml"
-hash = "26f7312e6274027a2a9187cc440f3e34cbaacf3cf67eabe77f74639b986c0b21"
+hash = "df2ea66064e49a45c76f9e22966f98f03af04f46f99f92a3a0a6bd9576e8f4d7"
 metafile = true
 
 [[files]]
