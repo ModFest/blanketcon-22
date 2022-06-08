@@ -1,8 +1,8 @@
 name = "CC: Restitched"
-filename = "cc-restitched-1.100.6-c7f8e56d3.jar"
+filename = "cc-restitched-1.100.6-62a08df40.jar"
 side = "both"
 
 [download]
-url = "https://squiddev.cc/r/jars/cc-restitched-1.100.6-c7f8e56d3.jar"
+url = "https://squiddev.cc/r/jars/cc-restitched-1.100.6-62a08df40.jar"
 hash-format = "sha1"
-hash = "e0024d6677c29a3f93ae529c44a165f5de581e1e"
+hash = "683caa91ac362d87f6de7cf785df074558481016"

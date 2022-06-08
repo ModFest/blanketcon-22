@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "05b057422c716bab0092cecdab141e33bb089fd58c9a7a923037de767b084cfc"
+hash = "aeaec5248422ad3e783c14cdabfdc5c9d0e21a0d83f15c206c4cebcf9d8b2997"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "14099bd008674ec61123edc6dadd808a8e39b9a3886fb3f6d9f4dad0e5cc0c42"
+hash = "5f177d12c364555aaebf71e21a63440b0ec181011c52d3634e3e3da5da471382"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b518c8aa75fc323110cb8bf66ee63fd43ec9d796b5d9a382a00426e0370b3b87"
+hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
 metafile = true
 
 [[files]]
