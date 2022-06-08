@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "61d17d380a97fa7b69a5151712a32d8055bf467f450e2aa64d3a7e19fe3e4f90"
+hash = "601392d62088bab07d7b3b2c2753a199038e77acc12658f3cdfce3aab0fe73f9"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplevillagers.pw.toml"
-hash = "b9be938cf973b2752c94938c9d9e474c311ce88a580ab5edc3331b58d7e36ea7"
+hash = "c8fce916db6bfc83c989ed36f1cf6c6e231a94c911a1da89b77b67667682e7f2"
 metafile = true
 
 [[files]]

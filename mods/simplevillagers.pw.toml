@@ -3,11 +3,11 @@ filename = "simplevillagers-1.2.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/uRSeGBg3/versions/1.18.2+1.2.1/simplevillagers-1.2.1.jar"
 hash-format = "sha1"
 hash = "8171deb2817eaccd6d77666e120826ecfb102ac1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3771553
-project-id = 582149
+[update.modrinth]
+mod-id = "uRSeGBg3"
+version = "6HQcgvM6"
