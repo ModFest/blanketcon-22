@@ -1,8 +1,0 @@
-name = "Resounding"
-filename = "resounding-1.1.0-bc.0.jar"
-side = "client"
-
-[download]
-url = "https://github.com/mikenrafter/resounding/releases/download/v1.1.0-bc-0/resounding-1.1.0-bc.0.jar"
-hash-format = "sha1"
-hash = "b64a13d4cf93b486eff99e52ae35d8c4f1ce809c"

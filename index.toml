@@ -613,11 +613,6 @@ hash = "e4bf2c17c6d77a53245ad45c944510c77ea51cbd88035cdf397813dda677e547"
 metafile = true
 
 [[files]]
-file = "mods/resounding.pw.toml"
-hash = "7167f5a0da13781e93b3ad4574bba46582555a67aa7265703c49e412f628a2b8"
-metafile = true
-
-[[files]]
 file = "mods/runelic.pw.toml"
 hash = "4a1644d6fae0a2a4f51a4dd1249d4fdc12a718a78ae3fe86980515511c5473eb"
 metafile = true
