@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "8e6c9bad4dd4461904f4fbc74f735307124cdcb7472d1963867c402356269b9a"
+hash = "2f33cfae49b383a706bad72d4fe584bae04527ab66b1538bf618105d88fed08b"
 metafile = true
 
 [[files]]
@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9346d09f897be45df79ad6af92e38f34f650ca557e65bc199f629021bbcff915"
+hash = "a8bfd1a5338a8584bf0cd05a2a9431853ac3d34e55a5149dd08fcc54a88db8a3"
 metafile = true
 
 [[files]]

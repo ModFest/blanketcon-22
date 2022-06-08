@@ -1,8 +1,13 @@
 name = "Purpeille"
-filename = "purpeille-2.3.0-RC-1.jar"
+filename = "purpeille-2.3.1+quilt-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/981658337810718860/purpeille-2.3.0-RC-1.jar"
+url = "https://cdn.modrinth.com/data/yoEkK5RL/versions/2.3.1+quilt-1.18.2/purpeille-2.3.1%2Bquilt-1.18.2.jar"
 hash-format = "sha1"
-hash = "7d5fd816cba1303eaa6ef7cf680a8fe229893bb5"
+hash = "6de95e5d5268fd0703a7883fb27c5048adfa71a5"
+
+[update]
+[update.modrinth]
+mod-id = "yoEkK5RL"
+version = "V78Sb7zf"
