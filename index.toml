@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "64552c2dc46da34272e9b48e3fd294577f16da2570917caa9fc06ab7f848fb6c"
+hash = "8da95df5f068e71aa31a0cb183e29036457adf2ad01ba265e07a7e431e01211e"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/grapple.pw.toml"
-hash = "e5e113c06ed79b92a8a283eb9747251e429660d342c172586c0862dad6bce7eb"
+hash = "6307ae09e6516495c9bb08759522fda56a57b89df8d05a1014c9f536fcef905c"
 metafile = true
 
 [[files]]
