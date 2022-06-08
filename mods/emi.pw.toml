@@ -1,6 +1,6 @@
 name = "EMI"
 filename = "emi-0.1.0+1.18.2blanketcon.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.discordapp.com/attachments/968781492899704862/984124621190221944/emi-0.1.01.18.2blanketcon.jar"
