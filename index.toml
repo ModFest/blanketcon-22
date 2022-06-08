@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "36edd38a003766db0d785bd43747b691aecff8c6849dfcb49fa513d92213d96b"
+hash = "70ff0f197511dc123365a87047ffb8986ec81c44c0e43bf87f96199feda65aa1"
 metafile = true
 
 [[files]]
