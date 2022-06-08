@@ -693,15 +693,6 @@
 	source = "user"
 
 [[markers]]
-	type = "mansion"
-	z = 205
-	x = -208
-	name = "{\"text\":\"Nucleoid (Building)\"}"
-	rotation = 180.0
-	y = 0
-	source = "user"
-
-[[markers]]
 	type = "banner_white"
 	z = 167
 	x = -192
@@ -895,6 +886,24 @@
 	z = 27
 	x = -295
 	name = "{\"text\":\"Tree Hollows\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -275
+	x = 0
+	name = "{\"text\":\"Inspecio\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 88
+	x = 234
+	name = "{\"text\":\"Resounding\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"

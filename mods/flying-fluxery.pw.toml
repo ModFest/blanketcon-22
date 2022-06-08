@@ -1,8 +1,8 @@
 name = "Flying Fluxery"
-filename = "flyingfluxery-3.0.7.jar"
+filename = "flyingfluxery-3.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/983838667988693102/flyingfluxery-3.0.7.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/983967528403492964/flyingfluxery-3.0.8.jar"
 hash-format = "sha1"
-hash = "e6da491b9eebc1d7633b40f03b60a71adb1ab468"
+hash = "a3603511efd2459bcf9f5498a9b2d424fc974301"

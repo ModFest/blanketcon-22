@@ -30,7 +30,7 @@ hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
 
 [[files]]
 file = "lambdamap/Minecraft_Server_node2.capitolsolutions.cloud_9056/7754635014528119107/minecraft/overworld/markers.toml"
-hash = "7576566262237982148e825c64824a475fce32d3d2bbd7a673f4ebaf11130d03"
+hash = "b2e3057f04d56a922b99758981dec4083aa6a8a21cbf9451b66e9f48f2f02434"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
@@ -253,6 +253,11 @@ hash = "234eb75a27b5997346c51040d57eda99ceb918552b443f456f4239433b6e34a5"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "14099bd008674ec61123edc6dadd808a8e39b9a3886fb3f6d9f4dad0e5cc0c42"
+metafile = true
+
+[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "8fc2cc534895488b8b282d19037d5dc378fca4cb96327c8257f3c04d5728dd59"
 metafile = true
@@ -294,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/flying-fluxery.pw.toml"
-hash = "62d48df572eb90cbbe81035b811af75c0eb028860929bd3e90ed6e494a0769f2"
+hash = "a75aeaa8bb50aee390a3cd37c9cfad60b96259ca313015d9d0b3b5f00539d707"
 metafile = true
 
 [[files]]
@@ -324,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-changer.pw.toml"
-hash = "a305de34232cb4fe2e94f114c71cd65fb702f3cd60f4a58c4718b9b4c1e28c9d"
+hash = "bc370f23470a54509044ed1534ade3b3c31e9cab5341692fc1ae0b4f4047ef7c"
 metafile = true
 
 [[files]]
@@ -534,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymc-showcase.pw.toml"
-hash = "62aedea7269b1611ac431f1d4eb4b7d5ca6d3d6f3944760f278b7c0675fa8c9c"
+hash = "62a4ad2c54ae07e7d9fea795169f3fbeea9e42b269cba56ada67415d39a2f934"
 metafile = true
 
 [[files]]
@@ -713,6 +718,11 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
+file = "mods/ultimate-hud.pw.toml"
+hash = "98a9acc4b01c048dc3e9fe500a8cbe966d000117c111b371781a1b059a4eeff1"
+metafile = true
+
+[[files]]
 file = "mods/visible-barriers.pw.toml"
 hash = "a79d8be286c268442026e1691d334c6d3233426ac73efe4f620d176887002a66"
 metafile = true
@@ -767,4 +777,4 @@ hash = "0e1fefddfb788b8ee981334e88e990e2753615a73188f6a2064ccff290d96025"
 
 [[files]]
 file = "resourcepacks/polymc.zip"
-hash = "d4df0f9d2583f1eaefc4e435aa8a1b9db0a9af6c7882a7180ef249c516aebb92"
+hash = "6c8d6dd720e9b2fb16fefe28ee5260c9764a4d3ee152700db19e3182f40ee1c0"
