@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.pw.toml"
-hash = "9eea62016b10481cd6665d2c83f4a06cdd3e4e9f44a34c59db5cd9d6361db11b"
+hash = "701e0aca0575b6cd8f7e084517f01f456c7be0484ffc657affcc3aa6610559d7"
 metafile = true
 
 [[files]]
