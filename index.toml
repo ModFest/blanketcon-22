@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.pw.toml"
-hash = "3fd01078b8b41abd622a3bb041b7446ed093efd477ed1bf15325b43ca8db8930"
+hash = "d46d06c0ec1bfff4a97c52a878f893056e8e3b68fc1db2db91156312fdda0d68"
 metafile = true
 
 [[files]]
