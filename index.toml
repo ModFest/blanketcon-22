@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.pw.toml"
-hash = "14d472de5e02126714ef666c2872acfd2da9740d05f2868c8528a7733785c6c4"
+hash = "55d488d0a32fe03a8b9f7abcb33a432025bc3abb9df186f1f430e553887e364e"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.pw.toml"
-hash = "b0b5796ed441e8d0ec6fd94789c218da8ddc3c5f183bedd12bf34987b9212ec7"
+hash = "ca45cbe557e65f419fd33f6e307fc83a290a0ca0eeb999d61bee8b638e627c7c"
 metafile = true
 
 [[files]]
