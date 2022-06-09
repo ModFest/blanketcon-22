@@ -1,0 +1,8 @@
+name = "EMI"
+filename = "emi-converter.jar"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984493714330222623/emi-converter.jar"
+hash-format = "sha1"
+hash = "431b3b4119e452a51e3b736e4617a8c4119e5e30"

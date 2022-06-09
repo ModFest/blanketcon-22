@@ -1,0 +1,910 @@
+
+[[markers]]
+	type = "banner_purple"
+	z = 9
+	x = 262
+	name = "{\"text\":\"Simple Villagers\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 33
+	x = 215
+	name = "{\"text\":\"Pettable Bees\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 118
+	x = 188
+	name = "{\"text\":\"Jamtastic\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 278
+	x = 208
+	name = "{\"text\":\"Galaxies: PSWM\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 238
+	x = 130
+	name = "{\"text\":\"TerrariaMod\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 243
+	x = 109
+	name = "{\"text\":\"Mbembe\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 271
+	x = 76
+	name = "{\"text\":\"Polaroid Camera\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 295
+	x = 92
+	name = "{\"text\":\"Oxidized\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 209
+	x = 86
+	name = "{\"text\":\"Milk+\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 229
+	x = 53
+	name = "{\"text\":\"Automobility (Booth)\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = 325
+	x = 0
+	name = "{\"text\":\"ComputerCraft\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = 281
+	x = -32
+	name = "{\"text\":\"Phonos\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = 303
+	x = -61
+	name = "{\"text\":\"Reaping\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = 280
+	x = -72
+	name = "{\"text\":\"Space Factory\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 171
+	x = 29
+	name = "{\"text\":\"Grapple\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 128
+	x = 45
+	name = "{\"text\":\"Purpeille\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 192
+	x = 129
+	name = "{\"text\":\"Flying Fluxery\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = 63
+	x = 43
+	name = "{\"text\":\"Botania\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = 27
+	x = 104
+	name = "{\"text\":\"Packages\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = -6
+	x = 33
+	name = "{\"text\":\"Chocolate Bar\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = 5
+	x = 46
+	name = "{\"text\":\"Chromatic Currents\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = -2
+	x = 5
+	name = "{\"text\":\"Culinaire\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -38
+	x = 52
+	name = "{\"text\":\"Endermatic Overhaul\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = -53
+	x = 26
+	name = "{\"text\":\"Spawn Booth\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -43
+	x = 4
+	name = "{\"text\":\"Player Pronouns\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -37
+	x = -17
+	name = "{\"text\":\"Ears, Kiln\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -57
+	x = -30
+	name = "{\"text\":\"Portal Cubed\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -104
+	x = 29
+	name = "{\"text\":\"Dark Paintings\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -115
+	x = 48
+	name = "{\"text\":\"Dark Utilities\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -127
+	x = -18
+	name = "{\"text\":\"Fabulously Optimised\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -98
+	x = 86
+	name = "{\"text\":\"TerraCraft\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -174
+	x = 73
+	name = "{\"text\":\"Additional Banners\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -131
+	x = 165
+	name = "{\"text\":\"Archon\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -206
+	x = 149
+	name = "{\"text\":\"Arcanus 2\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -166
+	x = 224
+	name = "{\"text\":\"Overweight Farming\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -335
+	x = 209
+	name = "{\"text\":\"Promenade\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -229
+	x = 80
+	name = "{\"text\":\"Lovely Snails\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -258
+	x = 46
+	name = "{\"text\":\"Aurora's Decorations\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -233
+	x = 11
+	name = "{\"text\":\"Hexcasting\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -241
+	x = -20
+	name = "{\"text\":\"Bits & Chisels\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -245
+	x = -43
+	name = "{\"text\":\"Pehkui\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -241
+	x = -71
+	name = "{\"text\":\"Ecotones\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = -226
+	x = -95
+	name = "{\"text\":\"Cave Booths\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -234
+	x = -105
+	name = "{\"text\":\"Arch. Extensions\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -261
+	x = -117
+	name = "{\"text\":\"Enchancement\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -214
+	x = -119
+	name = "{\"text\":\"Wired Redstone\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = -192
+	x = -50
+	name = "{\"text\":\"Main Stage\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = -192
+	x = -6
+	name = "{\"text\":\"Starfall Ruins\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -105
+	x = -99
+	name = "{\"text\":\"EMI\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -41
+	x = -84
+	name = "{\"text\":\"Campanion\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = 2
+	x = -98
+	name = "{\"text\":\"Matchbox\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -8
+	x = -120
+	name = "{\"text\":\"Haema\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 28
+	x = -128
+	name = "{\"text\":\"Picture Sign\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 65
+	x = -136
+	name = "{\"text\":\"This Rocks\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 47
+	x = -145
+	name = "{\"text\":\"Decorative\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 90
+	x = -153
+	name = "{\"text\":\"Recordable\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 102
+	x = -194
+	name = "{\"text\":\"Dyeable Fishing Lines\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 73
+	x = -203
+	name = "{\"text\":\"Sandwichable\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 8
+	x = -159
+	name = "{\"text\":\"Aura\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -2
+	x = -176
+	name = "{\"text\":\"Soul Ice\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 20
+	x = -239
+	name = "{\"text\":\"Consistency+\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -19
+	x = -235
+	name = "{\"text\":\"Half Doors\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -41
+	x = -210
+	name = "{\"text\":\"Peculiar Pieces\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -57
+	x = -209
+	name = "{\"text\":\"Visible Barriers\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -64
+	x = -224
+	name = "{\"text\":\"Double Jump Attr.\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -108
+	x = -207
+	name = "{\"text\":\"Now Playing\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -38
+	x = -253
+	name = "{\"text\":\"Icy Incitement\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -69
+	x = -293
+	name = "{\"text\":\"Riptide Rush\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 94
+	x = -276
+	name = "{\"text\":\"Create (Booth)\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = 43
+	x = -323
+	name = "{\"text\":\"Create (Clock)\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = 137
+	x = -328
+	name = "{\"text\":\"Automobility (Track)\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 89
+	x = -523
+	name = "{\"text\":\"Allium\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 32
+	x = -535
+	name = "{\"text\":\"Bagel's Baking\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -155
+	x = -583
+	name = "{\"text\":\"Flowery Structures\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = -184
+	x = -489
+	name = "{\"text\":\"BC Build-Off\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 247
+	x = -216
+	name = "{\"text\":\"TaterCart\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 224
+	x = -189
+	name = "{\"text\":\"GOML ReServed\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 167
+	x = -192
+	name = "{\"text\":\"Taterzens\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 230
+	x = -153
+	name = "{\"text\":\"Armor Stand Editor\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 214
+	x = -115
+	name = "{\"text\":\"PolyMC\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 163
+	x = -151
+	name = "{\"text\":\"Nucleoid Games\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 199
+	x = -87
+	name = "{\"text\":\"Dock\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 215
+	x = -12
+	name = "{\"text\":\"Dock\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 140
+	x = 13
+	name = "{\"text\":\"Dock\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 42
+	x = 12
+	name = "{\"text\":\"Dock\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 45
+	x = -51
+	name = "{\"text\":\"Extended Drawers\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 53
+	x = -120
+	name = "{\"text\":\"Dock\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 62
+	x = -52
+	name = "{\"text\":\"Dock\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 1
+	x = -136
+	name = "{\"text\":\"Refined Magic\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 75
+	x = -156
+	name = "{\"text\":\"Visual Overhaul\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 194
+	x = -175
+	name = "{\"text\":\"Midway Park\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 251
+	x = -50
+	name = "{\"text\":\"Overlook Point\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 8
+	x = -218
+	name = "{\"text\":\"Extant Deepwoods\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 22
+	x = 69
+	name = "{\"text\":\"CL Industries\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 155
+	x = 118
+	name = "{\"text\":\"Springtide Fields\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = -56
+	x = -73
+	name = "{\"text\":\"Campgrounds\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 80
+	x = -124
+	name = "{\"text\":\"Lakeside Resort\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 71
+	x = -316
+	name = "{\"text\":\"Bing Bing Wahoo\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 27
+	x = -295
+	name = "{\"text\":\"Tree Hollows\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -275
+	x = 0
+	name = "{\"text\":\"Inspecio\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 88
+	x = 234
+	name = "{\"text\":\"Resounding\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+

@@ -13,8 +13,12 @@ file = "config/now-playing.json5"
 hash = "224661be09e2ef4e266e5454e9d30685454765bf6031f7f7bb033e88ef432ea3"
 
 [[files]]
+file = "config/pswg.json5"
+hash = "811ee1ada8d5971248546c42c12ad35e9dcc9df63a3e5435d019c0760497dbf6"
+
+[[files]]
 file = "config/quickconnectbutton.json5"
-hash = "749ac141b53b7b7d111d171c1576277e63751bd45688ab1cd4078266386e0911"
+hash = "b983c45b2546938d6e3ea6613ec6b42585d9b9d92ecab4f68454943aa1e635d9"
 
 [[files]]
 file = "datapacks/JamtasticBoneDatapack.zip"
@@ -33,6 +37,10 @@ file = "lambdamap/Minecraft_Server_blanket_con.chs.gg_9000/7754635014528119107/m
 hash = "c2745f776465e6384cac1b610d7c808f74d7c14dd438d7acddd8e4f583c8ed02"
 
 [[files]]
+file = "lambdamap/Minecraft_Server_blanketcon.chs.gg_9000/7754635014528119107/minecraft/overworld/markers.toml"
+hash = "c2745f776465e6384cac1b610d7c808f74d7c14dd438d7acddd8e4f583c8ed02"
+
+[[files]]
 file = "lambdamap/Minecraft_Server_node2.capitolsolutions.cloud_9056/7754635014528119107/minecraft/overworld/markers.toml"
 hash = "c2745f776465e6384cac1b610d7c808f74d7c14dd438d7acddd8e4f583c8ed02"
 
@@ -48,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-2.pw.toml"
-hash = "0e0748e58e894befabb477a19ff9ee2984d6f8a89907b29fa75eb0d6ed7f241f"
+hash = "5370daab6b21c0e0dd977585b4a7e040a29e780a66941207569568d8eaa35f5a"
 metafile = true
 
 [[files]]
@@ -257,6 +265,11 @@ hash = "a3bc72a15da10f328e609932723a5c54e282a8e583a9e46fe77467ae0142c49a"
 metafile = true
 
 [[files]]
+file = "mods/emi-converter.pw.toml"
+hash = "522015cbf3f240586ea4e1ed6f7668415e0717deee361c520712f492cb039823"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "5bfcc6366078860963a87bcd7b687878a3b5361af1a4b134522694eb535e3464"
 metafile = true
@@ -353,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "bb26bc17f6c2b321ddd3691efc3c30af69741b6459a249ef33ec453286923961"
+hash = "8a0c81e55ce27c795a06608c1e00c4c4041f7889a31db866187836e4d3732527"
 metafile = true
 
 [[files]]
@@ -363,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "62da8e1513ff072c6544d490bf80168aacd8f178c25b5c22d925264b484a2819"
+hash = "d789ac84ad7dca4f5ecd667578f297799bf68b9b614adfda18fd1267fd2fdddf"
 metafile = true
 
 [[files]]
@@ -398,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.pw.toml"
-hash = "d46d06c0ec1bfff4a97c52a878f893056e8e3b68fc1db2db91156312fdda0d68"
+hash = "1250ac61d6791b5e7396d017fba6d9ca74a3c53dd399f73660e9fe9f4328aa40"
 metafile = true
 
 [[files]]
@@ -628,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoramas-terraria-mod.pw.toml"
-hash = "8b8807d3d7298102c9b07009784932c83dc3152e0fa56b11cf5edee7ab924c63"
+hash = "66bcd95d3b5d4936cc856b1780663fc57e26b97c71c2bf356044f60f1bf27d63"
 metafile = true
 
 [[files]]
@@ -723,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-hud.pw.toml"
-hash = "98a9acc4b01c048dc3e9fe500a8cbe966d000117c111b371781a1b059a4eeff1"
+hash = "aaa6b513abe5cffd96909710ff5ed12167c92b4ed2ac1250acc8072303d11ebb"
 metafile = true
 
 [[files]]
