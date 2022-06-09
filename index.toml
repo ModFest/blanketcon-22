@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "394099c9b3c20458422c33fe7d2ce11442bb2371574086abf4f4bfa865485c10"
+hash = "70307a1a623a1bb71d89e92de3b25f111198395bcb599732bdc9c25d6954911a"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/blanketcon-cardstock.pw.toml"
-hash = "19c2e3c7e249b8b526d7bdaf37eb5dd2b7ed37f006574598a3d2d204235638c0"
+hash = "7b59a9967e8317d986f0c7518849b49310abff624232e1f2a55d8b0bfc18147f"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f40ab63e57881359858a174760dc914e98e47ebe3fd1e84553df672df2c6a08a"
+hash = "5bfcc6366078860963a87bcd7b687878a3b5361af1a4b134522694eb535e3464"
 metafile = true
 
 [[files]]
