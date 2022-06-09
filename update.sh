@@ -23,6 +23,8 @@ mode = \"metadata:curseforge\"
 file-id = 3683667
 project-id = 393149" > mods/runelic.pw.toml
 
+packwiz mr export
+
 git commit -a
 if [ "$1" == "push" ] || [ "$2" == "push" ]; then
   git push

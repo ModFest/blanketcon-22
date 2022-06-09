@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
+hash = "96373de9db37678049c954eb36c1ba43abd769bcd3a45a8b1626d5c9db5ab3de"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3c3d7e7f9e0ae6a978564276c618a802d0c54c4ca098a7a897252a662ff4723a"
+hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
 metafile = true
 
 [[files]]
