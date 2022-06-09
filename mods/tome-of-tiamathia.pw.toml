@@ -1,8 +1,0 @@
-name = "Tome of Tiamatha"
-filename = "tot-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/974380898688573521/tot-1.0.0.jar"
-hash-format = "sha1"
-hash = "68a70573c6c6c2167228e0b05c905da3eaeed61e"

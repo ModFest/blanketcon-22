@@ -1,8 +1,13 @@
 name = "EMI"
-filename = "emi-0.1.11.18.2blanketcon.jar"
+filename = "emi-0.1.1+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984279177006051358/emi-0.1.11.18.2blanketcon.jar"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/0.1.1+1.18.2/emi-0.1.1%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "2a78e92a5cdd7e443572e4ff1a8fa847b3c60740"
+hash = "d157c9773285f22ab2604c864df6460bd05d8cb7"
+
+[update]
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "Q6tTbo1x"

@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5bfcc6366078860963a87bcd7b687878a3b5361af1a4b134522694eb535e3464"
+hash = "b9305c5dde03c285ba812662a4270bd11b06d9556e6e39a5b87ae88f6e2c917a"
 metafile = true
 
 [[files]]
@@ -707,11 +707,6 @@ metafile = true
 [[files]]
 file = "mods/this-rocks.pw.toml"
 hash = "ba4c85d3c6da8cd0ea27bae046c59a39009b1c703af0a9ace73cf9a4164b2dfe"
-metafile = true
-
-[[files]]
-file = "mods/tome-of-tiamathia.pw.toml"
-hash = "ac6f4b035541e9fcfdd5da72f72defaf92a86241a2970c999a6a8d8ffe64f064"
 metafile = true
 
 [[files]]
