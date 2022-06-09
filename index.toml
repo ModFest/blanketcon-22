@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.pw.toml"
-hash = "f23eec25ccc6c7fbea71fe78e9055fc98cd4b2498ab02448cbbbb7c48f726c48"
+hash = "a5d965de04f85f89f4e4a95797b1962472995b1760932ce13d93881ad61d79da"
 metafile = true
 
 [[files]]
