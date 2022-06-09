@@ -413,6 +413,11 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/libmultipart.pw.toml"
+hash = "00d6e0093c7fd4e32f61f1cfc1cd6b06c3eb3c75785c2e1c32ed9a0e76f4461d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
@@ -534,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.pw.toml"
-hash = "f36bbca4f57a0badd26f87458360b0a96d80d399b5747700b1b167a67fcd17e3"
+hash = "94ddc7c677a9e69c7bc5fbdaf94b670486301bf8c0c1e38976fdc4a5b0e12abe"
 metafile = true
 
 [[files]]
