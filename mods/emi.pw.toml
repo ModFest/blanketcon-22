@@ -3,6 +3,6 @@ filename = "emi-0.1.0+1.18.2blanketcon.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984124621190221944/emi-0.1.01.18.2blanketcon.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984279177006051358/emi-0.1.11.18.2blanketcon.jar"
 hash-format = "sha1"
-hash = "cdcdb9fb33b9e434cb251a6cd2d688fd6fc60800"
+hash = "2a78e92a5cdd7e443572e4ff1a8fa847b3c60740"
