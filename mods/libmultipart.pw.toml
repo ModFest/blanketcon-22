@@ -1,8 +1,8 @@
 name = "LibMultipart"
-filename = "libmultipart-all-0.7.4-blanketcon.1.jar"
-side = "server"
+filename = "libmultipart-all-0.7.4-blanketcon.3.jar"
+side = "both"
 
 [download]
-url = "https://alexiil.uk/maven/alexiil/mc/lib/libmultipart-all/0.7.4-blanketcon.1/libmultipart-all-0.7.4-blanketcon.1.jar"
+url = "https://alexiil.uk/maven/alexiil/mc/lib/libmultipart-all/0.7.4-blanketcon.3/libmultipart-all-0.7.4-blanketcon.3.jar"
 hash-format = "sha1"
-hash = "398e8f5f8e55e76ce2d383d3e22987fefb64542e"
+hash = "efd054f7cb48d7a8a0932b8594a8584d0ca587a5"
