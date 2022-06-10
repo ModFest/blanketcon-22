@@ -1,8 +1,8 @@
 name = "Aurora's Decorations"
-filename = "aurorasdecorations-1.0.01.18.jar"
+filename = "aurorasdecorations-1.0.0+1.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984808886085226536/aurorasdecorations-1.0.01.18.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984873636164927520/aurorasdecorations-1.0.01.18.jar"
 hash-format = "sha1"
-hash = "912c0934ec95b50cd174a32a36b584cf04de8ace"
+hash = "cad792a4e8f715e7630f0f9ced41687b1f0c78f1"

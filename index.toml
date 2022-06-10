@@ -9,6 +9,10 @@ file = "config/armor-stand-editor/config.json"
 hash = "6c2f9dcddcc2c63920367707cff0a853d89978e741d724250afca0e0c8f70e63"
 
 [[files]]
+file = "config/emi.css"
+hash = "ee2e02fcc5640e70db17e5afda1d4d553b3ad5bf999e6899c622eb570429eba2"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "b1e1297f970bc744084a2ccc9043880ed3fbea619758c9a0f2093e73bcf35521"
 
@@ -102,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "2d3970d46d8c5f7c8d2c4abb58e0634b45dc0b22d7dc61c965a35d56677dace6"
+hash = "0129f153c1c15f0ded02e8c1bb60e79bcc957c3cb99865c4c4b55f38c9e15f6d"
 metafile = true
 
 [[files]]
@@ -157,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/blanketcon-patches.pw.toml"
-hash = "38591cb31b3ee497ba3908cdcf38bee9f38971db1ec68119bbfbe2c81aae4c67"
+hash = "b9eb948d2dfde462f94880cacd7bebda901ae732dfd85928131b755689ba97b5"
 metafile = true
 
 [[files]]
@@ -840,4 +844,4 @@ hash = "0e1fefddfb788b8ee981334e88e990e2753615a73188f6a2064ccff290d96025"
 
 [[files]]
 file = "resourcepacks/polymc.zip"
-hash = "7366689b073a61c72f6629686382bb338e207c9cf1a6ca5bd4da591187283116"
+hash = "5b7a9ba293f9e1425a38f321e1842ccb046280a6709ab8e383dbdbd65e3a7eff"
