@@ -13,6 +13,10 @@ file = "config/now-playing.json5"
 hash = "224661be09e2ef4e266e5454e9d30685454765bf6031f7f7bb033e88ef432ea3"
 
 [[files]]
+file = "config/patchouli.json5"
+hash = "4365cf3db7c7644f39b68d7a0564dfdcdf91c63fa991128a85d6dcb39e826d7d"
+
+[[files]]
 file = "config/pswg.json5"
 hash = "811ee1ada8d5971248546c42c12ad35e9dcc9df63a3e5435d019c0760497dbf6"
 
