@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "allium/warp.zip"
-hash = "a6d2e557ee581113876e6f6bf6c93b52c52bec948786b8ecf752a3bdd8b16115"
+hash = "47e05266eec204ce71eb4de535925fc6a3c326081f3d930164e8f4fc5700258b"
 
 [[files]]
 file = "config/enchancement.json"
