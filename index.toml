@@ -5,6 +5,10 @@ file = "allium/warp.zip"
 hash = "47e05266eec204ce71eb4de535925fc6a3c326081f3d930164e8f4fc5700258b"
 
 [[files]]
+file = "config/armor-stand-editor/config.json"
+hash = "6c2f9dcddcc2c63920367707cff0a853d89978e741d724250afca0e0c8f70e63"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "b1e1297f970bc744084a2ccc9043880ed3fbea619758c9a0f2093e73bcf35521"
 
@@ -114,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/bagels-baking.pw.toml"
 hash = "afda1bbe4155751b36e3c6f6051affa508ae30e9e8f6a8a96b6aa97441e16bf1"
+metafile = true
+
+[[files]]
+file = "mods/bed-wars.pw.toml"
+hash = "0e506521aa9fe352bf1807ae9193a3da4cdfdf6f11cfae47b850351d3f1ed4cc"
 metafile = true
 
 [[files]]
@@ -283,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecotones.pw.toml"
-hash = "a3bc72a15da10f328e609932723a5c54e282a8e583a9e46fe77467ae0142c49a"
+hash = "2f5d89285f7581f401d7549ae9b1025e540a70a2e18ad2c6c3db06c814530908"
 metafile = true
 
 [[files]]
@@ -318,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9611f32bc292985e124bc568db7f5c8c9c2660d02a92f4eaa80d6455d82d0713"
+hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
 metafile = true
 
 [[files]]
@@ -338,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/flying-fluxery.pw.toml"
-hash = "a75aeaa8bb50aee390a3cd37c9cfad60b96259ca313015d9d0b3b5f00539d707"
+hash = "c43c10f0527d1f41af059a113170bce3bfc14d04decee557ed3e4d7b370af1a2"
 metafile = true
 
 [[files]]
@@ -553,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "9aadfa3097e9e11f4f6d5b354007c614af292d1fcbf689736ba86ba2264ac9b0"
+hash = "089382ca7fece8c226c1755087bda14c384a9ca61df57f4fd4c43f347a40f1e4"
 metafile = true
 
 [[files]]
@@ -568,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid.pw.toml"
-hash = "67ab9f45e9800c5c109daec36a8c79bf17e8d18efd17a365f3a2693c1326230d"
+hash = "8b5ef1f46740f82f0cbcbdbe27220286a3fdae4d83516834aa9b76b00e5a236b"
 metafile = true
 
 [[files]]
@@ -608,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/pswg.pw.toml"
-hash = "a5d965de04f85f89f4e4a95797b1962472995b1760932ce13d93881ad61d79da"
+hash = "db11ffd2379e23b2701edc685c07c01e97f056e8ca0ad9c032cdaa809133eb12"
 metafile = true
 
 [[files]]
@@ -657,6 +666,11 @@ hash = "e4bf2c17c6d77a53245ad45c944510c77ea51cbd88035cdf397813dda677e547"
 metafile = true
 
 [[files]]
+file = "mods/rocketspleef.pw.toml"
+hash = "66b36e00f57be3a5ce747bf8eaa9472cca955d22654112936cd9ea81514242de"
+metafile = true
+
+[[files]]
 file = "mods/runelic.pw.toml"
 hash = "4a1644d6fae0a2a4f51a4dd1249d4fdc12a718a78ae3fe86980515511c5473eb"
 metafile = true
@@ -678,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a8bfd1a5338a8584bf0cd05a2a9431853ac3d34e55a5149dd08fcc54a88db8a3"
+hash = "9365060aa11c8e3e8ba92dcd50c14770ef06ee5fc31c2d3b393ba414b1e0b871"
 metafile = true
 
 [[files]]
@@ -707,6 +721,11 @@ hash = "c1e5489a78994e7141bf10913a4966c364cf37e0f92c28b7efb84a0d7d6e2a33"
 metafile = true
 
 [[files]]
+file = "mods/spleef.pw.toml"
+hash = "dff6ad13591fa3702b2c7341166ec158018b378399b978494ac07cabedfc4e08"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
 metafile = true
@@ -714,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
+metafile = true
+
+[[files]]
+file = "mods/substrate.pw.toml"
+hash = "9bac099e800f2c66dfa371b0411c5417f3fdda578293e2c028eb19d580d88146"
 metafile = true
 
 [[files]]
@@ -816,4 +840,4 @@ hash = "0e1fefddfb788b8ee981334e88e990e2753615a73188f6a2064ccff290d96025"
 
 [[files]]
 file = "resourcepacks/polymc.zip"
-hash = "6c8d6dd720e9b2fb16fefe28ee5260c9764a4d3ee152700db19e3182f40ee1c0"
+hash = "7366689b073a61c72f6629686382bb338e207c9cf1a6ca5bd4da591187283116"

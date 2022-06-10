@@ -1,0 +1,8 @@
+name = "RocketSpleef"
+filename = "rocketspleef-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984837080498733106/rocketspleef-0.1.0.jar"
+hash-format = "sha1"
+hash = "3ede1715fbe4a2006a349a322c3421753eee2fef"

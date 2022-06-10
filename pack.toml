@@ -1,6 +1,6 @@
 name = "BlanketCon 2022"
 author = "The community!"
-version = "2022.06.09"
+version = "2022.06.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "c449aad4b85f362910f54e96516c85800490a552a55d86967a1978d65247facb"
 
 [versions]
 minecraft = "1.18.2"
-quilt = "0.16.1"
+quilt = "0.17.0"

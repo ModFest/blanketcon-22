@@ -3,6 +3,6 @@ filename = "plasmid-0.5+1.18.2-SNAPSHOT.jar"
 side = "server"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/975483083585355846/plasmid-0.51.18.2-SNAPSHOT.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984837079949246575/plasmid-0.51.18.2-SNAPSHOT.jar"
 hash-format = "sha1"
-hash = "77f4c49a70c3811eac1d4bffae1aa804ee6aad71"
+hash = "daa58510ccacb980280ec326b9256891376d73e1"
