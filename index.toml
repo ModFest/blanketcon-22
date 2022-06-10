@@ -164,6 +164,11 @@ hash = "9cf9fa4680fd0543206969f61610d833915aed1f966740d86733387d28bc8179"
 metafile = true
 
 [[files]]
+file = "mods/buildoff.pw.toml"
+hash = "2362836637a0bd2e8b89b7ebd26115a1eb91e3fd524c614aba5a09f72e615ea7"
+metafile = true
+
+[[files]]
 file = "mods/campanion.pw.toml"
 hash = "355321d8612c31f93629f4c7c4b7cc426c5a1767e3fd17c355517a510e9f515d"
 metafile = true
