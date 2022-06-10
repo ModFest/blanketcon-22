@@ -3,6 +3,6 @@ filename = "skywars-1.0.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/964599675376259112/skywars-1.0.0.jar"
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984816076372193300/skywars-1.0.0.jar"
 hash-format = "sha1"
-hash = "f50d9f11429edfe3ce5a69135b733689c6d8c001"
+hash = "a6a701ceeb808b0cbe2dc3caa47b6f971e24a4ea"

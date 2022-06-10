@@ -243,13 +243,13 @@
 	source = "user"
 
 [[markers]]
-    type = "banner_black"
-    x = -58
-    y = 118
-    z = -258
-    rotation = 180.0
-    source = "user"
-    name = "{\"text\":\"LambdaMap\"}"
+	type = "banner_black"
+	z = -258
+	x = -58
+	name = "{\"text\":\"LambdaMap\"}"
+	rotation = 180.0
+	y = 118
+	source = "user"
 
 [[markers]]
 	type = "banner_black"
@@ -922,6 +922,15 @@
 	z = 88
 	x = 234
 	name = "{\"text\":\"Resounding\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = -183
+	x = 44
+	name = "{\"text\":\"Yeet!\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"
