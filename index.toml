@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/blanketcon-patches.pw.toml"
-hash = "5c8fa5db458838e85f0080765f472eb7ed1c8bf79e1df9a144a7b45901204167"
+hash = "38591cb31b3ee497ba3908cdcf38bee9f38971db1ec68119bbfbe2c81aae4c67"
 metafile = true
 
 [[files]]
