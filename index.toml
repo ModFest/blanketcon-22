@@ -37,16 +37,8 @@ file = "datapacks/nucleoid-datapack.zip"
 hash = "073994ae6366e342fcd4e8ed1f4f64530b24088c98320392850c3306252605f1"
 
 [[files]]
-file = "lambdamap/Minecraft_Server_blanket_con.chs.gg_9000/7754635014528119107/minecraft/overworld/markers.toml"
-hash = "c2745f776465e6384cac1b610d7c808f74d7c14dd438d7acddd8e4f583c8ed02"
-
-[[files]]
 file = "lambdamap/Minecraft_Server_blanketcon.chs.gg_9000/7754635014528119107/minecraft/overworld/markers.toml"
-hash = "c2745f776465e6384cac1b610d7c808f74d7c14dd438d7acddd8e4f583c8ed02"
-
-[[files]]
-file = "lambdamap/Minecraft_Server_node2.capitolsolutions.cloud_9056/7754635014528119107/minecraft/overworld/markers.toml"
-hash = "c2745f776465e6384cac1b610d7c808f74d7c14dd438d7acddd8e4f583c8ed02"
+hash = "a7db68dc22a85e8e744d7ec1e91112eae9c8eea747a648940cb02fe639186527"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
@@ -135,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/blanketcon-cardstock.pw.toml"
-hash = "7b59a9967e8317d986f0c7518849b49310abff624232e1f2a55d8b0bfc18147f"
+hash = "baffd8a572c761b48a7415a44023f0a1aefaa97df54b33ce12bb717a69250126"
 metafile = true
 
 [[files]]
@@ -425,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/jam-fabric.pw.toml"
-hash = "1250ac61d6791b5e7396d017fba6d9ca74a3c53dd399f73660e9fe9f4328aa40"
+hash = "453ddc2d63528b4031f81306fe00e791730408b38511657b329add664d1121e0"
 metafile = true
 
 [[files]]
@@ -701,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
 metafile = true
 
 [[files]]

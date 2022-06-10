@@ -243,6 +243,15 @@
 	source = "user"
 
 [[markers]]
+    type = "banner_black"
+    x = -58
+    y = 118
+    z = -258
+    rotation = 180.0
+    source = "user"
+    name = "{\"text\":\"LambdaMap\"}"
+
+[[markers]]
 	type = "banner_black"
 	z = -104
 	x = 29
@@ -697,6 +706,15 @@
 	z = 167
 	x = -192
 	name = "{\"text\":\"Taterzens\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 163
+	x = -233
+	name = "{\"text\":\"UltimateHUD\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"

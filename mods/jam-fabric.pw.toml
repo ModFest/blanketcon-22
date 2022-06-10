@@ -1,13 +1,8 @@
 name = "Jamtastic"
-filename = "jamtastic-1.4.6.jar"
+filename = "jamtastic-blanketcon-1.4.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984772308260519936/jamtastic-blanketcon-1.4.7.jar"
 hash-format = "sha1"
-hash = "5a00ab66a9b0ddf132381b9eed3485af1a283403"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3824806
-project-id = 559060
+hash = "47fd1fb791077bfb8e41c129201c69f15d2ac4ed"
