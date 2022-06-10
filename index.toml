@@ -135,8 +135,9 @@ hash = "7b59a9967e8317d986f0c7518849b49310abff624232e1f2a55d8b0bfc18147f"
 metafile = true
 
 [[files]]
-file = "mods/blanketcon-patches.toml"
+file = "mods/blanketcon-patches.pw.toml"
 hash = "b4a140d099c6856ac9389b87ca56398c2a4368d0983930588c742a1009801686"
+metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
