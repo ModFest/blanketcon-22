@@ -335,6 +335,11 @@ hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "e92473120a61b8761cfd098819d1aa789d88f3ea1713fde8c0d92169e6c835b4"
+metafile = true
+
+[[files]]
 file = "mods/flamingo.pw.toml"
 hash = "294aa1467cb86c3a410d3c94b32727d4fec30997a54865b5fc589f3eec2269da"
 metafile = true
