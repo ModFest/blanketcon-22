@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "4ae612ae9d562c99dc30690aed2819d754dcedd355c8fc17d10908bbeca52295"
+hash = "ef5fb710bb77dd6a95d41f714aabe7d324edd834af036ba1a77df0eecf7badc7"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/libmultipart.pw.toml"
-hash = "bb3df8196efa4b743a0aa896f655bdc05014ae88b6a9c980544bf08923ec44c0"
+hash = "824144b043664986b1eafa1d64e640ecbfa950b582587baa0a9e0f04c16113ed"
 metafile = true
 
 [[files]]
