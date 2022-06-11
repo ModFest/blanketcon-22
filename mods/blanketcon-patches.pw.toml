@@ -1,8 +1,8 @@
 name = "BlanketCon Patches"
-filename = "blanketconpatches-0.0.4.jar"
+filename = "blanketconpatches-0.0.7.jar"
 side = "both"
 
 [download]
-url = "https://github.com/parzivail/blanketcon-patches/releases/download/0.0.4/blanketconpatches-0.0.4.jar"
+url = "https://github.com/parzivail/blanketcon-patches/releases/download/0.0.7/blanketconpatches-0.0.7.jar"
 hash-format = "sha1"
-hash = "591a78f97118a88414bc0472b56fea1fef565d44"
+hash = "8dfbb2517287967eccbe303a6f5be8cc9ab8a062"
