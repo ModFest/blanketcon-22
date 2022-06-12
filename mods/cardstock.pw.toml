@@ -1,8 +1,8 @@
 name = "cardstock"
-filename = "cardstock-1.2.0.jar"
+filename = "cardstock-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/repulica/CardStock/releases/download/1.2.0/cardstock-1.2.0.jar"
+url = "https://github.com/repulica/CardStock/releases/download/1.2.2/cardstock-1.2.2.jar"
 hash-format = "sha1"
-hash = "61d4dc29f0e74724f75c0a044ade3a30215efd77"
+hash = "e7812ce4ffd94a6ebf9011bf36e535ee6c43ba5b"

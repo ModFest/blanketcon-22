@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardstock.pw.toml"
-hash = "f75958f1eb51426030e6c43d1cc7939c9b7a74cc43fd0d8114151a3a73dc2cd6"
+hash = "07e9482cf5153860e355b5533f3a7a54a3d24bdece61acf968bfb8f6c1af4778"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/destroythemonument.pw.toml"
-hash = "a178883169bd64f1e8189159216abbb7da921f9cfc25ae6c53b3a946d7af7777"
+hash = "db98c1dfc5005e1fe2fcd9e582b79fad48490e94ac76d862ebdd0c4f3840f75f"
 metafile = true
 
 [[files]]
