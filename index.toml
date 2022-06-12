@@ -365,6 +365,11 @@ hash = "f67af440cb1c249f2232e9bf10ed28ddd2f18ea86a9751aec0f26fdd67dc26a4"
 metafile = true
 
 [[files]]
+file = "mods/fusions-gravity-api.pw.toml"
+hash = "8d8f3d46fb67001e676684a43f58d48896d0eb5fd0827a4f38665b2463bc938d"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "8ac48bad6b268e7252bbf93ff56d9b65b528fcd2009b2589797ba1416dda1c13"
 metafile = true
@@ -382,11 +387,6 @@ metafile = true
 [[files]]
 file = "mods/grapple.pw.toml"
 hash = "6307ae09e6516495c9bb08759522fda56a57b89df8d05a1014c9f536fcef905c"
-metafile = true
-
-[[files]]
-file = "mods/gravity-changer.pw.toml"
-hash = "bc370f23470a54509044ed1534ade3b3c31e9cab5341692fc1ae0b4f4047ef7c"
 metafile = true
 
 [[files]]

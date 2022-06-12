@@ -1,8 +1,0 @@
-name = "Gravity Changer"
-filename = "GravityChanger-0.7.7-1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984164484799160431/GravityChanger-0.7.7-1.18.2.jar"
-hash-format = "sha1"
-hash = "dc79e753b29fa4d9e634ff62a098632d411b2aea"
