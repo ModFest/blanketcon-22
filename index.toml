@@ -360,11 +360,6 @@ hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
 metafile = true
 
 [[files]]
-file = "mods/flying-fluxery.pw.toml"
-hash = "c43c10f0527d1f41af059a113170bce3bfc14d04decee557ed3e4d7b370af1a2"
-metafile = true
-
-[[files]]
 file = "mods/fortress.pw.toml"
 hash = "f67af440cb1c249f2232e9bf10ed28ddd2f18ea86a9751aec0f26fdd67dc26a4"
 metafile = true
