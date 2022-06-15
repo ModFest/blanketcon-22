@@ -65,6 +65,11 @@ file = "lambdamap/Minecraft_Server_blanketcon.chs.gg_9000/7754635014528119107/mi
 hash = "4ce882ea05bb8000e0d4ccce277300e1e9d990fffa6ec8b68f615c876caab82d"
 
 [[files]]
+file = "mods/FluxTech.pw.toml"
+hash = "7bfad300599ec7788f8b7726fa3dc012fb60a12dca24129ca6f1492f25151c36"
+metafile = true
+
+[[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "87ed00a4097e8346812e9dc1a60f10cb28bcf1f14a6e013cf1a07b1f6ac24653"
 metafile = true
@@ -201,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardstock.pw.toml"
-hash = "07e9482cf5153860e355b5533f3a7a54a3d24bdece61acf968bfb8f6c1af4778"
+hash = "ccf7d1705457d9b716c20a1c1a859ecac8f3ab8c41fcf99ab5c2979477ca338d"
 metafile = true
 
 [[files]]
