@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/matchbox.pw.toml"
-hash = "729fb4e58fef53f46353df656804f1085afb24678eb7fd5dc2f7956bc64ec5ee"
+hash = "11049647422502049d2a72c7db7d2c325b8a19c1f1903c02ef79aa5a932f1236"
 metafile = true
 
 [[files]]

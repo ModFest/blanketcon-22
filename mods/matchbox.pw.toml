@@ -1,13 +1,13 @@
 name = "Matchbox"
-filename = "matchbox-0.2.3.jar"
+filename = "matchbox-0.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MwnoKRtL/versions/0.2.3/matchbox-0.2.3.jar"
+url = "https://cdn.modrinth.com/data/MwnoKRtL/versions/0.2.4/matchbox-0.2.4.jar"
 hash-format = "sha1"
-hash = "24f545f33290d74b344d8b8ef1ec2686d95b0041"
+hash = "e9787320c797981e6d48135c86a72ebbbfa62246"
 
 [update]
 [update.modrinth]
 mod-id = "MwnoKRtL"
-version = "YiGSMlc3"
+version = "WBs1LVHK"
