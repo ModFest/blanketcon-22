@@ -1,0 +1,8 @@
+name = "YUNG's Better Desert Temples"
+filename = "YungsBetterDesertTemples-1.18.2-Fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/964619892907188304/YungsBetterDesertTemples-1.18.2-Fabric-1.0.0.jar"
+hash-format = "sha1"
+hash = "412ecdc8a89d8af2e626eab4b2825f6a1f707011"

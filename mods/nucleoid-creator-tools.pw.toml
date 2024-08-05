@@ -1,8 +1,0 @@
-name = "Nucleoid Creator Tools"
-filename = "nucleoid-creator-tools-0.1.1.jar"
-side = "server"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/958513632419938394/959914160580362331/nucleoid-creator-tools-0.1.1.jar"
-hash-format = "sha1"
-hash = "d4bbc05fb18eea61a51d444eccc04de56f255a23"

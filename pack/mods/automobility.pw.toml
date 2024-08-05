@@ -1,0 +1,8 @@
+name = "Automobility"
+filename = "automobility-0.0.171.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984260690619559966/automobility-0.0.171.18.2.jar"
+hash-format = "sha1"
+hash = "36ad763224418021305ebcacba399a7aa6c474c9"

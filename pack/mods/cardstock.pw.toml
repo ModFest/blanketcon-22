@@ -1,0 +1,13 @@
+name = "CardStock"
+filename = "cardstock-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aRCm2gMr/versions/0.3.0/cardstock-0.3.0.jar"
+hash-format = "sha1"
+hash = "6a8c906d3dc5e5597e0fcf91cda50d0af818660a"
+
+[update]
+[update.modrinth]
+mod-id = "aRCm2gMr"
+version = "FzWUqSY9"

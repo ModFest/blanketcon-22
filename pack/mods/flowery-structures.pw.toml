@@ -1,0 +1,13 @@
+name = "Flowery Structures"
+filename = "flowery-fabric-10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "498d367a48b1f383c0ec6fc741cf47b9d664bf36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3757308
+project-id = 599263

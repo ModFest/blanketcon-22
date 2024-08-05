@@ -1,8 +1,0 @@
-name = "BlanketCon Cardstock"
-filename = "blanketcon-cardstock-1.0.21.18.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984763322677223434/blanketcon-cardstock-1.0.21.18.2.jar"
-hash-format = "sha1"
-hash = "da91110d6a02b45f84d3906ff1a46cfa0d62eec4"

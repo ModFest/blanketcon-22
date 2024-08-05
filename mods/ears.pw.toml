@@ -1,8 +1,0 @@
-name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
-filename = "ears-fabric-1.17-1.4.6.jar"
-side = "client"
-
-[download]
-url = "https://unascribed.com/f/d0eabcd4/ears-fabric-1.17-1.4.6.jar"
-hash-format = "sha1"
-hash = "ab21e0494fe71a89ccb733401f630dd56e87963b"

@@ -1,8 +1,0 @@
-name = "Quark: Demo Edition"
-filename = "quark_demo-1.0.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968298426196455475/968298648792334377/quark_demo-1.0.1.jar"
-hash-format = "sha1"
-hash = "391fcf503df5fcbba219dc43955579b2fd18847f"

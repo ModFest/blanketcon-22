@@ -1,0 +1,14 @@
+name = "Visible Barriers"
+filename = "visible-barriers-1.18.2-fabric-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajdfGxGU/versions/1.5.0/visible-barriers-1.18.2-fabric-1.5.0.jar"
+hash-format = "sha1"
+hash = "090a7725a78186ac3fcefdf63bf0fc6120c22d24"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ajdfGxGU"
+version = "OEo8FFen"

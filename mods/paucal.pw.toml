@@ -1,8 +1,0 @@
-name = "PAUCAL"
-filename = "paucal-fabric-1.18.2-0.4.6-pre-57.jar"
-side = "both"
-
-[download]
-url = "https://maven.blamejared.com/at/petra-k/paucal/paucal-fabric-1.18.2/0.4.6-pre-57/paucal-fabric-1.18.2-0.4.6-pre-57.jar"
-hash-format = "sha1"
-hash = "69049105889c9ef81ce192b6472ce89a325924d8"

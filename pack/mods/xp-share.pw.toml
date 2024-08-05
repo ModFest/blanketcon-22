@@ -1,0 +1,13 @@
+name = "XP Share"
+filename = "xp-share-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hH4ERkTZ/versions/1.0.0/xp-share-1.0.0.jar"
+hash-format = "sha1"
+hash = "64c1d803954d21c2ce33b5224b2e2512e2a32a97"
+
+[update]
+[update.modrinth]
+mod-id = "hH4ERkTZ"
+version = "ltXdX2pi"

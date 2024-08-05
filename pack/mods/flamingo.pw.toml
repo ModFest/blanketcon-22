@@ -1,0 +1,8 @@
+name = "Flamingo"
+filename = "Flamingo-1.18-1.19.jar"
+side = "both"
+
+[download]
+url = "https://squiddev.cc/r/jars/Flamingo-1.18-1.19.jar"
+hash-format = "sha1"
+hash = "14a6651c54f1119c02bf57cf9c15dcf89ec0a06b"

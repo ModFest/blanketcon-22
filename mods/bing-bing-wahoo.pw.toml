@@ -1,8 +1,0 @@
-name = "Bing Bing Wahoo"
-filename = "bingBingWahoo-2.0.0+1.18.f5aa0ab.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/974033031914471474/bingBingWahoo-2.0.01.18.f5aa0ab.jar"
-hash-format = "sha1"
-hash = "ef55f8ea52d181cefab5ec8f91f07dc1bc9f3ab8"

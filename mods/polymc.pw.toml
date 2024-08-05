@@ -1,8 +1,0 @@
-name = "PolyMc"
-filename = "PolyMc-5.0.0-pre.2-rev.3bbefa8+1.18.2.jar"
-side = "server"
-
-[download]
-url = "https://maven.theepicblock.nl/nl/theepicblock/PolyMc/5.0.0-pre.2-rev.3bbefa8%2B1.18.2/PolyMc-5.0.0-pre.2-rev.3bbefa8%2B1.18.2.jar"
-hash-format = "sha1"
-hash = "efec9a963af888c1217fef326fb82f3f27daed94"

@@ -1,0 +1,14 @@
+name = "Taterzen NPCs"
+filename = "taterzens-1.9.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vE972Kux/versions/1.18.2+1.9.6-fabric/taterzens-1.9.6-fabric.jar"
+hash-format = "sha1"
+hash = "55e3127177b82dee6629c4bd11006eca0f6e0039"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "vE972Kux"
+version = "7HV0XBEw"

@@ -1,0 +1,8 @@
+name = "Jamtastic"
+filename = "jamtastic-blanketcon-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984772308260519936/jamtastic-blanketcon-1.4.7.jar"
+hash-format = "sha1"
+hash = "47fd1fb791077bfb8e41c129201c69f15d2ac4ed"

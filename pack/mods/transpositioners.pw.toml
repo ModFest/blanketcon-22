@@ -1,0 +1,13 @@
+name = "Transpositioners"
+filename = "transpositioners-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NeHyEMY5/versions/0.1.2/transpositioners-0.1.2.jar"
+hash-format = "sha1"
+hash = "1e074e958b76db863b67bb3829b14d13a963548f"
+
+[update]
+[update.modrinth]
+mod-id = "NeHyEMY5"
+version = "kN0Ao5BP"

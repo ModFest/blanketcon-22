@@ -1,8 +1,0 @@
-name = "Aura"
-filename = "aura-mc-1.18.2-1.0.0-pre-alpha1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/maximumpower55/Aura/releases/download/blanketcon/aura-mc-1.18.2-1.0.0-pre-alpha1.jar"
-hash-format = "sha1"
-hash = "f3f932dd81a033759431f069765680c828f15fa3"

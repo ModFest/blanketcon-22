@@ -1,8 +1,0 @@
-name = "DestroyTheMonument"
-filename = "destroythemonument-1.0.1.jar"
-side = "server"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/985421930180001792/destroythemonument-1.0.1.jar"
-hash-format = "sha1"
-hash = "fc43752692f37227fecd643dc46d7e758de9c790"

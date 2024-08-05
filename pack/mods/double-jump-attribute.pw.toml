@@ -1,0 +1,14 @@
+name = "Double Jump Attribute"
+filename = "double-jump-attribute-1.18.1-fabric-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4nXV6zEk/versions/1.0.5/double-jump-attribute-1.18.1-fabric-1.0.5.jar"
+hash-format = "sha1"
+hash = "7853a3aed8d9f73a28390e68cfafd943f2e429f0"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "4nXV6zEk"
+version = "dlkUoqvM"

@@ -1,8 +1,0 @@
-name = "Dyeable Fishing Lines"
-filename = "dyeable_fishing_lines.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/973728080432611398/dyeable_fishing_lines.jar"
-hash-format = "sha1"
-hash = "e4341f2fe5ea1270a462320fc896cc3b086b4452"

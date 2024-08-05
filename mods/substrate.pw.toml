@@ -1,8 +1,0 @@
-name = "Substrate"
-filename = "substrate-0.1.3.jar"
-side = "server"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984837081119469568/substrate-0.1.3.jar"
-hash-format = "sha1"
-hash = "38281e49e510380ed242f9012ddc53c769cd7187"

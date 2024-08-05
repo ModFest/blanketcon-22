@@ -1,0 +1,13 @@
+name = "Witherite Plus"
+filename = "witherite-0.2.4-main.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ma6r21TG/versions/0.2.4/witherite-0.2.4-main.jar"
+hash-format = "sha1"
+hash = "118e5433bbbbc79d9dd05d16c22f50d1800cc7f0"
+
+[update]
+[update.modrinth]
+mod-id = "ma6r21TG"
+version = "duRdmpye"

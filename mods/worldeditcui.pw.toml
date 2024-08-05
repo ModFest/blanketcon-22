@@ -1,8 +1,0 @@
-name = "WorldEditCUI"
-filename = "WorldEditCUI-1.18.1+01.jar"
-side = "both"
-
-[download]
-url = "https://unascribed.com/f/2d57ead2/WorldEditCUI-1.18.1+01.jar"
-hash-format = "sha1"
-hash = "3d7e12a0707988aae9743745458f8539f24c19a2"

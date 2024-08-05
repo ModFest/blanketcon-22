@@ -1,0 +1,8 @@
+name = "PolyMc Showcase"
+filename = "polymcshowcase-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheEpicBlock/PolyMcShowcase/releases/download/1.4.1/polymcshowcase-1.4.1.jar"
+hash-format = "sha1"
+hash = "80354940bf18931d76be5a4af3f7965dde71208b"

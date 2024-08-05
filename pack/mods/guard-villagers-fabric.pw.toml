@@ -1,0 +1,8 @@
+name = "Guard Villagers (Fabric)"
+filename = "guard-villagers-fabric-1.18.2-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/674795434996269122/984200742485245982/guard-villagers-fabric-1.18.2-1.0.14.jar"
+hash-format = "sha1"
+hash = "0f92dbf207fac7b0b8f707f6fdfbdba784e91680"

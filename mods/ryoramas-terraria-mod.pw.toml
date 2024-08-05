@@ -1,8 +1,0 @@
-name = "TerrariaMod"
-filename = "terrariamod-1.0.8.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Ryorama/Terrariamod/releases/download/1.0.8/terrariamod-1.0.8.jar"
-hash-format = "sha1"
-hash = "df3279f99df5dc76d0db6e02570ad9c30adf65fa"

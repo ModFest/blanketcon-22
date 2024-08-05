@@ -1,0 +1,14 @@
+name = "PictureSign"
+filename = "picturesign-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WP2dmkk/versions/1.4.0/picturesign-1.4.0.jar"
+hash-format = "sha1"
+hash = "3ee5f175f49d34d3e341a15e22dc7a4f215aa0e4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "9WP2dmkk"
+version = "sp5zDrrv"

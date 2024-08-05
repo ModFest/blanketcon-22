@@ -1,0 +1,8 @@
+name = "Space Factory"
+filename = "space-factory-0.0.1-indev.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Reoseah/space-factory/releases/download/0.0.1-indev/space-factory-0.0.1-indev.jar"
+hash-format = "sha1"
+hash = "a4fad93b774b0fc9ab86900e0150bfd9174123d7"

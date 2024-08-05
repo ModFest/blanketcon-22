@@ -1,0 +1,8 @@
+name = "Bewitchment Plus"
+filename = "bewitchmentplus-1.18.2-16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/674795434996269122/984200673577029702/bewitchmentplus-1.18.2-16.jar"
+hash-format = "sha1"
+hash = "416762dab7e34fc4d447f45e0cb1aa97441e214f"

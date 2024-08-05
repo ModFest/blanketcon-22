@@ -1,0 +1,8 @@
+name = "Bed Wars"
+filename = "bed-wars-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/968781492899704862/984837079714377758/bed-wars-1.0.0.jar"
+hash-format = "sha1"
+hash = "41a1d143c962283b16a474326303d75cd21a0dcb"
