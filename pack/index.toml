@@ -693,9 +693,8 @@ hash = "3131db513150435dc5428188b4b7ce58373f3cd22589ba00fd419cc59f616f7a"
 metafile = true
 
 [[files]]
-file = "mods/space-factory.pw.toml"
-hash = "13047fec1372ff471713bc35cdb458e48d8bedb8251a33bec343825559fd41e2"
-metafile = true
+file = "mods/space-factory-0.0.1-indev.jar"
+hash = "1f7a1ec0751ec1f38f953c3c8533ad36580c2f33b117343587e0c5f287e8fb06"
 
 [[files]]
 file = "mods/spleef-1.0.0.jar"
