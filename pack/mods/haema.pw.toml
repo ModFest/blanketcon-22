@@ -1,8 +1,0 @@
-name = "Haema"
-filename = "haema-1.9.111.18.2-BLANKETCON.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984463127045345311/haema-1.9.111.18.2-BLANKETCON.jar"
-hash-format = "sha1"
-hash = "fc34492c88cd7a306a95810302b818606b9f9cbd"

@@ -1,8 +1,0 @@
-name = "Haema Extras Tech"
-filename = "haema_extras_tech-0.1.0+1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/983831230254567454/haema_extras_tech-0.1.01.18.2.jar"
-hash-format = "sha1"
-hash = "4f3d5e51e7efdd9e3d2b002ed4e0697801cca260"

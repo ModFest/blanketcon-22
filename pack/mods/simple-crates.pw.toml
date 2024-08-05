@@ -1,8 +1,0 @@
-name = "Simple Crates"
-filename = "simplecrates-2.1.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/957930008054202410/965634516913889350/simplecrates-2.1.1.jar"
-hash-format = "sha1"
-hash = "271f0452d48d4179ab9c5bcb9829c19ed4b632c3"

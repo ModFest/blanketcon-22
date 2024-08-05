@@ -1,8 +1,0 @@
-name = "BuildBattle"
-filename = "buildbattle-1.0.2.jar"
-side = "server"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/970009451635568730/buildbattle-1.0.2.jar"
-hash-format = "sha1"
-hash = "237699891635de5e3ddf8a2bfcc86696fd6f7d49"

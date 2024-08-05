@@ -1,8 +1,0 @@
-name = "LambdaMap"
-filename = "lambdamap-1.0.0-alpha.1+1.18.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/983540386708455474/lambdamap-1.0.0-alpha.11.18.jar"
-hash-format = "sha1"
-hash = "b3b51c367ba5875e287b37260a6b59daeea130e8"

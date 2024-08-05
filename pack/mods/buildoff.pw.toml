@@ -1,8 +1,0 @@
-name = "buildoff"
-filename = "buildoff-1.0.0.jar"
-side = "server"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984705748435091466/buildoff-1.0.0.jar"
-hash-format = "sha1"
-hash = "b92ef0c0c08e862687b85129cccd50e2bad2771e"

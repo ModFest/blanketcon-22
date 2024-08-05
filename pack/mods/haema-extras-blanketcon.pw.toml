@@ -1,8 +1,0 @@
-name = "Haema Extras BlanketCon"
-filename = "haema_extras_blanketcon-1.1.0+1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/983831230074195990/haema_extras_blanketcon-1.1.01.18.2.jar"
-hash-format = "sha1"
-hash = "c39e5f451ff256a1e3e918520cb747fe290b3ecc"

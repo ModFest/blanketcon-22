@@ -1,8 +1,0 @@
-name = "Botania (Fabric)"
-filename = "Botania-1.18.2-434-FABRIC-SNAPSHOT-20220606.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/983319527238541312/Botania-1.18.2-434-FABRIC-SNAPSHOT-20220606.jar"
-hash-format = "sha1"
-hash = "0acfd08df8a62a9ed9e7e29cd169436cd2ba2a9e"

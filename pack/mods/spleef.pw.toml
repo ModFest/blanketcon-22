@@ -1,8 +1,0 @@
-name = "Spleef"
-filename = "spleef-1.0.0.jar"
-side = "server"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/968781492899704862/984837080809087126/spleef-1.0.0.jar"
-hash-format = "sha1"
-hash = "d243084782c46745359e9acb8fc8f5228f792d2a"
