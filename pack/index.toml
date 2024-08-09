@@ -169,6 +169,11 @@ hash = "f9cef32e3d10443579b876ba8818394db7342b317b1fb151348cc6efdab48d2a"
 metafile = true
 
 [[files]]
+file = "mods/block_limit_fix.pw.toml"
+hash = "c0625a832fcf4384480a7589e6ad62018a790dc727829ab86b8a6c2c80c1c050"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1ea6ea3f92bd101ca382492ede67d8efe6ff33c3d197b4423ac7501b33aaad6d"
 metafile = true

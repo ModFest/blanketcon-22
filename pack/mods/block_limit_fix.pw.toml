@@ -1,0 +1,13 @@
+name = "Block Limit Fix"
+filename = "block_limit_fix-1.0.5-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oJtNN7Tj/versions/bc3BZk43/block_limit_fix-1.0.5-fabric.jar"
+hash-format = "sha1"
+hash = "d8f3d3e8806119d31cfa28ca4d6fd76c0b3eae85"
+
+[update]
+[update.modrinth]
+mod-id = "oJtNN7Tj"
+version = "bc3BZk43"
