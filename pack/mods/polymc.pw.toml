@@ -1,6 +1,6 @@
 name = "PolyMc"
 filename = "PolyMc-5.0.0-pre.2-rev.3bbefa8+1.18.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://maven.theepicblock.nl/nl/theepicblock/PolyMc/5.0.0-pre.2-rev.3bbefa8%2B1.18.2/PolyMc-5.0.0-pre.2-rev.3bbefa8%2B1.18.2.jar"

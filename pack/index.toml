@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "869c52aafca104aa51e05e9aece655a8cd05192be2c74098c48c11461044288b"
+hash = "0282c4b130b33ce7439c220d0e14d820513e6dd5fadee134144b6f6c4f5fc4e6"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "84558c024a575a8f96ebb33f1a13b207510b29b2daf23abea66cc86fec803873"
+hash = "0cb779af279c50fa35349ab65eff246229c57e3fa536d2a7a54c6fa622706e40"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/xp-share.pw.toml"
-hash = "3f3a5dbcd975baba3ff9db6bb42e0662efcce6bca8febd698c4d25858091c7b6"
+hash = "1fb49cfd5689b11be0addf78d863270a4fc04c656989cb7cbef29fa65081c6d4"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "XP Share"
 filename = "xp-share-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hH4ERkTZ/versions/1.0.0/xp-share-1.0.0.jar"
