@@ -10,7 +10,7 @@ A collaboration between 122 modders, as hosted by <a href="https://modfest.net">
 
 **BlanketCon '22** was an in-minecraft virtual event that ran from June 11th through June 15th, 2022.
 
-This modpack contains all mods from the event - and the showcase world, packed with community-made booths!
+This modpack contains all mods from the event - and the convention world, packed with community-made booths!
 
 **Key Features**:
 - Check out 92 convention "booths" built to show off mods, modpacks, and other modding projects!
