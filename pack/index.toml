@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6d1926aea1ce7eec29387a2cd1962cc0bf7d7d20263e64ef1253481e1e13a3f0"
+hash = "f4c2df200012bbabe5396857986631c811597325f16da5709037ad701a18a5b7"
 
 [[files]]
 file = "resourcepacks/TerrariaModAudioFix.zip"

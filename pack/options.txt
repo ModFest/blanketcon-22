@@ -2,4 +2,6 @@ version:3953
 skipMultiplayerWarning:true
 tutorialStep:none
 autoJump:false
-darkMojangStudiosBackground:true
+darkMojangStudiosBackground:false
+resourcePacks:["vanilla","purpeille/theinar","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","visualoverhaul/nobrewingbottles","visualoverhaul/rounddiscs","allium_generated"]
+quilt_available_resource_packs:["Black Icons","Classic Icons","White Icons","allium_generated","cardstock/retromc","computercraft/classic","enchancement/alternate_dash","extended_drawers/alt","file/Copper Legacy Pack.zip","file/TerrariaModAudioFix.zip","file/botania_textures.zip","file/polymc.zip","halfdoors/flatdoorcutters","programer_art","purpeille/old","purpeille/theinar","vanilla","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","visualoverhaul/nobrewingbottles","visualoverhaul/rounddiscs"]
