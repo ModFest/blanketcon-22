@@ -775,13 +775,12 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "a52587aee0a11386e38a11f62fbde9beed704bd8446ab837612e3a62ca3585e5"
+hash = "38c001dcd892a5db46a28b1f447be02f5ae477b78f8fd838b5fd6c431f3d12b7"
 metafile = true
 
 [[files]]
-file = "mods/witherite-plus.pw.toml"
-hash = "272eedf1bd19e1f032b3638f616b13db5e5e7c8dfd78d4110169de775ab0154b"
-metafile = true
+file = "mods/witherite-0.2.4-main.jar"
+hash = "781ca93c620c735dbf1302cecaa7a1ffd7adf5b09a20573dc080f370fa9058f5"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
