@@ -804,6 +804,10 @@ hash = "d6a16562d87213352758cc2a150c088ce9c2beb376cfdbaf005e6f4e920feab9"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "6d1926aea1ce7eec29387a2cd1962cc0bf7d7d20263e64ef1253481e1e13a3f0"
+
+[[files]]
 file = "resourcepacks/TerrariaModAudioFix.zip"
 hash = "6a0a4dd7caf22dcfdeee2aa5474233bf35d183573f00347b139ecf73446324f9"
 
@@ -814,3 +818,11 @@ hash = "0e1fefddfb788b8ee981334e88e990e2753615a73188f6a2064ccff290d96025"
 [[files]]
 file = "resourcepacks/polymc.zip"
 hash = "5b7a9ba293f9e1425a38f321e1842ccb046280a6709ab8e383dbdbd65e3a7eff"
+
+[[files]]
+file = "server-icon.png"
+hash = "1c1dd06efb77aab095f1695dc2b4b6da2ed4226ef9c2d5948476b76238adcf14"
+
+[[files]]
+file = "server.properties"
+hash = "e04351f0c9cb042a5710d5bf37f40a3ee16f8741ec142c23f30913be14b61518"

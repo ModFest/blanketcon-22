@@ -1,0 +1,5 @@
+version:3953
+skipMultiplayerWarning:true
+tutorialStep:none
+autoJump:false
+darkMojangStudiosBackground:true
