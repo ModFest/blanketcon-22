@@ -33,3 +33,5 @@ A full list of credits for each showcased mod can be found on the [submissions p
 BlanketCon '22 originally ran in the spring of 2022 with in-game talks, Q&A panels, and mini-events.</br>
 Check out the [ModFest website](https://modfest.net) to see more events, or join [our discord](https://discord.gg/gn543Ee) to tour or participate in the next event live!<br/>
 A playlist of video recordings from the original event is available [on YouTube](https://www.youtube.com/playlist?list=PLC1qq1Hb0u1GI8919iCClzb_Bku-DrL4L).<br/>
+
+![footer logo](https://raw.githubusercontent.com/ModFest/blanketcon-site/main/22/images/logo.png)
