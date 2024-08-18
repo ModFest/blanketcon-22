@@ -1,6 +1,6 @@
-name = "BlanketCon 2022"
-author = "The community!"
-version = "2022.06.22"
+name = "BlanketCon '22'"
+author = "ModFest"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
